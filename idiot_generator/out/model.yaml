@@ -1,0 +1,59 @@
+class_name: Sequential
+config:
+- class_name: Embedding
+  config:
+    W_constraint: null
+    W_regularizer: null
+    activity_regularizer: null
+    batch_input_shape: !!python/tuple [null, 40]
+    dropout: 0.0
+    init: uniform
+    input_dim: 55
+    input_dtype: int32
+    input_length: 40
+    mask_zero: true
+    name: embedding_1
+    output_dim: 512
+    trainable: true
+- class_name: Dropout
+  config: {name: dropout_1, p: 0.2, trainable: true}
+- class_name: LSTM
+  config:
+    U_regularizer: null
+    W_regularizer: null
+    activation: tanh
+    b_regularizer: null
+    batch_input_shape: !!python/tuple [null, 40, 55]
+    consume_less: cpu
+    dropout_U: 0.0
+    dropout_W: 0.0
+    forget_bias_init: one
+    go_backwards: false
+    init: glorot_uniform
+    inner_activation: hard_sigmoid
+    inner_init: orthogonal
+    input_dim: 512
+    input_dtype: float32
+    input_length: null
+    name: lstm_1
+    output_dim: 512
+    return_sequences: true
+    stateful: false
+    trainable: true
+    unroll: false
+- class_name: Dropout
+  config: {name: dropout_2, p: 0.2, trainable: true}
+- class_name: LSTM
+  config: {U_regularizer: null, W_regularizer: null, activation: tanh, b_regularizer: null,
+    consume_less: cpu, dropout_U: 0.0, dropout_W: 0.0, forget_bias_init: one, go_backwards: false,
+    init: glorot_uniform, inner_activation: hard_sigmoid, inner_init: orthogonal,
+    input_dim: 512, input_length: null, name: lstm_2, output_dim: 512, return_sequences: false,
+    stateful: false, trainable: true, unroll: false}
+- class_name: Dropout
+  config: {name: dropout_3, p: 0.2, trainable: true}
+- class_name: Dense
+  config: {W_constraint: null, W_regularizer: null, activation: linear, activity_regularizer: null,
+    b_constraint: null, b_regularizer: null, init: glorot_uniform, input_dim: null,
+    name: dense_1, output_dim: 55, trainable: true}
+- class_name: Activation
+  config: {activation: softmax, name: activation_1, trainable: true}

@@ -1,0 +1,4123 @@
+Idiot
+
+
+premišljeni konsenz kot takojšnjo valuto in samoopravičljivi
+etos, na katerem temelji določenost vsakdanjega življenja.
+
+Dragi Ian,
+
+Kapitalizem instrumentalizira vrednost, tako da jo monetizira.
+Mar lahko nenehna monetizacija vrednosti, ki smo ji priča —
+in ki postaja vedno bolj karizmatična z eksponentno rastočo
+močjo računskih strojev, ki jo ženejo —, v celoti vsrka
+zmožnost naravnega jezika za izpeljavo učinkovite etike in
+politike, s katero bi lahko opomenili, ovrednotili in se uprli
+kapitalizmu lastni zgodovini »vrednosti«? Z drugimi besedami,
+ali lahko zgodovina pismenosti še vedno vsebuje mogočo
+postkapitalistično prihodnost za uresničevanje, distribucijo in
+vrednotenje »premoženja« na drugačen način od finančnega
+kapitalizma, ki ima monetizacijo za edini legitimen izraz
+optimalne razporeditve vrednosti prek optimalno racionalnega,
+»svobodnega« in univerzalnega trga?
+
+odkar sva se prejšnjo pomlad skupaj pojavila na okrogli mizi
+Left Foruma o prihodnosti eksperimentalnega literarnega
+založništva, sem skušal jasno izraziti svojo intuicijo, da
+je najinemu razgovoru o »prihodnosti knjige« manjkalo
+nekaj ključnega. Po tem, ko sem prebral izjemno zgodovino
+razvoja prvega hitrega, naključno dostopajočega računalnika
+s hrambno matriko — Turingova katedrala: Izvori digitalnega
+univerzuma, avtorja Georgea Dysona —, se mi zdi, da sem
+prišel bližje izrazu tega, kaj naj bi ključno bilo. Dysonova
+knjiga prisili bralca, da se spoprime s predpostavko, da je
+koherenca vsakdanjega življenja, kakršno doživljamo zdaj,
+proizvedena s kibernetiko ukazov in nadzora, ki je znotraj svojih
+ekstralingvističnih, matematiziranih protokolov logike vsrkala
+in nadgradila lingvistične protokole tiskane pismenosti kot
+vladajočo tehnologijo univerzalnih komunikacijskih zmožnosti.
+Njegovo knjigo sem dojemal, kot da želi prikazati dejstvo, da
+je vsrkanje reprezentacijske zmožnosti znaka znotraj njegove
+instrumentalizacije, odklenjene z matematizirano računsko
+strojno mislijo, omogočilo, da je prisilna moč nadomestila
+
+5
+
+Ali niso to resnična vprašanja, ki zdaj stojijo za javno
+fascinacijo nad usodo tradicionalnega knjižnega založništva v
+globalnem poslovnem okolju, ki deluje pod taktirko digitalne
+in finančne logike vrednosti in kibernetike pod vodstvom
+podjetij, kot so Google, Amazon, Apple, Microsoft, Facebook in
+Twitter? Ali niso to ta resnično velika vprašanja, ki bi jih morali
+nasloviti z določeno mero refleksije v svojih mislih in svojih
+
+predlogih za ponovno vzpostavitev in ohranitev emancipatornih
+in proti avtonomiji stremečih zmožnosti tiskane pismenosti
+in neprofitnega založništva v današnjih digitalnih in povsem
+sfinancializiranih medijskih okoljih?
+Besedi »pismenost« in »branje« se ne pojavita v indeksu
+Turingove katedrale, Dysonove nezamenljive zgodovine izuma
+prvega računalnika (izumili so ga John von Neumann in njegovi
+sodelavci na inštitutu za napredne študije v Princetonu), »ki
+bi popolnoma izkoristil hitro naključno dostopajočo hrambno
+matriko in na ta način postal stroj, katerega koda bi bila najširše
+replicirana in katerega logična arhitektura bi bila najširše
+reproducirana.« Kljub temu mi moja intuicija narekuje, da
+nam Dyson ponuja zgodovino ključnega trenutka v zgodovini
+pismenosti. Kot matematiku, fiziku in računalničarju mu
+njegovo intelektualno ozadje omogoča, da na novo in morda
+daljnosežno postavi notranjo zgodbo o odklepanju dozdevno
+neomejenih moči številk matematikov in fizikov v intelektualni
+domet humanistov.
+Eden od Dysonovih velikih dosežkov je naslednje središčno
+vprašanje: ali John von Neumannova dozdevno uspešna
+aksiomatizacija logike in vrednosti skozi številke in računstvo,
+na kateri zdaj temelji univerzalna predpostavka globalne
+kibernetike in kulture potrošništva — monetizacija je vrednost
+—, morda do nas pride na račun človeške zmožnost, da bi se
+pravilno odzvali na potencialno transformativno odkritje prav
+tega matematika, namreč da je »konsistenco matematike
+nemogoče dokazati«?
+Dyson, humanistični zgodovinar tehnologije, nas privede prav
+do roba prepada sodobnega znanja in moči bolj uspešno, bolj
+elegantno, bolj nujno kot kdorkoli drug morda prav zato,
+ker je sam izkusil življenje znanstvenika in matematika, saj
+je odraščal prav na tleh Inštituta kot otrok dveh bližnjih von
+Neumannovih sodelavcev. Računalnik, ki zdaj nadzira toliko
+sodobnega življenja, je bil, ne pozabimo!, izumljen med
+letoma 1946 in 1953, ker so razvijalci tajnih orožij potrebovali
+točne in hitre napovedi o kompleksnosti učinkov eksplozij
+termonuklearnega orožja in se je ta naloga izkazala za povsem
+pretežko za računske zmožnosti človeškega intelekta.
+Predvidevam, da bo le malo bralcev k svojemu branju Turingove
+katedrale prineslo zadosten razpon znanja o zadostnem številu
+intelektualnih disciplin, da bi jo lahko v celoti razumeli. Zase
+vem, da mi ni uspelo. Toda to se morda ne bo izkazalo za
+šibkost, temveč za eno od prednosti Dysonove monumentalne
+knjige — če ji bo le uspelo sprožiti spremembo v zavesti pri
+delu mnogih naših najboljših mislecev. Morda jim bo Dysonova
+
+knjiga ponudila novo zavedanje o tem, kako se njihove
+individualne discipline križajo s širšim vzorcem sodobnega
+znanja, moči in odločanja, katerega »celota« je morda bolj
+grozljiva, kot jo je mogoče opaziti s kateregakoli sodobnega
+enodisciplinarnega gledišča.
+Dysonovo knjigo sem bral kot romanopisec in urednik, ki je bil
+izobražen kot zgodovinar. Največji dar, ki sem ga od knjige prejel,
+je bilo njeno razumljivo notranje poročilo o instrumentalizaciji
+militariziranih sil ukazov in nadzora, ki je implicitna v
+Turingovem in Von Neumannovem razumevanju računalniške
+tehnologije in njenega potencialnega stopnjevanja človeške
+misli. Dyson to stori s subtilnim vztrajanjem pri opisovanju
+norosti sodobne, vse bolj intenzivne instrumentalizacije, ki je
+zaprisežena vedno bolj učinkovitim in eksponentno rastočim
+aplikacijam kibernetičnih tehnik ukazov in nadzora.
+S tenkočutnim zapisom hladnovojne zgodovine razvoja
+uporabe novih tehnologij za sodobne različice vse bolj
+učinkovite dominacije Dyson prepričljivo dokaže, da njihova
+sodobna uporaba za namen maksimalne ekstrakcije profita
+korporacij znotraj militariziranega globalnega sistema držav
+nima ničesar opraviti s kakšnim univerzalnim, znanstvenim
+»zakonom« vrednosti, optimalno racionalnostjo ali »resnico«.
+Nasprotno, generativne zmožnosti matematičnega jezika,
+naravnega človeškega jezika in narave same nas napeljujejo
+na misel, da je današnjo podivjano, univerzalno monetizacijo
+vrednosti, zvezano s kibernetičnimi algoritmi, ki maksimizirajo
+učinkovitost za tiste, ki se z njo okoriščajo in jih vodi k uporabi
+metrike kot nadomestila za etiko, morda mogoče bolje
+razumeti kot prihajajočo slepo ulico militarizirane hladnovojne
+civilizacije, iz katere še nismo uspeli najti nikakršnega izhoda.
+
+se bo bralstvo spustilo v proces zbliževanja in razumevanja
+njegove knjige. (Turingova katedrala je nacionalna prodajna
+uspešnica.) Branje navsezadnje ustvari skupen komunikativni
+horizont misli v odnosu z mislimi drugih, ki sega daleč nazaj v
+čas, preden si je sodobni kapitalizem zadal nalogo, da govor
+nauči jezika tržne vrednosti.
+Pismenost, akt branja, ki ga ta knjiga predpostavlja, bo na
+voljo tudi po tem, ko bo sodobni sistem odpovedal. Toda taista
+pismenost, morda skuša pojasniti Dyson, se bo morala pred
+tem izviti iz primeža sedanje instrumentalizacije in vsrkanja v
+korporativno menedžirane metrike maksimiziranja ekstrakcije
+profita, če hoče realizirati svoj osvobodilni humanistični
+potencial pri ustvarjanju nove, nemonetizirane misli.
+Kakšno bi bilo dejansko eksperimentalno, neprofitno literarno
+založništvo, če bi si za svoj ultimativni cilj zadalo eksplicitno
+ustvarjanje (v kontekstu sodobne globalno administrirane
+strukture ukazov in nadzora) interpretativne skupnosti bralcev
+in piscev, katerih namen bi bil realizacija neinstrumentalizirane,
+nemonetizirane namenske izmenjave prevedljivega človeškega
+govora v kontekstu moderne egalitarne razsvetljenske obljube
+o historičnem skupnem?
+Nadvse rad bi poznal odgovor na to vprašanje in zdi se mi, da
+boste ti in tvoji kolegi avtorji pripomogli pri ustvarjanju tega
+odgovora.
+Z ljubeznijo,
+Peter
+
+Kljub vsemu, kar Dyson ve o silnih lepotah in moči novih
+redov misli, ki jih omogočajo računalniki, Turingova
+katedrala iz samega osrčja znanosti in matematike zavrne
+možnost avtoritete za trenutno instrumentalizacijo ali tržno
+racionalizacijo intelektualnega življenja. Njegova knjiga,
+nasprotno, postavi skorajda eksplicitno trditev — zgodovina,
+ki jo beremo, zgodovina aplikacije nekaterih najboljših
+misli človeškega uma znotraj današnjih monetiziranih in
+militariziranih korporativnih struktur ukazov in nadzora se
+naglo približuje prepadu. Ustvarili smo svet, pokaže Dyson, v
+katerem se moramo, če ga hočemo pravilno razumeti, vprašati:
+»Kaj, če je cena strojev, ki mislijo, ljudje, ki ne?«
+Intelektualna tehnologija, ki jo uporabi Dyson za
+argumentiranje svoje zahteve po drugačni etiki odločanja —
+in ki se asimptotično približuje drugačni obliki komunikativne
+recipročnosti —, je seveda humanistična pismenost, s katero
+
+DRUGI DEL: ZALOŽNIŠTVO KOT SKUPNOST BRALCEV
+Dragi Peter,
+obožujem idejo literature kot neke vrste rezervat, prostor,
+kjer lahko misel in jezik iz časa in prostora pred in onkraj
+kapitalizma še vedno obstajata in se razvijata. Obožujem tudi
+skrivno intuicijo, ki jo taka misel šepeta — da bosta jezik in
+misel, ki ju kapitalizem ni zmožen asimilirati, živela znotraj
+njega in ga tudi preživela (vsaj, če bo to uspelo človeštvu).
+To je po mojem mnenju ultimativen odgovor na vprašanje,
+zakaj je totalizirajoč korporativni diskurz, v katerem smo se
+znašli, tako antitetičen do literarne produkcije: saj je zavzeto
+branje samo po sebi nekakšna obljuba o času po kapitalizmu (ki
+je za izgubljene duše vedno vzrok in zdravilo in vedno cveti ob
+lažni retoriki neizbežnosti in trajnosti). »Govor se konstituira v
+drugem« — se pravi, naša sposobnost mišljenja in povezanosti
+prek jezika je radikalno odvisna od recipročnosti in univerzalne
+enakopravnosti, ki jo implicira skupno, ki je jeziku imanentno.
+Literatura po svoji naravi meče luč na prihodnost in na
+preteklost proti poljani, na katero nam Amazon prepoveduje
+vrnitev.
+In kaj lahko »založništvo« (s čimer vedno mislimo »skupnost
+bralcev«) pomeni v teh temnih časih? Kot ti bi si sam rad
+zamislil model, v katerem bi bralec knjigo izpopolnil — se
+pravi, neko različico založništva, ki bi ustvarjalo in negovalo
+skupnosti živahnega kritiškega odziva. Te skupnosti, za katere
+je splet popoln prostor, se bodo morda izkazale kot bistven
+laboratorij pri poskusih, kako privleči nazaj na dialektično
+površje Atlantido pismenosti, ki jo google s pajdaši kar naprej
+potaplja. Morda so to prvi koraki k ponovnemu odkritju tiste
+vrste vrednosti, ki je nikoli ni mogoče pretvoriti v denar.
+Za vse to se zdi, da nas zavezuje k stvaritvi neke vrste literarnega
+repertoarja, tezavra v prvotnem pomenu besede, zakladnice.
+Pri Dalkey Archive Pressu so storili nekaj podobnega, ko so
+sestavili seznam draguljev modernizma in novega romana,
+s katerim postavljajo okvir sodobnim delom, ki izidejo pri
+njih. Pri The New York Review of Books so nedavno pritegnili
+nemalo pozornosti, ko so ponatisnili opus Renate Adler. Njenih
+knjig, čeprav jih je veliko in niso bile več v tisku, ni bilo nikoli
+težko najti, zato se zdi, da so z dejanjem ponatisa hoteli bolj
+zakoličiti neko usmeritev (»te knjige spadajo sem«), kot pa
+skušali izboljšati dostop do njih. V obeh primerih založnik
+odigra vlogo, ki je podobna vlogi kustosa ali arhivista: izbor del
+po splošno občutenem in pozneje izoblikovanem sorodstvenem
+ključu brez ozira na komercialno ali pedagoško uporabnost
+
+7
+
+izbora, ki se tako ustvarja. Zakaj se ne bi vprašali, »kateri
+je tisti antikanon, katerega modi operandi in čarovnije so
+zasnovale neko partikularno agendo, ki jo sodobni avtorji
+interpretirajo na novo in ki odzvanja v skrivnostnem prostoru
+lingvističnih srečevanj, zaznamovanih z branjem?«
+To si predstavljam kot dvotirni sistem založništva, kjer je
+lahko frontlist produciran na ustaljen način (črnilo na papir, z
+elektronskimi edicijami v pripravljenosti), backlist pa obstaja v
+spletnem arhivu (in tisk na zahtevo bi ga napravil dostopnega
+tudi sovražnikom dreves). Frontlist te vrste bi bil priložnost
+za označevanje trenutnih dogodkov v jeziku — tako novih del
+in svežih prevodov. Glede backlista v takem modelu — no, saj
+je splet napravil dostopno že več ali manj vse, toda, kot so
+opozorili že vsi od Vannevarja Busha do Davida Graeberja,
+preveč razpoložljivosti pravzaprav omeji dostop, tako da nas
+preplavi z več možnostmi, kot si jih sploh lahko predstavljamo.
+Namesto tega si zamišljam skrbno izbrano naročnikom dostopno
+spletno knjižnico, ki lahko ustvarja premičen kontekst, znotraj
+katerega se bodo izdajala nova dela — prilagodljiv, intrinzično
+začasen okvir za nenehno rekonstrukcijo pomena.
+Za to delo — kultivacijo skupnosti pomena skozi branje in
+odziv — bodo morali poprijeti založniki. Te vrste založništvo
+bi zadevalo, kot večina založništva, predvsem iskanje do tedaj
+nedostopnih tekstov in njihovo prinašanje na plan, toda tudi
+risanje zemljevidov sorodnosti vzdolž pokrajin in zgodovin
+literature, razkrivanje nepoznanih in celo eksotičnih povezav
+ter odkrivanje zanemarjenih intelektualnih družin.
+Da bi založniki ostali relevantni, bodo morali najti način, kako
+napraviti križišča teh aktivnosti za epicentre bogatega dialoga
+med bralci, pisatelji in uredniki. Ne bom se pretvarjal, da lahko
+predpišem, kako se to bo ali kako bi se moralo zgoditi, toda
+poznam eno reč, ki lahko pomaga, in ta je, ne po naključju,
+v domeni uspešnih založnikov že od Johannesa Gutenberga
+dalje: brezobzirno navdušenje nad lastnimi knjigami.
+Model, o katerem govorim, založnikom ne bo pustil nobenega
+prostora, da bi bili odrezavi ali tehnokratski. Obstajati bodo
+morali jasni razlogi, estetski ali ideološki, za vse knjige, ki
+se bodo pojavile na njihovih seznamih. (To pa ne pomeni,
+da bo vsaka knjiga potrebovala široko občinstvo, preden bo
+izdana. Občinstvo ene same osebe lahko upraviči tisk knjige,
+če je ta oseba prava.) Bralci bodo tako smeli zahtevati jasne
+razloge, zakaj se je določena knjiga pojavila pred njimi —
+takojšnji korporativni profit, bodoče komercialne priložnosti,
+možnost filmske adaptacije in posebne usluge avtorjem
+bodo seveda vključeni med mogoče odgovore (s kritičnimi in
+
+interpretativnimi posledicami za delo, o katerem bo tekla
+beseda).
+Kljub skorajda nezaslišani količini proizvodnje sodobne
+založniške industrije se obrobje literature šibi pod pritiskom
+knjig, ki moledujejo, da bi se jih natisnilo, in ki bi jim model,
+ki ga opisujem, izjemno koristil. En primer je Moskva–Petuški
+Venedikta Jerofejeva, delo, ki je bilo že nekajkrat prevedeno
+(prevedel ga je tudi William Tjalsma), toda ne v izjemni
+Vagriusovi izdaji iz leta 2000, v kateri so vključene ekstenzivne
+opombe Eduarda Vlasova, ki rigorozno preišče njegove mnoge
+citate, odmeve in zakulisne spopade s stoletji ruske literature.
+Drug primer je odlična poezija Jareda Whitea, ki jo informira
+široka skupnost prisotnih in odsotnih pesnikov in vitalno
+uporablja poetiko lirične disrupcije in tenkočutno reprogramira
+glasove in oblike — kjer zmotno pričakujemo, da bomo našli
+trdnost pesmi — v mesta neprepoznavnosti in navdušenja.
+Za založnike, ki bi hoteli prevzeti tak model, bosta nujna
+tudi doseganje in zaščita popolne neodvisnosti — s tem
+mislim uredniške neodvisnosti od tistih ustanov (vključno z
+univerzami), ki jih bodo financirale in, kar je še bolj nujno,
+neodvisnosti od trgov in kapitala. Za take vrste založništvo
+bo nujno ustvarjanje večje mere prihodkov, kot jih lahko
+pričakujejo od prodaje svojih knjig. Premetenost — celo,
+kakor bi temu rekel genialni založnik in romanopisec Eugene
+Lim, »parazitstvo« — založnikov se bo morala tako ponovno
+fokusirati in usmeriti na novo. Takšno založništvo bo delovalo
+bolj kot muzej ali kot arhiv, torej kot ustanove, katerih fiskalne
+akumulacije idealno služijo kot zapora pred nasiljem trgov, in
+ne kot gorivo zanj.
+Upam torej, da je to, kar opisujem, poziv k modelu založništva,
+ki je paradoksalno tako vzvišen kot demokratičen. Vzvišen v
+smislu, da so njegove osrednje aktivnosti izbor, ohranitev in
+prenos tekstov; vzvišen, saj je založnikova naloga instigiranje
+stika s teksti, ki naj definirajo svet; vzvišen, saj je primarna
+naloga teh tekstov, da presežejo parametre obstoja, ki nam
+ga ponuja naše dnevno življenje; demokratičen, saj je njegov
+cilj premikanje razmejitve zaznavnega med enakopravnimi
+posamezniki, odpiranje prostora za dialog, s katerim lahko
+izrazimo egalitarne oblike vrednotenja, ki jim bodo nato lahko
+postale odgovorne drugačne oblike vrednosti (kot denar, kot
+politična struktura).
+
+oblike vrednosti. Z ulico in barikadami vred. In kar mislim s tem,
+je, če pogledamo na reč s praktičnega vidika, da potrebujemo
+jezik, ki bo nadomestil analitični stroj kot središčno silo v naših
+dnevnih določitvah prisotnosti in odsotnosti v svetu. Procesi
+odločanja morajo biti povrnjeni jeziku, saj je jezik kljub vsem
+svojim neuspehom in nepremostljivim prepadom edini formalni
+simbolni sistem, ki je dovolj prehoden in prilagodljiv, da lahko
+zrcali kompleksnost in neuresničene možnosti človeškega
+družbenega življenja.
+Če bomo na prizorišču, ki so ga grozovito izmaličile
+katastrofe računstva, znali razrešiti daljnosežne konflikte
+brez medsebojne likvidacije in povrnili v življenje dejansko
+politiko, skozi katero bodo preteklost, prihodnost, notranjost
+in zunanjost kapitalizma podvržene družbeni odgovornosti
+do univerzalnega človeškega interesa, potem je jezik —
+formalno konstituiran kot egalitaren prostor skupnega branja
+— še vedno najboljši mogoči prostor za ustvarjanje, zbiranje,
+prevpraševanje in vrednotenje trditev. In v tem trenutku, ko
+so enice in ničle skoraj popolnoma iztrebile tradicionalen svet
+založništva, se morajo založniki spet začeti zavedati svoje
+svečeniške in demokratične dolžnosti čuvajev ognjišča jezika.
+Še zadnja stvar, ki bi jo rad povedal: čeprav sem zavzel precej
+resnoben ton, bo vse skupaj ena velika zabava. Naš vložek ni
+nič večji od življenja in na tej točki nimamo kaj dosti izgubiti.
+Večino tega, kar moramo storiti, lahko storimo skozi igro in
+za temeljni kamen svojega dela lahko postavimo to, da sta
+branje in razpravljanje o prebranem med največjimi užitki
+sveta. To je pustolovščina, ki jo v šolo pretihotapimo znotraj
+učbenika. Pismenost je prostor, kjer nam je lahko mar, kjer
+lahko odraščamo koristno zmedeni, kjer se lahko učimo drug
+od drugega. Jutri bo sneg. Dobro spi.
+Z ljubeznijo,
+Ian
+
+Izvirnik objavljen na
+www.quarterlyconversation.com
+
+V literaturo moramo povrniti neke vrste sveto bojevništvo,
+skupnostno militantstvo za ponovno vzpostavitev besede —
+ne kot nekakšne himerične, brezstatusne diskurzivne sfere,
+temveč kot ključno snov, skozi katero bodo ustvarjene vse
+
+9
+
+UROŠ
+PRAH
+
+OBJESTNI PEC
+
+Segati vanj /kot/
+trzniti — bolščati — malo bruhniti
+kislo lužico /spraviti
+to zadnjo polovičko iz sebe/
+nagibajoč se čez kislo polovičko
+vdihniti zimo
+biti bolje
+namočiti glavo v nek sod v kotu
+se postaviti predme, zreti,
+kako plešem, se zvijam in se stegujem —
+zgrabiti kožo na hrbtu, objestno
+povleči gor.
+
+Sem ščene, poscan
+strah, prah —
+besen vase, tresoč
+se postavim, rečem nekaj
+kot: bejž bek; pa
+kaj ti ni jasno; daj mir;
+ne m…
+
+Pa tebe je strah, ti
+odurni neznanec, ti čudno
+zbrano nasilje, napet potencial
+svinjarije, zdaj zdaj
+poškropljene čez mene —
+
+Po 62 letih na tem svetu nekaj
+vem. Ničesar ni za očmi človeka,
+ki mi sedi nasproti, ki pije z mano.
+
+Bežal bom pred vami, ker —
+hitro bom šel, saj —
+pospešil korak, se
+zdrznil — mrgodil —
+znižal pogled, ko —
+vstran glej —
+vdihnil plitko.
+
+Vsi smo en pogled vstran od zloma.
+
+-TRG-
+
+Vsi se neopazno tresemo.
+Ne me pozdravljat. Kar hočeš
+je, da ti rečem: kul si; no,
+nisi kul.
+
+O, brat, težko
+gledam mizerijo tvoje sreče.
+Neka nerazumljiva krivica je
+zataknjena med nama. Mama.
+Ne spomnim se, kaj se je zgodilo,
+da te ne maram, morda
+si bil moj drugi sovražnik.
+
+-ODLOK-
+
+Zdaj sem, kar sem.
+Tudi če ne pišem,
+ostajam, kar sem postal,
+silim se
+v ta zvezek.
+
+Ne,
+pusti me, moj
+jezik je star in strt,
+izmozgan — še čisto malo sočna
+kost — beg/tek/bek
+ti pravim, pojdi, pojdi —
+bom, bom bežal, bom šel,
+bom gledal vstran.
+
+11
+
+Vsi besni in trezni, brezvezni in bledi in v bedi.
+
+Pesnik je torej tezo postavil,
+da se novo proizvede zgolj v samoti
+in je šel v samoto,
+pa je tam že nekdo bil.
+
+-NOROST JE ODSOTNOST DELA-
+
+Stisk, prsnik —
+vpnem
+v gnev
+2.3.5. faza tiska
+tekst torej zbit in čudno
+vraščen v dlan
+gre čez
+srčno stran teže.
+
+O, o, o,
+bolj dol, Dane —
+kjer se lišaj v sluz obrača,
+kjer se črna v črno vrača,
+tam plesem.
+
+Iz sključitve bo tudi tu nekaj zraslo
+iz na eni strani stisnjenih,
+zdrgnjenih in na drugi
+razmaknjenih vretenc —
+
+Tako te iz zasede obsede bližina.
+Nič ni skupaj —
+vse je blizu —
+ime mi je ekonomija.
+
+Ustvarjanje pogojev za delo
+čakanje —
+mišljenje smerno
+topi čut
+telo nemo
+sit, sit, več
+popolna odsotnost lakote —
+vse v kurcu,
+ampak ne gre slabo —
+med solidarnostjo
+in zavedanjem, da se investira,
+kot teče kri na ulicah —
+sram reči kri —
+ustvarjanje pogojev, torej
+delati za možnost dela
+pridobivanje sredstev
+gradil, organiziral, premeščal
+pridobil
+sredstva
+za produkcijo
+vsebin
+viri, vidiš, vidiš on!
+on nekaj ima, on hoče,
+pogruntal bo, privezal to
+hišo, da ne bo tako
+prosto drsela.
+
+-TRGET-
+
+Zato bom tekel na ta vrh, ta
+vrh te gore, s tem krokarjem,
+soncem in vetrom in opremo in
+sendvič pojedel in potem bom
+tekel dol in pol bom
+dremal v avtu in potem
+bom bluzil doma.
+
+BLAŽ
+IRŠICˇ
+
+Škorec s seznama,
+ne bom objesten do svojih učiteljev;
+za kaj takega so me
+premalo naučili —
+
+KRATKE PESMI ZA TISTE, KI NE MARAJO DOLGIH PESMI
+JEZUS, RASIZEM IN USODA
+»Ti, Jezus … zadnjič sem malce razmišljal … pa saj za Žida si
+jo še dobro odnesel. Kaj praviš?«
+Slovenci in odpoved in Slovenci
+»Šef! Aleksander zjutraj ni prišel v službo!«
+»Aha … Verjetno se je obesil …«
+
+LJUDJE
+»Oče! Na dvorišču je gruča ljudi. Videti so razburjeni.«
+»Da, George. To so Indijanci. Bodo že odšli.«
+
+Zdaj sem, kar sem.
+Tudi če ne plešem,
+ostajam,
+kar sem postal,
+silim se —
+
+SOSED IN ŽIRAFA
+Kupil sem si žirafo.
+Zdaj imam eno žirafo več kot sosed.
+
+Kje si,
+prijatelj?
+Vselej
+šele ta,
+ki prihaja.
+
+LISTJE NA VRTU
+Ljubezen …
+Zblazniš,
+Ližeš piško,
+Se naveličaš,
+Odblazniš,
+Razpadeš,
+Zakolješ prašiča,
+Pogrešaš,
+Pograbiš listje na vrtu,
+Pozabiš
+In spet si na začetku.
+Stari, dobri kandidat za župana Vrhnike.
+
+13
+
+PESEM, KI BI JO LAHKO NAPISAL KATERIKOLI MOŽ, KI
+VSTAJA OB PETIH
+Vstani, obrij se, delaj!
+Že vstanem težko …
+Deloholiki so zajebali ta svet,
+Rešijo ga lahko le lenuhi,
+Vendar vse skupaj je malo verjetno.
+Opisal bi vam občutke,
+a jih nimam.
+Olatunji je udaril po bobnih
+In očistil svet pritlehnosti,
+Reinhold Messner je stopil na vrh Mont Everesta in ugotovil,
+Da bo moral nekako priti dol,
+Jaz pa sem vstal ob petih,
+Da bi delal, delal, delal.
+Čeprav bi raje gledal, gledal, gledal
+Sončni vzhod.
+Pomislil sem …
+Rad bi bil Vincent van Gogh,
+a bi rad obdržal uho,
+rad bi bil Marquis de Sade,
+a bi rad obdržal ugled,
+rad bi bil Mihail Gorbačov,
+a ne bi rad izgledal kot nekdo,
+ki se mu je šoja usrala na plešo.
+Tisto noč sem blestel z izgovori.
+»Kje si bil tako dolgo? Večerja je mrzla!« si rekla z mrazom v
+srcu.
+»Jaz in Radovan Karadžič sva skisala eno veliko skledo repe.«
+»V redu. Toda dogovorila sva se, da boš do osmih doma.«
+»Pravila so zato, da se jih krši,
+Čustva zato, da se jih skriva,
+In ure zato, da imajo športniki sponzorje.«
+Obrila si se …
+Nadišavila …
+In zaspala pred televizorjem.
+Pojedel sem mrzlo večerjo in jo poplaknil z mrzlo vodo.
+Radovan mi je drugi dan povedal,
+da je tudi on jedel mrzlo večerjo.
+Bridka je bila smrt Evrope, Srečko,
+A tebi vsaj ni bilo treba živeti v mrtvi Evropi
+Ali pa vstajati ob petih.
+
+CUNJA
+
+KAKO SVA SE Z BOGOM RAVSALA ZA ŠČEGETAVČEK
+
+STARKE, VINO, LA VITA
+
+Začel sem delati v neki fabriki.
+Zgodilo se je spontano.
+Nekdo je rekel: »Bon Jovi.«
+Jaz sem rekel: »Preveč diabolično zame.«
+Predin je rekel: »Ualabladala.«
+In tako sem se znašel v prostorih,
+Kjer te poskušajo umoriti,
+Vsak dan,
+Že zelo zgodaj.
+»Sinko, zdaj si naš. Pazi na službo kot na boga.« Mi je dejal
+nekdo, ki redno obiskuje volitve.
+VSAK GLAS ŠTEJE!
+»Kot na boga?« sem se začudil.
+»Vedno sem mislil,
+Da on pazi name.«
+To je bilo obdobje,
+ko sem si redno umival hrbet, ramena, gležnje, rit in trebuh.
+Želel sem biti pošten.
+Obsedel me je hudič.
+To se je videlo že,
+če si samo na kratko pogledal moja umita ramena.
+»Ostati moraš lev!« sem si govoril.
+»Ostati moraš lev tudi takrat, ko ti hijene vzamejo plen.«
+Spomnil sem se tete Štefke.
+Dejala je, da jo je dedek vsak dan pobožal po ritki
+in ji šepetal svinjarije na uho.
+»Izgubila sem otroštvo …« je govorila Štefka.
+Jaz sem izgubil pet let v želji, da bi vzljubil Joy division.
+In zdaj sem se znašel tukaj,
+Kjer me skušajo umoriti.
+Prijelo me je scat.
+Odšel sem na stranišče,
+Opravil,
+Si umil roke, ker sem skušal biti pošten,
+Nato pa zagledal cunjo za brisanje rok.
+Bila je umazana, kot bi v njej okopal Mengelejev nasmešek.
+Obrisal sem si roke, ker sem skušal biti pošten,
+In odšel nazaj med morilce.
+
+Ko sem prvič lizal tvoje mednožje, se mi je zdelo,
+da skuša še bog vsiliti tisti svoj dolg jezik zraven
+in tiste roke, ki so ustvarile Izrael in Palestino.
+Skušal sem te dobiti na svojo stran,
+Želel sem zmagati.
+In če želiš zmagati, si ne želiš boga za nasprotnika.
+Tam smo bili,
+Med tvojimi nogami,
+Bog, jaz in obup.
+Nato pa si zaklicala njegovo ime
+Ooo, bog …
+Izgubil sem,
+Preboleti sem moral še en poraz,
+A tokrat je bilo enostavno,
+Nihče ne zmaga,
+ko se združita bog in ženska.
+
+Rada bi, da te silovito udarim z bičem,
+Kurbe Azurne obale,
+Guverner Alabame,
+Spomenik Jožeta Plečnika
+In toyota celica
+So mi priča, da mi ta ideja ni všeč.
+V kotu sobe, kjer se ni uresničila še nobena želja,
+Se mi je skozi napol speče možgane odvalila beseda
+UNTERMENSCH.
+Imela si zares globok izrez.
+Hitro sem stopil na stran muslimanov in ti rekel:
+»Ljubi Alah! Ali morda jaz hodim po ulici in kažem precejšen
+kos svojih jajc mažoretkam,
+punčkam, ki delajo kolesa na travniku,
+in ženicam, ki skušajo preboleti menjavo vlade?«
+Včasih bi se rad ponovno rodil,
+Vendar ne v Ruandi …
+Lahko bi bil Grk ali opica,
+Natepaval bi kako staro ženico,
+Vedno, ko bi prišel k njej, bi me najprej vprašala,
+ali sem kaj lačen,
+Dovolila bi mi, da jo kličem Boris,
+Zjutraj bi dolgo poležavala,
+Sklonil bi se k njej in preveril, ali še diha,
+Nato pa vstal, oblekel gate, ploskal in poskakoval …
+Lepinja je neke vrste kruh.
+Jutro me je našlo v zelo slabem stanju,
+Ljudje brez zdravega razuma bodo vedeli, o čem govorim.
+Res sem potreboval spremembo,
+Bil sem kot slepec, ki se boji teme.
+Nekoč je prišla mimo,
+Bila je verna gospa, potem pa se ji je bog nekaj zasral.
+Pil sem ceneno vino.
+Najboljše stvari so zastonj,
+Najslabše stvari so zelo poceni.
+Po vsakem požirku sem zadrževal bruhanje v ustih
+In ga nato junaško pogoltnil.
+Gospa, ki je nekaj hudo zamerila bogu, je medtem že odšla,
+Kasneje mu je odpustila,
+Imela je veliko srce, v katerem ni bilo prostora zame.
+Nič se ni spremenilo.
+Sedel sem na klopi ob zeleni reki, goltal svoje kozlanje
+In nehote slišal stara tovarniška delavca,
+Ki sta se odpravljala na delo:
+»Samo, da je petek, a?« je rekel prvi.
+»Zakaj?« je vprašal drugi.
+
+15
+
+MONIKA
+ˇ
+VRECAR
+
+MANITOBA I
+Nič ni bolj čudnega od svetlobe, kadar je osvobojena reliefa.
+Kako se razlije, kako vibrira, kako boli. Čas, ki ga pije. Sonce.
+Nočem noter, hočem zmrznit kot velika zlata sfinga, svetel
+pesek, ploščatost zemlje. Če oblačnost je, je enakomerna
+in razpotegnjena čez vse horizonte. Izčrpuje toploto iz bitij,
+izpareva jo v svoje generatorje. Rože žilave in lesene štrlijo
+iz poročnih šopkov mešanih nevest. Te se ne morejo dovolj
+prezahvalit za nove mikserje, katerih rezila sugestivno gledajo
+izpod svilenih mašenj. Venčki režejo ušesa, puder se briše v
+ovratnike, otroci. Dekleta se spotikajo ob gramoz, ob kupe
+nerazumljivih ledenih kep, ki srkajo toploto iz koktejlov.
+Mislim, jaz samo opažam. Opazovalec življenja in njegov
+spojler. Če se kdo obriše vame, je to zato, ker me zamenja za
+zaveso. I hate to share my light. xx
+Moji gležnji zatekajo, zato sedim na školjki s petami na tleh.
+Ko pogledam pod predelkom kabine, vidim še dvoje nog s
+petami na tleh. Nobena ne lula, to je enkrat ena. Ko so pedrski
+dizajnerji ženskam dvignili pete, zakaj niso dvignili še prstov
+— a la štirje tiči, en podplat. Brcnem vrata s svojim bosim
+stopalom, ženske boleče čakajo, kdaj bodo lahko hladile
+podplate na poscanih ploščicah. Ena ovija štrclje poročnega
+šopka v mokre brisačke. Vložek se sikajoče odlepi od plastike
+in nalepi na perilo. Novi valovi toplote brizgajo iz maternice
+direktno na plastične luknjice always in forever. To vem, pa
+sploh nikoli nisem videla ženske. A sploh obstaja? A sploh rabiš
+bit živ za tele zadeve, rečem in priča me bedasto pogleda.
+Ne štekam. Dokler naju smrt ne loči, pizda! A zdej štekaš?
+Zeleni sladkorčki in kanapejčki in obraščki in metuljčki.
+Kozlanja polna skleda. Hrček — lička, rep — lisička. Loputanje
+sunkovito poriva poscan zrak po plesni dvorani. Zgleda, da vse
+te prvinske vonjave moške kar po kemično topijo pod sabo.
+Okej, zavpije življenje, a se lahko zdej skoncentriraš na lepe
+stvari! Mmmmm. Invalidi. Na plesišču. Štiri noge, dva kolesa
+(gume, ki zgledajo nove). Noge enega mlahavo opletajo, noge
+drugega trdno na tleh, povzročajo silo zaradi katere noge
+prvega opletajo. V enem trenutku jo prime za pas in dvigne
+iz sedeža. Dekca in nageljček padeta iz naročja na tla. Folk ju
+pohoja. Noge bingljajo. Čevlji ji popadajo z bingljajočih nog.
+On jo pa še kar po tleh vleče kot mrtvega otroka.
+Čez dve uri že fukata. Ni čist jasno, če njej sede cela scena,
+ker ženska ne more govorit. Ampak njene oči kričijo na pomoč.
+In to ga rajca. Ona nekaj maha z rokami, dokler ji on ne
+poklekne na zapestja, kar približa njegovega kurca precej blizu
+k njenemu obrazu. No, ni še čist kurac. Zdej so še smešne v
+bokih napihnjene ta lepe hlače in pod hlačami ima tip najbrž
+
+17
+
+gate, sej ni žival. Ampak ona dobro ve, da gre v bistvu za
+kurca, da ga lahko sluti, da je tam spodaj, da se premika, da
+je pohoten, da bo zaokrožil pred njenim obrazom preden ji
+ga bo porinil v usta. Valja ga med zobmi, ampak ga ne upa
+ugrizniti, ker se boji, oziroma njena vest jo prepričuje o tem.
+Sam ona ve, da ni čisto res in da ji paše končno met meso v
+ustih, pa tud če od tega šestdesetletnega na pol pedofila. Ta
+lepe hlače so še kar tam, samo kaže da kmal ne bojo več, ker si
+tip začne odklepat pas. Nekaj ritualnega je v tem odpenjanju
+pasu, zbuja skoraj sveto pričakovanje. Kaj bo s pasom? Kaj bo
+s tistim, kar pas zaklepa? Klipsna rožlja in usnje se odteguje.
+Tip le nima gat. Tip je žival. Zapestja postajajo plava, ampak
+noben ne opazi, ker ona je preveč zatopljena v kurca, on je
+preveč zatopljen v kurca in v to, kam ji ga bo najprej vtaknil.
+Pizda je tole prednost, da tamala ne more brcat, pomisli, ker
+ni čisto prepričan, če je tale zadeva popolnoma prostovoljna.
+Potrepla ji kurca po ustkih in čudo čud, tamala stegne jezik,
+kar povzroči to, da tip skoraj pade s postle. Zdej šele pas
+zares stopi v akcijo. Nič ni bolj čudnega od svetlobe, kadar
+je osvobojena reliefa. Kako se razlije, kako vibrira, kako boli.
+Čas, ki ga pije. Sonce.
+
+MANITOBA II
+
+MANITOBA III
+
+Zarez v srečo, zarez v srečno plat življenja. Zasek v smrt. Če tí
+čevlji pašejo k temu pasu, pa če ta pas paše k tej kravati, pa
+če si sam, pa če si v dvoje, pa če se ti zdi narobe, da dajejo
+jabolčni sok v jagodni smoothi. Pa če je tvoj amount napitnine
+primeren stopnji poneverjanja prijaznosti, pa če je tvoj naglas
+dovolj vzhodnoevropski, da prekrije, da je balkanski. Pa če ti
+je všeč to mesto, pa če ti je všeč to, da maš kam it po filmu
+in te ne zebe, pa če ti je všeč, da je stanovanje okuženo s
+prvovrstnimi pikapolonicami. Pa če jebeš Starbucks, pa če ližeš
+Parlor, pa če odfukaš TB ker je poneverba. Ko te moram gledat.
+Ko te moram gledat zamižim od bolečine dokler se svet ne
+premakne za sekundo bližje. Ko se te moram dotikat, brišem
+zrak s kretenj, brišem svobodo, brišem svoje veje, lomim svoje
+veje, brišem svoje mesto v svetu, ki ga ni.
+
+Že samo uporabiti besedo srce, v okoliščinah, ki so tej besedi
+tuje. Nobenih prispodob. Recimo. Emily me je prišla iskat ob
+17.30. Večerja in ples sta bili na trapastem lesenem gradu, ki
+so ga par let nazaj postavili namesto (ne pa na mestu) starega
+gradu, ki ni bil niti star in so ga pač podrli, da bi preorali zemljo
+v parkirišče. Na srečo je imela s sabo najlepšo dojenčico, ki je
+bila hkrati moja vata. Me prav zanima, kdaj se ta naklonjenost
+potem prevesi v perverzijo. Da te prime od tega da ščitiš in
+previdno ravnaš, do tega, da bi speštal, požrl, zlorabil, posilil.
+Od kod pa ta otrok? Ves bel in radoveden. Poln potenciala za
+vtise še docela neraziskanega sveta. Ja, to je fajn, otrok samo
+čaka, da zraste. Ob pultu Jonah pokaže name, jaz naročim,
+potem pa on vstavi svojo kartico v terminal. Tako doživljam
+denar kot nekaj docela abstraktnega, bolj kot besedo, nič
+takega, kar se direktno veže name, kar določa moj obstoj.
+To dobro dene moji produktivnosti, v smislu, da jo izpodbija.
+Nisem lena v grešnem smislu, temveč iz principa. What’s the
+point, what’s the point. Od kod pa misliš, da je prišlo vse tole;
+pokaže na piščanca in kokosovo vodo, kar me zmede... Od kod
+pa JE prišlo vse tole? Najbrž moja ljubezen SI zasluži, da je
+sita.
+
+Ko gre vse v kurac me objameš in zašepetaš, da bi me rad
+pofukal, ker sva edini dve človeški bitji še živi in morava od
+začetka zaplodit človeštvo. In morava od začetka zaplodit nove
+otroke, nove vojake, nove električarje, nove morilce, morava
+zaplodit nove ženske, nove brisalce resnice, nove slečneže
+na morski rivi, ki sijejo svoje rake na drugo stran vesolja. In
+morava zaplodit nove storilce sveta. Vrstni red v rjavi tekočini
+prevelikih mest, statistični delež pokrajin z majhnim naravnim
+prirastkom. Vse to morava zaplodit na novo, dokler mi pička
+ne zarjavi od drgnjenja, in ker dež pada nanjo, ker so strehe
+vse pozabljene. Učasih briše ceste na drugo stran besed,
+knjige so zastrupljene s pomenom, jaz uzrem, Malik gleda ves
+presenečen, da je Bog za njim, da mu gleda čez ramo, da se
+mu reži. Ves zaprepaden nad lastno naivnostjo in zmoto. Da
+je skozinvse spregledal belo, ki je vseprisotna, ne pa barve, ki
+jih slika njegov film kao film, ne pa revščina, ki kar sama pada
+pred oči navdahnjenim umetnikom, brezno, ki drži nad sabo
+vlažen zrak, sanje, v katerih nič ne zre vate, omrežje mladih
+senc namesto smrti, omrežje zla, ki seje dno vesolja, ki seje
+seme v dno vesolja, da bi porodilo (s)misel.
+
+V gradu ni nič takega, kar bi si zaslužilo opis. Polno nakičene
+praznote je. Praznih frizur, praznih trepalnic, lukenj med
+nogami, praznih kalorij. Tam so prazne knjige, tam je
+prazen krompir, ki si ga nalagajo na krožnik. Srce izrezano v
+odpadke. Vse zelo barvito, kot praznota ponavadi je. Čutim
+jo naravnost skozi želodec. What is the best poem you ever
+read? Must be... Tibor Hrs Pandur... do you know him? No
+idea. Nekakšen miren in popustljiv obup. In da se ti vdanega
+skažem ti danes posvetim, svoje oči, svoja usta, svoje ušesa,
+svoje srce. Sebe popolnoma vsega. Samo roke čutim, v katerih
+držim otroka. Potem mi nekdo stisne ramo, in za trenutek
+čutim samo točno ta del, na katerega se izvaja pritisk. Toliko,
+da ne spustim otroka iz mlahavih rok. Emily jo prevzame, da
+se lahko rokujem. Vse to podajanje; vselej neke tuje roke,
+trapasto. Izsiljevanje, ki ni čustveno, je telesno. Telesno, ki
+ni čustveno, je verjetno mehansko. Srce, ki teče pravilno, ki
+nič ne trza, ki se zgolj vda. Sebe popolnoma vsega. Samo roke
+čutim, v katerih držim otroka. Potem mi nekdo stisne ramo,
+in za trenutek čutim samo točno ta del, na katerega se izvaja
+pritisk. Toliko, da ne spustim otroka iz mlahavih rok. Emily jo
+prevzame, da se lahko rokujem. Vse to podajanje; vselej neke
+tuje roke, trapasto pomislim. Pritisk izgine. Potem pa; šok
+skoncentriran na trdo kožo pri mezincu, ki razgrebe majhen
+delček moje dlani. Kolena mi potrzajo in skoraj se sesedem, ko
+naenkrat vse zbledi v ozadje in samo oster rob mojih čevljev
+
+19
+
+se zažre v nenavajene pete. Otrok zajoka, prostor zavibrira,
+mamice se spogledajo, mašnice se zapletejo med sabo, samo
+virtualno seveda, nekdo naroči viski, jaz ne vem kaj bi, ker
+hočem aktivirati še druge dele telesa, s katerimi je elektrika
+začasno prekinjena. Nimam spomina kako dvigniti roko, kako
+skleniti prste okoli oblike, kako se spopasti s težo na pokončen
+način in potem — smešno — se mi začne kolcat. Vibracije, ki
+prihajajo iz želodca mi nekako resinhronizirajo razpadle vtise
+v celoto. Uspe mi dvigniti kozarec, ampak že sama ta gesta,
+tako polna same sebe, navajena in brez pomena. Po-pij te-kočino. Kakšen fantastičen dan, dan ko so odpadli vsi konstrukti
+kot npr. ničvredna kurba. Inflacija pomena je deflacija smisla.
+Skozi vse modele vidim dol v gnojnico besede, beseda, ki je
+bila na začetku. To je — pred stvarstvom, pred vesoljem, pred
+upogibanjem pomena v mrtve metafore. Živa zmožnost jezika
+je v njegovem naključnem izbruhu nečesa nepričakovanega
+— prva molekula življenja. In ničvredna kurba (?) — paradoks
+sam po sebi (kurba je vredna kolikor naj se jo plača) — pri
+štirinajstih sem bila ful kurba v zavesti majhne punčke, ki se
+je čutila ogroženo, ker sem se sama sprehodila mimo otroškega
+igrišča in potiho fascinirala njeno krdelo. Osami se, pa boš
+povzdignjena v boginjo, mučenico, kurbo, sveto mati. Moja
+nadzemeljska vloga v obrambni simbolizaciji tiste punčke.
+Majhna punčka je odrasla v kritičarko, ki hoče VEČ od mojega
+pisanja, kar seveda pomeni, da hoče manj od mojega pisanja.
+Da iz preproste lepe modre kurbe nazadujem na naslednji
+arhetip mučenice. Uboga punčka, brleča zvezdica zaspanka,
+članica tega in onega tabora, freelance đađmentalistka,
+tudi jaz hočem več od tvojega pisanja, precej več! Hočem,
+da tvegaš, da napadaš nevarnost tako, da ji nimaš možnosti
+ubežati skozi naklepno operiranje kritiških key words, češ,
+meni enaki bodo že razumeli. Hočem, da je tvoj poklic tisto, za
+kar si bil poklican, ne pa, kamor padeš kot frnikula v luknjico
+na dnu marjance. Ne, nočem tvojega prekomernega in na vse
+enako nanašajočega se entuziazma. Hočem pa, da nehaš tlačit
+živa besedila v neko izumrlo vejo izgovarjanja in da enkrat
+in za vselej prevzameš odgovornost za tisto, kar s tabo dela
+tekst.
+
+MITJA
+DRAB
+SPAL SEM DESET MINUT, ZDELO SE JE KOT URE
+Potem so me zbudili koraki s stopnic, preplavila me je groza,
+da bo nekdo vdrl v razmetano sobo, in vstal sem v maniri vojaka,
+ki ga v jarku zbudijo eksplozije leta 1915. Na živce si grem, zdaj,
+ko vidim, kako sem svojo ranjenost nosil okoli zapestja kot kos usnja.
+Vihal rokav in ga brezsramno kazal vsakemu, ki ga je zanimal ali pa
+kar tako. Vem, ni bistvene razlike. Ostajamo razboleli in tudi v prihodnje
+si to lahko obetamo. Prizadejamo rane, ki so globlje, kolikor bolj si prihajamo
+bliže. »Davek na dodano vrednost,« bi najbrž rekel Frank in vsi tisti čudoviti
+ljudje, ki so hodili med pisanimi taksiji in odprtimi kanalizacijskimi jaški
+s soncem na obrazu. Eno je res: naše oči skačejo od črke do črke, dihamo,
+živimo, tukaj smo v sredini vsega, kar v resnici potrebujemo, v mestu,
+ki smrdi po novem letu. Letos sem po mobitelu poslal tri voščila trem
+popolnoma naključnim znancem. Voščila zato, ker me neumni mali rituali
+polnijo z začudenjem. Naključnim znancem zato, da bi kronično pomanjkanje
+domišljije skril pred tistimi, ki jih rad objemam močno in z obema rokama,
+s katerimi posedam in tekmujem v klevetanju tega mesta. Z nastopi,
+vrednimi najboljših državnih tožilcev, prepričujemo ostale in sebe,
+sebe in ostale, da je samo še vprašanje časa, preden zapustimo te ulice,
+zamenjamo to življenje za neko drugo. Toplino skupnega minevanja
+smo iz nenapovedanega gosta že zdavnaj vzgojili v domačo žival.
+Jutra plimujejo ob naših posteljah. Večeri se približujejo od daleč in se
+ustavljajo ob peronih. Kot počasne lokomotive.
+
+21
+
+ZAČETI OD ZAČETKA
+Pobrisati stran, skriti sledi.
+Kaj nas meče v ravnovesja, za katera vemo,
+da se bodo prej ko slej porušila?
+Lahkotno lebdeti nad suho vsakdanjostjo, izbirati prijatelje,
+ki vedno vejo, kako naprej. Drsati po ledu prihodnosti,
+kot bi nalašč iskal luknjo, okoli katere Eskimi v risankah lovijo ribe.
+Letala niso za nas, vlaki niso za nas,
+opotekanje po potkah, sledenje drobtinam kruha v gozdu.
+To je odveč.
+Kaj reči, ko ni več odgovorov, ko se pojaviš na vratih v zimskem
+plašču in greva noter, mimo kleti, v njej pa zehajo duhovi časa?
+Ko leževa v posteljo in ni nikogar v moji izkušnji?
+Nekaj dni zatem sem na dež postavil vrečko
+in poslušal kapljice, ki so trkale po plastiki.
+Pomirjalo me je.
+V nočnih urah na plan pridejo najhujši človeški nagoni.
+Tako kot pisanje.
+Osamljenost v meni me ne teži toliko, kot osamljenost vseh,
+ki so živeli pred mano. V tem bi bil rad jasen. Ni me strah smrti,
+ampak deklet, ki bodo posedala po parkih in gledala sonce,
+ko bom samo še ime na kamniti plošči.
+S krhkimi ljudmi sem previden. Počasi in poslušno jih vabim k sebi.
+Ženem se za močjo, ki je nikoli ne izkoristim, ko sem na njenem pragu.
+Dnevi ostajajo tovarne, ki proizvajajo večinoma slabe sanje.
+Ne bojim se sveta na splošno, le njegovih skrivnih koordinat.
+Rekla si mi, da se vse spreminja, razen oblakov,
+ki plavajo nad tabo. Ali je res pomembno?
+Zmanjka besed, kot masla pri zajtrku.
+Zakaj bi sploh karkoli pričakoval?
+Ne izbiramo namesto sebe, ampak namesto drugih.
+Od mene se pričakuje, da najdem skrito substanco,
+da iščem trenutke, ki svetijo kot frnikole v večerni svetlobi.
+Hvala, ampak to res ni zame.
+Skrbno odmerjati dneve, kot inzulin po jedi,
+ležati ves črn pod razklanim nebom.
+Nadomestljivi smo. Vprašanje je, za kakšno ceno.
+V vsakem primeru se goltamo in se nikoli ne naveličamo.
+Naša življenja na premici časa. Kot luči tovornjaka,
+ki prek puščave drvi proti polžu, ki išče hrano.
+Kak manifest za svoj modus operandi iščem po steklenih površinah,
+ki se kopičijo okoli mene, zloščene od negotovosti.
+Kaj, če se nikoli ne vrnem?
+Kdo me bo pogrešal?
+Katere roke me bodo sprejele in kako trden bo objem?
+Biti isti človek dvakrat. Govoriti stvari, ki jih nihče ne pove.
+Biti isti človek dvakrat. Govoriti o stvareh, ki jih nihče ne pove.
+
+GAŠPER
+TORKAR
+
+23
+
+PALPITACIJE, VOL. 1
+20. JUNIJ 2013
+Prišel sem v obdobje, ko sem zmožen proslaviti ljudi, ki se
+me dotikajo, samoto, ki me nenehno obdarja, in zmožnost
+artikulirati, da se nahajam v prostoru, ki bi brez mene sicer
+še vedno obstajal, ampak da sva kljub temu drug drugemu v
+uteho in zagotovitev, da sva si ob strani v vseh stvareh, ki še
+pridejo, ki so neznane in ki vsebujejo določeno količino mojega
+vpliva.
+Mi smo ta prostor. Naprej nas vodi vprašanje. V nas odpira svet,
+ki smo mu tuji in ki se z nami želi pogovoriti pred nadaljnimi
+posegi. Moramo ga prepričati, da ne moremo nikamor razen
+v njegovo prehodno resničnost in da se tudi mi želimo
+pogovoriti o nadaljni integraciji in študentskih izmenjavah.
+Naju obvezujejo besede, toda kaj obvezuje njih? Zagotovitve
+in obljube, ki se jih morda držimo, morda ne. Sprejmemo jih
+v vednost. Če so iskrene, že zgolj izrečene spremenijo stvari
+na bolje.
+Prav: razumem vpliv tvojega obstajanja in ga sprejmem.
+Upam, da mi ne želiš nič slabega. Ampak hkrati tudi potiho (in
+v spraševanju, ali naj ti povem ... v spraševanju, če je sploh
+treba, da ti povem) upam, da boš ti sprejel moj neizogiben
+vpliv in vdiranje v tvoj prostor, kjer plešem in kjer se veselim in
+proslavljam tebe in svoje telo, moje večno drugo, na katerem
+je točka, kjer se stikava, in vir vseh posledic: naj pridejo!
+Dobrodošle so.
+Počutim se odprtega in se zavedam svojega počutja in odprtosti
+in upam, da bo ta prehod, zavetje in ranljivost, zaupam, da bo
+še dolgo obstajal in ostal odprt. Sili me, da bi rekel: še dolgo
+potem, ko mene in morda tudi tebe več ne bo, ampak ne vem,
+kaj to pomeni in kaj sledi, in to me navdušuje.
+Skleniva, da lahko o naju, ko naju več ne bo, govorijo
+svobodneje, in si v sebi sploh dovoliva to možnost, da bodo o
+naju govorili, kot nenehno opombo in obvezo, kajti zakaj ne?
+Morda sem se naveličal tako imenovanih naključij in njihove
+simbolike. Morda sem se naveličal naveličanosti in si lahko
+končno dopustim sprejeti svojo preprosto, temeljno željo: biti
+močneje.
+
+20. JUNIJ 2013
+Now is the essence of my domain and it contains
+all that was and will be.
+— Saul Williams
+Zdaj je moje bistvo in vsebuje vse, kar je bilo, in vse, kar bo.
+Zdaj je obdobje, ki ga mislim, in domena, od koder vam ne
+bom pustil oditi. V zdaj smo odrinjeni.
+Vse hočem zdaj. Vsa stanja, vse očitke, vse premike, vsa
+razumevanja. Hočem, da damo na mizo vse karte, potem
+hočem, da izpraznimo žepe. Hočem, da se slečemo in damo
+na mizo vse svoje obleke in potem še vsa svoja telesa in vse
+svoje misli in potem nas bom, ne vem še kako, ampak nekako,
+prisilil, da se prenehamo sramovati vsega, kar nas veže skupaj,
+da iz nečesa izvlečemo glasbo, utihnemo in plešemo.
+Tudi če mi bo kdo rekel, da se obnašam kot otrok ali da se
+naj sprostim in doživljam stvari malo bolj/manj resno — ne:
+hočem biti otroški in ranljiv in sem otroški in ranljiv. Hočem
+biti otročji in aroganten in sem otročji in aroganten. Hočem,
+da mi rečeš, da sem otrok. Hočem, da me ozmerjaš s tem:
+otrok! To bom nosil kot oklep, ga potem odložil in od tebe
+zahteval, da narediš kaj, da si fizičen; bodi analogen z mano!
+In če berete ali poslušate te besede in vas morda, upam,
+veseli, ker ste se za trenutek znašli v tej pesmi in moji glavi,
+potem hočem, da se zavedate, da se tudi jaz zavedam vas,
+kako mi popuščate, kako zrete v mene kot v polprepustno
+zrcalo. Zavedam se vašega dvoma in trdnega prepričanja:
+poznam ju, moja stara prijatelja sta. Veseli me, da ju poznaš
+tudi ti in da naju to skupno poznanstvo druži in povezuje in
+uči. In hej, ti, oprosti, če te moti, ni mi žal, da te nagovarjam
+kot znanca, ampak bi si slučajno kdaj želel postaviti kakšno
+vprašanje skupaj z mano? Bi si slučajno kdaj želel biti skupaj z
+mano povsem prepričan?
+Trenutno sta na svetu dve neverjetno močni sili, nujni potrebi,
+ki se jima želim in moram podrediti: biti sam in se s tabo
+pogovarjati. Hočem biti sam in hočem ti brati. Hočem, da me
+prekineš, hočem čisto zares, da me nehaš poslušati in da zapreš
+to knjigo ali mi vzameš oder, nočem govoriti z njega. Hočem,
+da me posedeš nazaj med ljudi ali me zvlečeš na posteljo in
+se končno ljubiš z mano! Ah, nič ne bo, še vedno sva globoko
+pogreznjena v nerodnosti, najraje bi zbežala daleč stran, še
+se bova morala osvajati, poslušati, ignorirati, še bova morala
+nadaljevati to igro pantomime, ugibanja in razočaranj.
+Upam, da sem s tabo, in ne zgolj na drugi strani šipe, in da
+se me lahko, če želiš, dotakneš: dovolim ti, spodbujam te,
+nagovarjam te: hočem, da me pomiriš in mi rečeš: bodi zdaj
+tiho in mi potem kaj poveš ali prebereš tudi ti ali da si tudi ti
+zgolj tiho in pustiš, da se počasi oba pogrezneva v zavedanje,
+
+da lahko tišina spregovori kot v očeh nasprotnikov pred
+soočenjem, ljubimcev pred ljubljenjem ali neznancev pred
+srečanjem.
+Daj, ti se odloči za smer, ki naj jo ta tišina, ta pesem ubere.
+Vem, da me lahko raniš. Vem, da me lahko, če želiš, raztrgaš,
+ampak raztrgam lahko tudi jaz tebe. Upam, da te moja
+odločitev preseneti. In potem boš na vrsti ti: preseneti tudi ti
+mene. Samo odloči se! in se igraj z mano! Oponašajva živali!
+Prekini me med besedo z večjim navdušenjem! Vstopi v mojo
+sobo, zakaj ne? Sem res tako slaba oseba? Ali te res tako zelo
+sovražim? Izzivam te; hočem, da me udariš; hočem, da pljuneš
+name; hočem, da me sprejmeš kot brata in objameš!
+Samo ne reci, da je prepozno. Zahtevam čas, hočem še zdaj.
+Ampak počasi se zavedam svojega pisanja in tega, da me še
+nihče ni prekinil. Kaj to govori o meni? Kaj to govori o tebi?
+Jaz sem pesem in kot tak se nočem končati. Kot pesem sem
+tukaj s tabo in sem sam. Kot pesem sem zdaj in sem bil in bom,
+kot pesem me sovražiš, kot pesem te ljubim, poskušam ljubiti,
+kakorkoli — naj telo naredi razliko. Poglej vame: ali razumeš,
+da sem pesem in da se kot tak nočem in ne morem končati? Je
+to slabo?
+Če je zima, hočem, da mi v glavo vržeš sneženo kepo. Če je
+poletje, hočem, da me potunkaš. In če v prehodnih delih leta,
+ko je moja svetloba protislovna, obtičim globoko v blatu, me
+primi močno za lase in povleci. Mogoče bodo moje kričanje,
+upiranje in bolečina znak za nadaljevanje, ne — znak za
+začetek ljubezni.
+
+23. AVGUST 2013
+Včasih se mi zdi, da ljudje v mojem pogledu vidijo človeka, ki
+je zmožen odgovarjati na dogodke, ki še prihajajo. V resnici se
+dan in noč dvigneta neodvisno od mene in me spustita na tla,
+ko ne potrebujem biti bitje, ki nenehno ustvarja vrtoglavico
+hrepenenja in pohitreno bitje srca po vsakem dotiku;
+radoveden sem, neroden. V resnici ni pomembno, koliko sem
+izgubljen ali koliko navidezno samozadosten je moj pogled.
+Mogoče bom dovolj ljubljen, da preživim življenje. Mogoče bom
+dovolj poškodovan, da bom ljudem okoli sebe želel pokazati
+nekaj, česar nihče od nas še ne ve, da obstaja: nevaren, temen
+nasmeh v pritličju prihodnosti, obraz ljubimcev, staršev v želji
+po nadaljevanju: nesmrten obraz. Vse je. In če noči nočejo
+več trepetati pred poletjem, ognjemeti, tekmo, je moj pogled
+podvojen: sodoben, poln zanesenega dvoma. Biti eno sam s
+sabo, biti eno s ciljem neusmerjene, žareče ljubezni, biti eno
+s praznino. Nisem še srečal človeka, ki bi bil eno s čimerkoli.
+V zrak sem vrgel žogo in nazaj je priletelo srce in za trenutkom
+zanosa se je v prestrašeno telo naselila tišina. Če je otroštvo
+bilo in je priklicano nazaj, je otroštvo neresnično, poseljeno z
+ranami. Če je telo šahovska figura in so misli karte, potem sem
+povožen in ne znam igre, ki bi jo lahko igral po prašnih hodnikih
+med spalnicami. Nič več. Sprt sem, trmast. Naivnost, prisrčna
+stran ignorance, me vedno manj varuje. Vse, tudi ljubezen, se
+počasi zapira v pripoved. Vse se redči že vse naše življenje,
+in tudi ko smo se že skoraj dotaknili, se je vesolje nenadoma
+začelo širiti hitreje.
+Pogovori med ljudmi mi govorijo, da je moj strah neupravičen,
+da bomo še nekaj časa vadili nihanje dnevov in noči, letnih
+časov, generacij. Upam, da naših življenj ne bo nihče uprizarjal
+na odru ali platnu, razen pod pogojem, da je igra pristnejša.
+Upam, da naših življenj ne bo nihče tlačil v dokumentarce
+z igralci, ki v naravi zamaknjeno recitirajo poezijo, in z
+družinskimi člani, ki se z grenko-sladkim priokusom spominjajo
+naših vsakdanjih ritualov, ki naj bi povedali nekaj o nas. Vseeno
+pa upam, da bo nekaj, karkoli ostalo od vseh dni, ko se je bilo
+treba postaviti nasproti samoumevnosti, zlobni sestri tišine, in
+noči, v katerih smo morali biti prepričani, da nekam vodijo, da
+bi jih preživeli.
+Jutra in večeri vztrajajo v svojem dviganju in spuščanju in
+intenzivnost naših prizadevanj tudi. Pretaka se iz dlani v misel,
+iz misli v dlan, skozi eno uho noter in skozi drugo srce ven.
+Skozi čas, skozi ritem. Skozi, skozi, skozi. Dovolj časa bomo
+ponavljali, da bo čas izgubil obliko. Nikoli je ni imel. Čas
+družinski prijatelj, bednik čas.
+Tako delujem zmedeno, tako si nasprotujem. Tako strmim
+v okno in v njem vidim sebe, ki zrem vase in hkrati skozi
+sebe, skozi okno v okna drugih ljudi, ki zrejo skozi okna vase
+
+25
+
+in v druge ljudi. Povsod smo. Povsod sem jaz, povsod si ti,
+podvojeni smo, razčetverjeni.
+Čutim, da se nekaj pripravlja posebej zame. Nekakšen bel prt
+na nekakšni leseni mizi. Praznovanje bo zame in jaz se ga bom
+sramoval. Sramoval se bom udeležbe, ker vem, da bom v njej
+ljubljen, pričakovan z odprtimi rokami. Če sem nehvaležen,
+sem slab človek? Vse to je še vedno svet, ničesar ne spremèni.
+Če že kaj, ustvari prostor, kjer so mogoče samo spremembe, in
+opazuj, kaj se zgodi.
+Kako potem moj pogled odgovarja stvarem, ki še pridejo?
+Nemiren sem.
+
+VESNA
+LIPONIK
+O PSU
+privezan na verigo
+ko je sam
+čaka drugega psa
+privezan na verigo
+ko ni sam
+želi da drug pes
+odide
+
+II.
+zvečer se vrnem k reki
+njeni golti
+slutijo morijo
+sedem obnje
+gladim jih
+iz sive sprhnine
+gomazi
+ribje vejevje
+v brazdah omračitve
+stika
+za rastjo
+na konstrukcijah tkiv
+njihove sence
+prožno molčijo
+ko že trgam
+gobasto vabo
+ko že vonjam
+sramotne koščice
+konj brezna
+zatopota s kopiti
+tretjega jezdeca
+kačja riba priplava
+po motnem mokrem hodniku
+in za hip osvetli
+fotelj
+v sluzastem rdečem plišu
+
+RIBE
+I.
+ob večerih dolgo čakam na obrežju
+da priplavajo
+ulovim jih
+in ubijem
+tolčem ob kamen
+dokler telo ne utihne
+dokler ne trzajo več
+nato jih zavijem
+v debel volnen omot
+in zagrebem
+v mrko suho prst
+da so na varnem
+da jih ne vidim
+svetlikajočih polzečih prikazni
+da jih je manj
+da jih je vsak dan manj
+
+GRADNJA
+zdaj si izdelovalec
+zdaj si pred težko nalogo
+ti ki nisi nikdar gradil
+kako boš
+kako s temelji
+kako
+les se grobo vsaja v prst
+dolgo gledaš
+da bi kdo prišel
+kot je zmerom
+in obzidal
+tvojo mehko nemoč
+nikogar ni
+zdaj zidaš sam
+majhno bajto
+z vrati in oknom
+
+nikogar ne bo
+ta bajta bo samo tvoja
+tvoje gomoljaste roke
+tvoj zamolkel obraz
+bo v njej
+vlačiš na kup
+bukev
+smreko
+vse je stvarno
+in otipljivo
+to si potreboval
+samo to
+tesaš
+zibel
+maternico
+steklo ti mezi izpod čela
+hladno surovo
+žival si
+ki koplje
+jazbino
+za svoj zarod
+za svoji roki
+nepokojen si
+dokler ne stoji
+bajta
+majava
+trhla
+dolgo gledaš
+da bi vstopil
+primeš
+primeš kljuko
+in si notri
+in si v njej
+žival prične rjoveti
+pade tram
+stene
+dolgo gledaš
+potem pride nekdo drug
+zdaj je on izdelovalec
+zdaj bo gozd poskrbel zanj
+kot je poskrbel zate
+
+27
+
+MLEKO MASLO IN SIR
+bila sta dva
+temno opravljena
+sedela sem v sobi
+in prisluškovala večeru
+kako je tolkel
+ob streho hleva
+nato
+glasovi
+nemiren srhljiv
+šklepet
+izbuljim oči
+bila sta dva
+temno opravljena
+zvezala sta me
+eden me je držal
+mi puhal v obraz
+meseno sapo
+in drugi
+je vame
+zarival dolg debel kol
+da sem kriknila
+in znova kriknila
+…
+večer je tolkel
+ob streho hleva
+
+TIBOR
+HRS
+PANDUR
+
+SVAKO ZA SEBE BOG PROTIV SVIH
+Odi et amo, / quare id faciam, fortasse requiris?
+Nescio, sed fieri sentio / et excrucior.
+(Sovražim in ljubim, / morda kdo sprašuje, zakaj to počnem.
+Ne vem, samo čutim, da se dogaja / in se mučim v tem.)
+— Katul 85
+Neki ne znaju šta rade, mi pravimo kobasice.
+— Napis nad čevabčinico, Ul. 29. novembra, Bg
+Beograd divno razpada
+Na nas, ki se pretvarjamo, da se nič ne dogaja
+(Vsi nekaj strašno bi, pa nihče ne ve točno, kaj)
+Vsi lepi, vsi zjebani
+Opicanjeni in podrti
+Zavrti in odprti
+Osamljeni kot grafiti pod viadukti
+Šetamo ulice
+Balkaniziraj me
+Zlorabi me, da nekaj ostane
+Zableji me kroz grad
+Govori mi o vojni
+Pobegih in dekadenci ob razpadu sistema
+Govori mi o lapsusu
+Kako slučajno, kako zdrsne
+Pade in razkrije
+Govori mi o interjerjih inercij
+Hipersenzibilnih tinejđerjev
+Ujetih med žepnino staršev in nasiljem ulic
+Citiraj mi genialne prebliske desničarjev
+In nerazumljivo prozo diktatorjev
+Ko jih je še očarala nenadjebljiva
+Tužna žudnja beogradskih pedera
+In sijajne nenapisane balade medčloveških odnosov
+Smog starega bencina in spušenega nikotina
+Ki ga skušajo prekrit’ fensi parfemi žensk
+Propadajoči tapisoni ekssocializma
+Mistika stalinizma
+»Ta karizma imperializma«
+Ampak nežnost gostoljubja
+Ohranjena sredi tega, v glasu
+Veteranov velikih depresij
+In komesarjev nove erotske levice
+Ki se vsak dan sprašujejo »što delat?«
+Nas je tkala v novoodkrita in nepozabna bratstva
+Kot zaščitena drevesa sredi geta
+
+Drevesa smo, ki jih varujejo rešetke obžalovanj
+Drevesa smo iz trotoarjev
+Dihamo se
+Združeni smo kot zvezde na nebu
+In to je samota
+V tej opustošeni zemlji
+Sive metropole
+Sem izgovor, da se napiše,
+Kako ne znam preživet’,
+Kako v času abstrakcij,
+Kockamo svoje predstave za predplačane spektakle
+Za kritike samih sebe
+Nerazumljivih preskokov
+Sumljivih povezav
+In nerazložljivih naključij
+Sem izgovor, da se piše
+Atletika neke neraziskane lingvistike,
+Ki ne ve zase
+In se ne znajde v krutem svetu arbitrarnih postavk
+Niti ne ve, če dejansko uživa v tem
+In če uživa dovolj
+Scene zoofilije na stopnicah psevdodemokracije
+Zvite zastave
+Arbitraže
+Življenja, ki bi jih lahko zgradil, če bi se pravočasno zbudil
+Sanje, ki bi jih lahko ne zgubil
+V birtijah in kafanah smo jedli i pili
+I radili ništa posebno
+Osim da smo pričali velike priče
+O ljudeh in kaj so eni govorili,
+Drugi naredili
+K’teri so b’li geniji in k’teri kreteni
+Kdo je odnehal in kdo je postal fašist
+Katera je najboljša knjiga devetdesetih
+Ne znam napisat
+Sistem brli tam zunaj v ubogi senci uboge luči
+Kot prazna cesta ali vonj nekega oderuha
+Bullshit občih mest
+Neoliberalni budizmi reklam
+Zajebani modeli posttranzicije,
+Usmerjeni v proizvodnjo kolektivne fikcije
+Regionalni jebači,
+Hipnotizirani od jošk in riti
+Na Knez Mihajlovi,
+
+29
+
+Odvrnjeni od trgovine banalnega dela
+Na lepe obraze žensk,
+Opijanjeni ko stoke in pozabljeni,
+Pozabljajoč v ulicah gnev
+Drugovi moji i drugarice, hipsterji, banalizatorji
+Materialisti, ateisti, panteisti, seksualisti,
+Feministi, depresivci, bipolarci
+Histeričarji i proletteri,
+Da ste mi živi i zdravi!
+Na trgu Marxa & Engelsa/Nikole Pašića
+Tuc-tuc narodnjakov gruva v nezavedno noč
+
+DARKNET
+Tako je nema,
+Da sem vse pustil: partijo, službo
+In čakal samo nanjo
+Ljubil sem jo célo
+Vsekamor je šlo
+Pozabil celó robo, ki sem jo kupil,
+Samo da bi bil z njo
+Ime ji je Radost
+Nisem hotel
+Napisat hotel
+Sem jo samo zase
+Med hrano sva
+Se dobila v labirintih
+Nastopov,
+Medtem ko sva hranila drug drugega,
+Da ne bi pozab’la
+Po mizah sva ležala
+In se jedla,
+Da ne bi propadla
+Najprej sreča
+Kot še nikoli,
+Potem muka neizmerna
+Potem sum
+Potem dvom
+Kot še nikoli
+Potem negotovost
+In starodavni vprašaji,
+Če lahko čutiva enako
+Potem žalosti,
+Ker ne moreš nikoli vedet’
+Potem blodnje in lutanja
+Po parkih, po restavracijah
+Po kladionicah i menjačnicah
+Po objemih
+Po nežnih
+Po tebi
+Mraz
+Po morah
+Po krčih
+Mimo vrat njenih imen
+Mimo sporočil,
+Puščenih zame na tleh
+Na skrivaj
+Želje razkrite z očmi
+Incesti pogledov na spolu avenij
+Potem ustavljanja
+Potem igre dvorjenj
+
+Hočeš, nočeš, mogočeš
+Potem otroške sobe, ki jih pospravljam,
+Da bi minilo
+Predstave, v katerih statiram
+Tekste, ki jih na novo prevajam
+Vloge, ki jih preurejam, da ne bi mislil,
+Da bi te srečal
+In spet
+S svojo srečo zamenjal
+
+KOPULATIVI
+Estrogeni genitivi ljubeznivi grlitivi vodljivi mehkivi uživi
+prekrivi aperitivi akuzativi transgresivi dominativi lakrimativi
+Grleni zvoki človeka, ki se brezpogojno prepušča užitku: to je
+postal edini jezik, ki me zanima, njegovo naravno stanje
+Grleni kriki notranjih eksplozij ala »delaj z mano, kar hočeš«
+Preklani sadeži mokrega spola
+
+TOMAŽ
+GRUŠOVNIK /
+KATJA
+UTROŠA
+
+Sveto meso neskončne materije neštetih svetov, za katere je
+gorel Giordano Bruno
+Ekstatično maltretiranje glavic v absolutnem jeziku narave
+Medzvezdja sokov in sladkih obetov
+Srečna roka ust, ki pri tem izviru pije
+Lakota življenj osamljenih osmisli naključje srečanj
+Telesa, ki se prižigajo in ugašajo v temi
+Narajcana in srečna, dok’ izginjajo drug v drugem
+
+ROMANJE
+Satan je odšel izpred Gospodovega obličja in udaril Joba s
+hudimi uljesi od podplatov njegovih nog do temena.
+— Job 2:7
+25. JULIJ 2013
+BAGNACAVALLO — RAVENA
+Sva v Raveni, mestu bizantinskih mozaikov. Izkušnjo mi delno
+pokvari poletna vročina — poulični termometer nameri 45
+stopinj Celzija —, in prepir s sopotnikom. Brcnem ga v golenico
+v morda najsvetejši stavbi ravenskega Bizanca, v Neonovi
+krstilnici.
+Ob izhodu iz cerkve San Vitale sem opazil reklamo za neko
+drugo svetišče v Raveni: Santa Maria Maggiore, znana kot
+Sveta Mati tumorjev, oteklin in turov. Odšel sem tja in zmolil
+eno latinsko svetomarijo in en grški očenaš, ki sem ju dodal
+k mojim pripomočkom s toaletne police: spitaderm 0,5 l
+(tekočina za razkuževanje kože pred vbodi z injekcijo ali pred
+operacijami), fiziološka raztopina (NaCl), vpojni kirurški obliži
+(10 x 9 cm), Vivanet® komprese iz »netkanega materiala za
+neinvazivno uporabo« (dveh dimenzij: 5 x 5 cm in 7,5 x 7,5
+cm), chloramphenicol (antibiotično mazilo, 5 g) in Tosama
+salotejp za telo. Na te pripomočke sem se navezal: včeraj sem
+pomislil, da bi svoj furunkel (gnojna okužba, najverjetneje s
+staphilococus aureus, pod medicinsko šifro L.-nekaj) mogoče
+celo pogrešal, če bi zdravila dejansko zalegla. Kot da bi izgubil
+sopotnika ali domačo žival z vsemi modnimi dodatki, ki sodijo
+zraven. Podobno kot Castorp in njegova bolezen v Mannovi
+Čarobni gori.
+Spiva deset kilometrov iz mesta v vasici Bagnacavallo, v
+samostanu, katerega korenine segajo v 8. stoletje. Mir njegovih
+prostornih hodnikov moti le enakomerni šum prometa, ki
+ga slišim v daljavi. Na poti sem sva se peljala skozi mestece
+Medicina, ki je pobrateno s Škofjo Loko, kot nama je to
+sporočila zanemarjena krajevna tabla.
+
+Prihajajoč izmenično improvizirano načrtovano
+Primarno od sebe samo
+Brezkompromisno
+Istočasno
+Začasno
+So sence glav
+Omejene s prostorom senc
+Scen lastnih glav
+
+25.–26. JULIJ 2013
+SAN MARINO
+Popoldne kreneva proti žepni republiki San Marino, kjer se v
+restavraciji sporečem z natakarjem. Vrnem mu hladne penne
+alla ariabatta, ki imajo povsem enak okus kot sopotnikovi
+špageti s paradižnikom in baziliko. Po sanmarinskem
+
+31
+
+republiškem pivu, ki vsebuje 7 % alkohola, me tako kot občasno
+po slovenskih zvarkih boli glava. Zajetni kuhar v penne pomoči
+prst in ugotovi, da niso hladni. Pogledam v tla, sopotnik
+predlaga, da plačava le pivo in špagete.
+V homeopatski lekarni nabavil dve ampuli, v katerih je neki
+sladek granulat, in posebno mažo, zvarjeno iz Cardiospermum
+halicacabum, da si ublažim srbečico in napredovanje mehurjev,
+ki so se pojavili zaradi alergije na sončno svetlobo. Suvenirji v
+obliki majhnih zelenih valjev in aluminijaste tube. Na spletu
+naletel na neko stran o furunkljih, ki pravi, da so tvori na
+Marxovi riti, ki so ga nenehno opominjali na realno (da ne
+rečem »zadnjo«) plat življenja, bistveno prispevali k razvoju
+dialektičnega materializma. Članek na The Times pravi, da naj
+ravno v hidradenitis suppurativa iščemo izvor Marxove ideje
+»odtujenosti« iz Kapitala.
+
+26.–27. JULIJ 2013
+ASSISI — PORZIUNCULA
+Pokrajina s slikovitimi serpentinami spominja na zgubani obraz
+stare ženice. Vmes travniki in pašniki. Vidim Frančiška, kako
+s Klaro teka skozi mak in drugo poletno cvetje kot v filmu
+Fratello sole, sorella luna Franca Zeffirellija.
+Da me sonce med vožnjo ne bi še bolj spražilo, sem v Assisi
+prispel v povojih, ovitih okoli rok. Snel sem jih šele v
+dvonadstropni gotski cerkvi z grobom sv. Frančiška Asiškega,
+to pa zato, da ne bi nunam, ki so me začele gledati, vzbujal
+vtisa, da pod prevezami skrivam svetniške stigme.
+V samostanu San Damiano (sv. Frančišek je tu sestavil svojo
+znano pesem), ima Jezus na križu, anatomsko gledano, enako
+rano kot jaz; s to razliko, da je moja na riti.
+V Porziunculi oziroma Santa Maria degli Angeli stoji baročna
+cerkev, v kateri je še ena manjša gotska cerkev, ki jo je »z
+lastnimi rokami obnovil sv. Frančišek«. Ko sem se z desno
+ritnico dotaknil lesene klopi, da bi sede poslušal orgelski
+koncert sodobnih avtorjev, ni šlo. Ne da bi pomislil na
+Kristusove muke; razlika je v tem, da je Bog trpljenje prenašal
+brez javkanja, sam pa sem že dvakrat jokal zaradi svoje
+zadnjice (enkrat na plaži na poti od Ravene do San Marina in
+danes zjutraj še tu).
+V Perugi ni turistov, le priseljenci. Afričani in Azijci, pomešani
+med domorodne prodajalce starin. Med drugimi spominki
+meščanske buržoazije 19. in 20. stoletja opazim neokrnjeno
+fotografijo Benita Mussolinija na konju.
+
+28. JULIJ 2013
+RIM
+Vročina ubija. Sredi Piazza del Poppolo skoraj omedlim. V parku
+vile Borghese padeva pod drevo, tokrat na umazani karton. S
+skupino heideggerjancev, ki so kasneje vgradili taverno, kjer
+naj bi kosili, v Lonley Planet, Tripadvisor in pametne telefone,
+se namakamo v tamkajšnjih vodnjakih.
++42,6 °C
+Znoj
+se rima in lima na
+gnoj.
+»Včasih so pod oboki Koloseja stali kipi,« pove sopotnik.
+»Kolosej se mi zdi morbiden: tukaj so ljudi pri živem telesu
+trgale zveri,« rečem jaz.
+»Kaj ti bodo kipi, ko imaš leve,« zaključi Turek.
+»Nikoli prej nisem pomislila, da bi obiskala Rim,« pravim, »a
+sèm vendarle potujejo ljudje iz vsega sveta.«
+»Evropejci zaradi razlik v politični ureditvi in jeziku mislite, da
+so znamenitosti drugih evropskih držav zelo daleč,« zaključuje
+ameriški heideggerjanec.
+»Ne. Nikoli me ni zanimal, ker je tako blizu.«
+Vržem kovanec v Fontano di Trevi v upanju, da se še kdaj
+vrnem.
+
+29. JULIJ 2013
+RIM — VATIKAN
+Zjutraj je galeb, ki sem ga poimenovala Kevorkian, pokončal
+ranjenega goloba. Začel je z drobovino.
+Dve koloniji bakterij (na levem in desnem gluteusu) tekmujeta
+za vodilno mesto v spodnji regiji kot renesančne mestne
+državice, ki se na svojih hribih borijo za prevlado; ko začne
+upadati moč ene, začne toliko bolj uspevati druga. Vprašanje,
+koliko generacij majhnih bitij se je že izmenjalo na moji
+zadnjici; če se naselbini povežeta v transanalno civilizacijo,
+lahko nastalo metropolitansko območje kmalu izumi svojo
+elektriko, javni transport, telekomunikacije …
+Pred odhodom v sv. Petra sem Jennifer povedal, da zmerom
+zamujava zato, ker nama moj furunkel krade čas: na googlu
+sem ugotovil, da beseda »furunkel« izvira iz lat. furunculus,
+ta pa iz fur v pomenu »tatu«, medtem ko pripona -unculus
+deluje kot pomanjševalnica (podobno kot lat. homunculus).
+
+Beseda naj bi se prvič pojavila med l. 1670–80.
+
+30. JULIJ 2013
+RIM
+V Teatro Marcellu so še zmeraj stanovanja, to mora biti ena
+izmed najstarejših poseljenih stavb na svetu. Nekaj otroškega
+je na Rimu. Starejše generične moške srednjih let motivira, da
+po kalni vodi fontan brodijo za svojimi otroki in vrisujejo srčke
+v zaprašene okvirje tekočih stopnic na podzemni železnici.
+Obliže na ritnicah si zdaj menjujem že tako vešče, kot je
+Bernini klesal sv. Terezo.
+Svetišče Svete Marije iz Kozmedina je bilo včasih posvečeno
+Ceres. Na vhodu je bocca dela verità, usta resnice, okrasni
+antični kanalizacijski pokrov, kasneje spremenjen v oltar, pred
+njim pa neskončna vrsta Azijcev s fotoaparati. Varnostnik draži
+azijske otroke s sladoledom, ki ga v neizprosni vročini liže
+pred njihovimi očmi. Otroci se mu smejijo, slikajo ga ne. Ko
+vstopiva v cerkev v njej odmeva bizantinska sakralna glasba
+neke redovnice.
+
+31. JULIJ 2013
+TIVOLI
+Iz katakomb, dormitorijev antičnih kristjanov, odideva k
+njihovemu nasprotju, renesančni Villi d’Este v mestecu Tivoli.
+V njenem vrtu neštetih fontan, potočkov in bazenčkov, v
+katerih se sončijo kapitalni krapi, najdemo tudi kip ženske z
+nešteto prsmi — prav takšnega, kakršnega so klesali antični
+Mezopotamci, ko so slavili Ištar. Iz vsake avreole ji teče voda.
+Ob podobah antičnih filozofov in matematikov, helenskih
+mitoloških junakov morda ravno ta kip v oddaljenem, skoraj
+skritem kotičku vrta ponazarja novo paradigmo renesanse, ki
+je nadomestila »katakombe« srednjega veka.
++43,2 °C
+
+1. AVGUST 2013
+VITERBO
+Sediva na terasi hotela Tuscia v Viterbu. Mestece ima prijetno
+
+33
+
+klimo, vetrič pravilne temperature ziba senčnike in mrši
+lase. Domislim se, da sva potovala nazaj skozi čas: vstopila
+pri Bizancu, nadaljevala na rimskem forumu in končala tu, v
+nekdanji Etruriji, danes znani kot Tuscia.
+Zaradi svojega zdravstvenega stanja sem smel v Pekel samo
+do gležnjev, tako rekoč samo do prvega nivoja, pa čeprav
+sem si še tako želel, da bi se malo povaljal po žveplenem
+blatu v bazenčku, ki se polni iz izvira vulkanskega izvora,
+imenovanega Bulicame, ki je menda Danteju služil za navdih
+njegovih pesnitev.
+
+LOUIS
+ZUKOFSKY
+Prevedel TIBOR HRS PANDUR
+
+KATUL VIII
+
+CATULLUS VIII
+
+Sesut Katul ne bodi trapast
+In priznaj, da je konec,
+Sonce je sijalo nate tiste dni,
+Ko te je imelo tvoje dekle,
+Ko si ji dajal,
+kot ji nihče nikoli več ne bo.
+Povsod skupaj takrat, vedno drug na drugem
+In užival si in ona ne more reči,
+da ni.
+Ja, tisti dnevi so žareli.
+Zdaj pa tega več noče: čemu
+bi ti, ves skurjen
+hotel. Ne zasleduj je,
+Ne žri se,
+Pokaž’ mal’ korajže, vstani
+in prenesi.
+Lepo bod’, dekle. Katul
+lahk’ prenese,
+Ne bo ti težil, ne bo ga
+gan’lo:
+A vas bo, noči.
+Za kaj bi rada živela?
+Koga boš gledala?
+Kdo bo rekel, da si lepa?
+Kdo ti bo dajal zdaj?
+Čigavo ime boš imela?
+K’ter’ga tipa poljubljala? Čigave ustnice
+grizla?
+Daj no, Katul, prenesi,
+saj zmoreš.
+
+Miserable Catullus, stop being foolish
+And admit it’s over,
+The sun shone on you those days
+When your girl had you
+When you gave it to her like
+nobody else ever will.
+Everywhere together then, always at it
+And you liked it and she can’t say
+she didn’t
+Yes, those days glowed.
+Now she doesn’t want it: why
+should you, washed out
+Want to. Don’t trail her,
+Don’t eat yourself up alive,
+Show some spunk, stand up
+and take it.
+So long, girl. Catulllus
+can take it.
+He won’t bother you, he won’t
+be bothered:
+But you’ll be, nights.
+What do you want to live for?
+Whom will you see?
+Who’ll say your pretty?
+Who’ll give it to you now?
+Whose name will you have?
+Kiss what guy? bite whose
+lips?
+Come on Catullus, you can
+take it.
+
+35
+
+MARKO
+ˇ
+POGACAR
+ˇ
+Prevedla BARBARA POGACNIK
+
+IZ CIKLA JEZERO
+I.
+Jaz sem jezero, zjutraj
+vzhajam iz lenega stroka sonca —
+tonem vase kot v gluho sobo in tragedijo,
+v prsih delam gnezdo rastlinju,
+kot v rastlinju gnezdijo močvirske ptice, v rastlinju,
+ki je že od nekdaj zborovsko petje.
+jaz sem jezero, temna točka,
+parlament milijard sladkih solz.
+sanjam v glavnem ponoči in ko se pomikam
+mirno kot otok in tedenska fotografija neba —
+sanjam krizo in demokratične spremembe,
+ko pa vstanem, iz prepričanja bruham, goste
+lilije se zlivajo po mojem grlu, lepljive lilije,
+kot pokrov.
+redno izpolnjujem svojo državljansko dolžnost.
+za konec tedna odhajam in se cele milje vozim
+skozi sulice pokončnih cvetov,
+in nikjer ne puščam sledi. nikjer kak del
+mene ne kliče drugega dela. nikjer nihče
+ne govori o tem. vse, kar zemlja jemlje od mene, ji dajem,
+ker odvzetega ni mogoče izgubiti. vse, kar je lépo,
+lépo tudi ostaja. o morju pa ne razmišljam.
+
+37
+
+IV.
+Kaj lahko jezero reče o jezeru?
+predvsem sem podobno ledeni plošči. čemim hladno in
+sámo in čakam, da se kdo pojavi, mi poljubi roko.
+tedaj se razlijem prek te palube, tako dolgo jo
+prekrivam, da se mi zazdi, da so vzcvetele češnje,
+nato pogoltnem december in se odzovem. ne govorim veliko.
+tistim, ki jih poznam, rečem, jezero je razkol, temen
+kamen v vsakem kozarcu. z neznanci se ne pogovarjam.
+
+nato sem se potegnilo vase. grizlo sem si členke,
+da bi se lahko zaustavilo. pogoltnilo sem neko vaško cerkev in zdaj
+se čreda nabuhlih krav potika po moji pokrajini. če bi
+pihnilo vanje, bi se povsod razcvetele škotske dude. mehovi bi se izpihnili in
+melodija bi me preganjala, kot da bi bilo jaz česa krivo. ampak to je pač
+anatomija. kako pride srednjemu spolu? lahko in hitro. kot da bo
+zgubil pamet, se znova rodil, pretiraval pri vsaki primeri. kot da eni
+druge potrebujemo.
+XIII.
+
+kaj lahko krava reče o jezeru? zjutraj vstanem, zamukam
+in se napojim. po ves božji dan sanjarim o Tolstoju.
+predstavljam si, kako me slači, s prsti razmika moje oči in mednje
+namešča dolg in strupen klin. ko padem, ko se končno
+razprem, se on ogrne z vsem svojim prostorom, me ugrablja. po cele dneve
+se mi ne približa. ne pasem se več, ker trava odklanja moje telo. svet
+in stvari se mi izmikajo. muči me z besedami. jezero je spopad, hitra
+žival; morje, ločeno od morja.
+
+Strah je minorni angel,
+mali Goebbels, ki je umrl v spanju. moje obale
+so bile nekoč dolga in nežna avenija, obli
+vbod v bedro boga. ta štrena
+brade in ukazov je jezeru od nekdaj sovražnik.
+nekoč se je nanj povzpela kot v nočni gozd
+in od tam mučno & snežena renčala z gotovostjo lahko
+rečem, da dotični jezero sovraži.
+
+kaj lahko psihoanalitik reče o jezeru?
+temu se reče pomota. belina prihaja iz vseh smeri,
+kot pravična ljubezen. nekoč je jezik v meni poznal vse svoje besede,
+kot pes čredo. začelo se je s travmo. cele dneve je nosil češnje
+v mojih rokah, čeprav niso vzcvetele. pomlad je
+prihajala po načrtu. moja voda se je začela segrevati, se iz dneva v dan
+bolj izenačevati z okoliškim prostorom, dokler ni izginila. kdor jo
+najde, ima pravico do govorjenja. vse je jezero, razen jezera.
+
+s prihodom vode so vse hitre in modre
+živali izginile, počasne in neumne pa so ostale,
+kakršne so. dvignilo sem se do točke, v kateri
+je bila vrnitev to, kar je: jesenska steza za slepce.
+nato sem prestrašeno in golo stalo
+v samem sebi kot v tesnem ogledalu, gledalo,
+kako se name naenkrat nekaj spušča, neki
+zapuščeni glas; telo, ki manjka.
+
+VII.
+
+vse, kar je jezero tam videlo, je že leglo
+z nevarnimi psi. recimo temu tako: imelo je
+samo nujno depresijo, presežek globine in vso to vodo.
+zdaj predpostavimo, da je vse lažno. tam se
+odvija suh in prijeten piknik. mnogo je pijače in glasbe in boga,
+ampak jezero skače z mosta. v njem nemi in prosti pad,
+pod njim dno, brezkončno in topo, kot Hrvaški sabor. pokrajina
+nagiba glave živali proti zemlji. korenine gnijejo naprej.
+
+Pogoltnilo sem vaško cerkev in doseglo vrhunec,
+kot da bi bilo za Božič. kot da bi se v vse zalezle mravlje.
+najprej sem poželo temelje, se nato vzpelo,
+lizalo opeke, freske in njihovo dolgotrajno dobrotljivost, in ko sem
+doseglo zvonik, se je nekaj razsulo po mojem ožilju, nekaj
+gostega in radostnega, podobno plodovom. kdor jih bo obral, bo vedel,
+da bi jih drevo lahko obdržalo. da jih enega za drugim odslavlja,
+kot nas tudi zemlja s sebe stresa postopoma,
+ne da bi bilo v tem kaj velikodušnosti.
+tako sem torej pogoltnilo to cerkev. duhovna čreda je tekla
+proti izhodu, a ga ni bilo. prehitro sem se vzpenjalo.
+in nobene krivde nisem čutilo: razmišljalo sem, metulj je nekje
+nad morjem zamahnil s krili, roj butastih metuljev.
+mislilo sem si, da je to sreča v nesreči. strop se je znižal,
+vse drugo pa je še naprej raslo — vse sveče so ostale
+v vodi prižgane in ta plankton se je svetlikal po okoliškem področju,
+preširok, da bi ga kdo znočil.
+
+XIV.
+Vse okoli jezera
+z vseh strani naenkrat smrdi po prevari.
+od nekod je prišel patriotizem in krave dvigajo zastave.
+trave pripravljajo, kar je možno nositi: hitri in beli
+vlaki odvažajo njihovo mlado in mehko do nekega meseca,
+tope luknje v tvojih zobeh. kakor koli že obrneš:
+prvo množično humano
+preseljevanje rastlin že poteka.
+
+39
+
+jezero je v vsem zmedeno.
+nekoč je bilo célo nebo, kot kovan pokrov,
+njegovo posebno oko. kar vse je
+z njim videlo, je preveč strašno, da bi bilo izgovorjeno.
+zatem je prišla sedanjost: vzpostavlja se
+neodvisna demokratična republika krava. jezero leži
+v sebi kot v kakšni resnici in tam dolgo in tesno molči.
+pozablja, da je osnova vsake resnice telo.
+da je prostor edina škatla ljubezni. toda jezero
+je evidentirano zaradi revolucionarne dejavnosti:
+ono verjame v samoupravljanje in ne prenaša kristjanov.
+kaj se bo torej z jezerom zgodilo?
+prazni in topli gobčki se potapljajo vanj,
+da bi ga hitreje znočili. nebo se zastira, kot ogromna, svečana miza;
+tajna policija vdre in do onemoglosti pije. zjutraj po jezeru
+plavajo nabuhli kravji mehi. tako: smrt je domovina.
+XV.
+Jaz sem umazano, brezbožno jezero,
+ena globoka svinja od jezera. ob petkih ne spustim
+rib iz svojih ust, samo da jih ne bi mogli pojesti.
+postim se, kadar si to zaželim. uporabljam zaščito. ob nedeljah
+iz čistega kljubovanja preorjem vse svoje obale, položim roko
+na tvoje lase in zaspim. nič drugega se ne premakne.
+krave požrejo svoje noge. trave posekajo veter in zmrznejo,
+da bi bil mir do sitega temen, premik pa glasnejši.
+sanjalo sem, da hlapim. moja téma je stišala tuje
+téme, potem pa je izginila. sprva preširoka je bežala skozi gozd,
+skozi neko hrupno dolino, kot da so jo prepoznali. jaz sem vpilo:
+počakaj, skrilo te bom v svojo besedo, z besedo pa bo že
+kdo voljan in srečen šel naprej. ampak, h kateremu jezero, jezeru potuje bog?
+ne vem, sem reklo in se obrnilo stran. z vseh strani je maj
+prinašal zorenje. in pike, ki so prihajale iz zrnja, so
+nedvomno končale vse noči, in tudi to.
+tu sem. plešasto ležim pred tvojimi travami
+kot v kakšni zgodovini. ravnico v hipu napolni pesem:
+tako od nekod krenejo kosci, da bi naju izenačili. goste ptice
+se spuščajo po njihovih ostrinah, pastirji pa ne zapustijo koč. jaz sem
+že cele dneve noseča jagoda na tvojem jeziku in zdaj brez sramu
+in spet brezbožno blodim po pokrajini, kot po velikanskem situ. enkrat se bo
+tudi to nehalo. ko moje oči ne bodo več nikogaršnje oči, me ljubi
+in ne imej drugih jezer razen mene.
+
+41
+
+LORENZO
+FIGA
+
+NE
+(povzeto po portugalskem originalu dona Lorenza Fige,
+doktorja alkimije v Toledu, okoli leta Gospodovega 1832)
+I.
+Po skrbnem in zavzetem pretehtavanju različnih pojavov,
+ki izhajajo iz empiričnih, to je stvarnih spoznaj, dosegljivih
+vsakemu posamezniku naše vrste, in ki temeljijo zgolj in samo
+na izkušnjah skorajda tretjine stoletja ter opirajoč in prilegajoč
+se na kolektivno nezavedno (ter skrbno izogibajoč se tako zvani
+kozmični zavesti), ki izhaja iz nedoločljivih mer, enot, količin
+popolnoma nespoznavnega prakaosa, za katerega me mika, da
+bi ga imenoval tudi absolut (in ga tudi bi, če bi ob tem ne čutil
+gnusno smešne osramočenosti) in torej, kot omenjeno zgoraj,
+skrbno ogibajoč se tako zvani kozmični zavesti, ki bojda pluje
+vsepovsod naokrog ... kakorkoli, v oziroma o svetu, kjer se ne
+strinjamo in se ne moremo strinjati niti glede tega, da se ne
+strinjamo ali da o tem ... lahko povem naslednje: če bom (na
+glas) tožil, da me boli zob, žuli čevelj ali pada dež, in to večkrat
+ponovil, me zob ne bo bolel nič manj, še vedno se mi bo mučilo
+stopalo in sonce, to samodržno oko sreče, ne bo sijalo na moje
+življenje. Mogoče je celo zelo enostavno spoznati objektivno
+resnico in tako tudi ravnati, biti torej resnično objektiven ali
+objektivno resničen ... no, ampak, resnično pravilno ubesediti
+(če pod tem izrazom razumemo pravilnost kot nekaj, kar
+resnično razumejo tudi drugi, drugi, ki niso jaz ali, v nekaterih
+primerih, tudi in celo ti, ampak drugi, ostali) ... torej, tako
+razumljeno, pravilno ubesediti že naj-ne-pomembnejšo misel,
+to, spoštovani dragi drugi — to ... to, je pa nemogoče.
+II.
+Po tem manierističnem uvodu naj vam, spoštovani plebus,
+povem, da se mi ljudje zdimo odveč in (neoriginalen kot
+sem) se v tem prepričanju tudi tukaj opiram na meni znane
+najboljše pribežnike iz življenja, ki so uspeli, vsak na svoj
+način, praktično, teoretično, funkcionalno, miselno ali
+kakorkoli že ... se zapreti in/ali izolirati pred bedami svojih
+dob — prostodušno želim zanikati smisel kakršnegakoli bivanja,
+zavedajoč se absolutizmov dandanašnjega pontifexa maxima
+s citatom njegovega dobrotnika, za katerega pa je prvi mislil,
+da je slednji njegov sluga, ko je dejal: »Človek je zabita žival,
+po meni sodeč.«
+
+43
+
+MICHAEL
+FARRELL
+Prevedel TIBOR HRS PANDUR
+
+LEPA MAMA
+Vedno si povezoval ta dva termina,
+delno zaradi branja Schillerja; delno zato,
+ker si gledal Kimbo. Kimba sublimira
+svojo mamo v vodi. Vedno si si zamišljal
+svojo mamo kot baročno figuro. Greš v
+gozd. Nekaj narediš iz drevesa: knjigo,
+gorjačo. Snov prihaja iz mame, tudi
+sreča in zatorej lepota. Mama
+pričakuje ljubezen in jo odkrije, odkrije, da je lepa.
+Sin joče bele solze, si predstavlja, da so morska pena, klif,
+ledena gora s pivom pod svojo površino.
+Knjiga pravi: »Drevo ali meditacija;« gorjača pravi: »Drevo
+ali meditacija.« Devico Marijo h govorjenju spodbuja
+gibanje otroka v njeni maternici.
+Govori hebrejsko: »‫ — רזממ ומכ טעוב אוה‬Brca
+kot pankrt«. Definira neke vrsto
+demokracije. Njeni privrženci se dobivajo z njo
+v templju. Njen sin, zdaj dvanajst let, nekje
+plava ali sublimira svojo mamo
+v gozdu. On je neke vrste knjiga ali gorjača. Zgodaj
+začne pit’ vino; noče it’ v vojsko.
+Mora prestopiti mejo v drugo
+državo. Dela v tovarni cementa, tam
+ko moški končajo šiht, ženske plešejo z njim.
+Domotožje ga daje in pije viski
+Prej ali slej plava nazaj čez mejo
+
+BEAUTIFUL MOTHER
+Drevesa visijo nad reko. Ne more reči
+ali je ali so srečni ali lepi: vidi
+svojo mamo na nebu. Zvezde so težka
+dramatika. Vojska si ga še vedno želi. Tam
+sta knjiga in gorjača meditacija. Njegova mama moli
+za njegovo srečo. On zgradi stolp iz pivskih konzerv
+in kritiki rečejo, da je lepo. Tako da
+zgradi celo mesto in ljudje začnejo živeti tam,
+prakticirat neke vrste demokracijo. Sčasoma
+je območje priključeno Španiji. Vse to mi
+poveš, mešaš zgodovino umetnosti z zgodbami
+svoje mame. Tudi ti nisi hotel v vojsko.
+Ampak bilo je v vojski, kjer si prvič
+našel ljubezen. To je bila skrivnost, ki si jo skrival
+pred mamo. Tvoja mama ni bila risanka, niti
+politična ali verska figura, a kljub temu si
+jo, na določen način, mapiral na nebo. O tebi
+je govorila čisto drugače. Rekla je, da te je
+vzela iz drevesa; bilo je temno in ni
+vedela točno, kaj si, ali si
+tekst ali orožje ali glasbilo. Da si bil
+lesen deček, je bilo popolno presenečenje
+
+You’ve always associated the two terms together
+partly due to your reading of Schiller; partly due
+to your watching of Kimba. Kimba sublimates
+his mother in the water. You’ve always thought
+your mother a baroque figure. You go into the
+forest. You make something from a tree: a book
+a club. Material comes from the mother; also
+happiness, and therefore beauty. The mother
+expects love and finds it, finds it beautiful. The
+son cries white tears, imagines them surf, a cliff
+an iceberg with beer beneath its surface. The
+book says: »Tree or mediation;« the club says: »Tree
+or mediation.« The Virgin Mary is prompted to
+speak by the movement of the baby in her womb
+She speaks Hebrew: »‫ — רזממ ומכ טעוב אוה‬He
+kicks like a bastard.« She defines a kind of
+democracy. Her followers meet with her at the
+temple. Her son, now twelve, is somewhere
+swimming, or sublimating his mother in the
+forest. He is a kind of book or club. He starts
+drinking wine early; he refuses to go into the
+army . He has to go across the border to another
+country. He works at a cement factory there
+When the men knock off the women dance
+with him. He’s homesick and drinks whiskey
+Eventually he swims back across the border
+
+45
+
+The trees hang over the river. He can’t tell
+whether he or they are happy or beautiful; he
+sees his mother in the sky. The stars are heavy
+dramatic. The army still desires him. There
+is book and club mediation. His mother prays
+for his happiness. He builds a tower out of
+beercans and critics say it’s beautiful. So he
+builds a whole city and people start to live there
+practising a form of democracy. Eventually
+the area is annexed by Spain. You tell me all
+this, mixing art history together with stories
+of your mother. You didn’t want to go into the
+army either. But it was in the army that you first
+found love. It was a secret you kept from your
+mother. Your mother was not a cartoon, nor
+was she a political or religious figure, yet you
+mapped her, in a sense, in the sky. She spoke
+about you quite differently. She said that she
+had taken you from a tree; it was dark and she
+hadn’t known exactly what you were, whether
+text or weapon or musical instrument. That you
+were a wooden boy was a complete surprise
+
+NEJC
+BAHOR
+
+NOR
+vedno se raje družim z norimi.
+vsi ostali so vedno
+preveč čisti ali preveč umazani,
+norost je ravno nekje vmes,
+kako veš, da si nor?
+to ti povedo ostali, čisti ali umazani.
+no, ne povedo ravno, da si nor,
+najprej te po ovinku vprašajo,
+zakaj se družiš —
+s tem ali tem tipom,
+z ono ali ono devo,
+tu izbereš joke:
+poveš, da si neodvisni raziskovalec;
+ambasador;
+da delaš na radiu študent,
+da si sit in imaš poln kurac
+normalne teže.
+poveš, da ti gre na kurac,
+kurac in kurac
+pogovor o klasiki:
+borilne veščine, droge, glasba —
+o zamašku steklenice
+ob pravi duši
+se razlije vsebina.
+ali ni res,
+da življenje kliče po novem?
+neodkritem, opranem in kolažiranem?
+evo, ravno je en normalen rekel: »struktura«,
+struktura.
+rekel bi iz prve, iz žepa:
+de-konstrukcija
+de-strukcija
+de-dukcija
+a-akcija
+bolje pogovor končati s kruljenjem črke A.
+kot z vremenom, janšo ali z: ja.
+
+nor je on, ki gre gor, ali kako gre
+nori rek.
+poleg:
+šnita je vedno odkrita
+in
+pizda vedno čaka,
+kurac vedno išče,
+pijanec vedno trezni pamet,
+hašiš jo za-twista,
+član normalnosti se ž njo ne ubada
+raje čačača, pa ne predaleč, v pank.
+torej po vseh navideznih in realnih
+osebah.
+sem raje tiho z norim,
+kot.
+govorim z onim drugim.
+sploh pa psovka
+nor je nor in ona nora.
+je postala kompliment.
+normalni priznavajo svojo zmoto.
+zdaj ko je tako, lahko končno stresemo krila
+in se malo pohecamo.
+
+CHILD IN SHIT
+nekdo je skril slabo vest. metelkova.
+nekdo je prekinil debato in rekel:
+»postal sem reka ljudi, ki me ne mara več«
+ker M1
+M2
+pravi:
+otrok surovine
+hoče: koncept; dušo; trajekt
+Slep si! ali dobro čuješ?
+odgovarjaš na:
+ti
+smola
+stol
+(pištola)
+strogi element
+(prostaštva)
+obvezen predmet obravnave barv!
+
+47
+
+si črn. si moder.
+si kanta za smeti.
+
+V TURČIJO NA REBUS IN NAZAJ
+rebus.
+tristo tri kvadrata
+malo nazaj, pol metra desno
+še malo
+do konca rešujem
+mraz na belem papirju
+mrzle roke
+drhti mi srce
+preveč kave.
+skupina turistov
+pod palmo nad hišo —
+turek kadi
+spodaj
+muslimani
+brez hlač
+dolge kute
+ne znajo plavati.
+vsak dan
+najdem v sebi
+manj
+in
+manj evrope.
+
+BALADA
+ti, velika kot
+gospodarstvo
+z očesi odprtimi
+semaforji
+luščiš vosek
+z najinega konca rjuhe:
+pošlješ me po pivo
+objet sem v tebi; ne morem,
+oglasi se zjutraj,
+ko šlem ne bo več smrdel
+
+(po zmajevki in vinu),
+dovolim si gristi,
+trpinčiti sebe,
+ta sluz in cuker,
+na momente je tvoj
+(po zidku gor in dol),
+veliko se igraš z lasmi,
+srca ne premakneš,
+pošlješ me po pivo
+na večer krasta:
+veš, da se bom izgubil v gužvi,
+ne opletaj z besedami,
+kako misliš, da sem se jaz navadil nanje?
+kaj bom, ko te ukradem,
+božal lase?
+turkiz?
+žveplo?
+ljubim dlake/švic/meso
+in jeklo
+(najin mali) kaos,
+masturbacije v dvoje,
+ped za pedjo v tebi odkrivam
+strup in več strupa
+kompanija slepcev v glavi
+in tečnih starih žena,
+tarejo me, sumljivo so tiho,
+v ponedeljek, v sredo
+živim s tabo.
+sanjal sem popoldanske obiske,
+groza namišljenega občevanja,
+čakam na turčijo.
+omrežim zmaja,
+spustim jeklo ravno dol
+brez: prestanka,
+bolečine
+ljubim mrtvo telo
+
+ko dobro veš, da se bom izgubil
+na koncert 100 kil marmelade
+in kaos in pomaranče,
+kdo je ta nejc bahor?
+ga poznam?
+njegovo bančno kartico?
+njegov kredit?
+dolg na davčni?
+so to njegovi zobje,
+deux ex patria,
+deux ex matria
+
+DAVORIN
+LENKO
+
+je to ona, so to njeni lasje?
+je to ona, so to njeni lasje,
+imajo drobiž, drobnjak za pivo?
+ne obsojaj jutra po večeru,
+primi me za roko,
+skrij ogenj, skrij zobe,
+poljubi me v filmu,
+vendar drži me v pesteh,
+naj crkne na električni grmadi
+tista cunja najinih
+teles
+v ponedeljek, torek
+v popoldanskem času
+so to končno njeni lasje,
+je to groza maščevanja,
+bridko jeklo,
+napol je oveseni kristal,
+je to ona, so to njeni lasje,
+je to on, je to nejc bahor,
+ne ga na blef poslati (na krast pank večer),
+skrij čevlje in se pokloni
+vzemi roke, daj jih na toplo,
+dva utripa stran: južni balkan
+
+to preprosto pride jeseni:
+ko se vse skrije
+in ostaneš sam
+v dvojini »življenja«
+narediš načrt,
+pošlješ me po pivo
+na krust večer,
+
+49
+
+MATADORJI SUPERNOVAM
+Zadnje tedne je vedno pogosteje mislil na Marijo; prikazovala
+se mu je v sanjah, v blodečih urah jutra, tik pred svitom, ko se
+je nemirno premetaval po hotelskih posteljah. Bežne odseve
+njenega drobcenega života je videval v odsevih izložbenih
+oken in v lesketu oči ljudi, ki jih je srečeval na ulicah, je — pa
+čeprav vedno zgolj bežno — opažal zametke njenega pogleda,
+način, kako ga je včasih pogledala: nekam v prazno, čezenj,
+mimo njega, pa vendar globoko vanj.
+Pravzaprav ni nikdar prenehal misliti nanjo, je obujati iz
+spomina, vendar pa je bila njena sicer postopna, a vedno
+intenzivnejša prisotnost v njegovem vsakdanjem življenju
+zanj nekaj novega. Spomin na Marijo se je v njem prebujal z
+nekakšno trdno odločnostjo in bolj kot je bežal, bolj je bila ona
+z njim, v njem. Slišal je odmev njenega glasu v svojem, čutil
+njene besede v lastnem grlu, videval poteze njenega obraza,
+ki so se kot kakšne meglice razprostirale čez njegovega, ko se
+je pogledal v ogledalo.
+Potoval je. Trpko je užival v izgubljenosti in brezciljnosti. Ena
+hotelska soba je sledila drugi, eno letališče drugemu, kavarna
+kavarni, pivnica pivnici, stare ulice drugim, temačnim, z vonjem
+stoletij nič drugače kot prejšnje prežetim starim ulicam.
+Evropska mesta pa Amerika; od Miamija do Los Angelesa,
+nato na sever, v Seattle in v Kanado. Južna Amerika: Brazilija,
+Argentina. Pa Kairo, Tel Aviv, Dubaj, Peking, Tokio. Nato nazaj:
+Moskva, Sankt Peterburg, kjer je skoraj umrl zaradi alkohola,
+se vrnil v središče Evrope: Milano, Pariz, Amsterdam, Praga,
+London, Berlin, Helsinki, Oslo … Ne nujno v tem vrstnem redu;
+še sam ni vedel, kje vse je že bil in kaj je tam počel. Včasih je
+med svojo borno prtljago našel kak listek, vozovnico, račun, in
+za vse na svetu se ni mogel spomniti, kakšna je zgodba tiste
+nesrečne stvari. Na primer Tel Aviv: račun za dve steklenici
+šampanjca. Berlin: vstopnica za muzej. Rio de Janeiro:
+prospekt za konjske dirke in neka telefonska številka. Austin,
+Teksas: loterijska srečka, ki je nikoli ni preveril. Preteklosti
+so se izlivale vanj, počasi kapljale v njegov bežeči brezdelni
+sedanjik; napol v snu jim je prisluškoval, se jim za trenutek
+začudil, nato pa zamahnil z roko in pustil, da so izpuhtele; z
+zmečkanimi listki svojih preteklosti je polnil diskretne koše za
+smeti svojih hotelskih sob.
+Ko ga je beg zvabil nazaj v Evropo, ga je Marija že obsedala.
+Pil je pijače, ki jih je imela rada, in vedno bolj je sledil njenim
+vegetarijanskim načelom prehranjevanja: vsake toliko se je
+prav dekadentno opil s cenenim alkoholom, nato pa se nažiral
+z mesom. In bežal je. Pred sabo, pred Marijo, pred vsemi in
+vsem. Lizbona se ni čutila prav. Milano in Rimini sta bila preblizu
+doma. Berlin je bil preveč moderen, London preveč meglen. V
+Stockholmu je v temačnem baru prisostvoval poljubljanju in
+
+nič kaj diskretnemu otipavanju dveh lepih, drobnih lezbijk in
+še isto noč je moral zapustiti mesto. Prvo letalo, na katero so
+ga spustili, je letelo v Oslo, kjer se zaradi vremenskih razmer
+štiri dni ni premaknil iz svoje sobe in so hotelski uslužbenci že
+zaskrbljeno preverjali, če je sploh še živ. Obupaval je že nad
+Evropo, ponovno razmišljal o Južni Ameriki, o revščini in znoju,
+ko je nekega nežnega poletnega jutra tekom svoje intimne
+svetovne turneje, ki je trajala že tretje leto, ponovno (četrtič,
+mogoče petič v življenju) obiskal Prago in nenadoma ga je
+prevzel neki sakralen mir. Mir, ki je ležal v sončni svetlobi in v
+petju ptičev, v statiki mesta, v pogledih mimoidočih; za okni
+starih meščanskih hiš, v sencah pod drevesci in v prijetnem
+hladu, ki je s sladko pogubnostjo, značilno za poletna jutra,
+ves minljiv bdel nad neizbežnostjo vročega dne. Mir, ki si ga
+ni drznil raziskati globlje; zgolj objel ga je in prvič po dolgem,
+dolgem času, pravzaprav vse odkar je zadel na loteriji tisto
+sedemmestno vsoto denarja in ki si je ni znal razložiti navkljub
+vsej numerologiji, s katero jo je analiziral, in ko je ves svet
+postal njegov pravi in edini dom, si je odkrito, povsem gol sam
+pred sabo, pa čeprav le za božanski (in prav tako božansko
+kratek) trenutek priznal, da se mu zdi, da čuti, da mu ni treba
+več bežati. Vsaj za nekaj časa.
+Dnevi so tekli skozenj v prijetni omotici; neprestano nahajajoč
+se v rahli opitosti je navidezno povsem brezbrižno živel iz
+dneva v dan, obdan z mikro- in makrokozmosom kaotičnega
+starodavnega mesta, ki ga je oblegalo, požigalo mostove,
+ki so mu še ostali, in bil sorazmerno pomirjen sam s sabo, s
+svojo preteklostjo in s svojimi mnogoznačnimi, lucidnimi
+prihodnostmi. Izgubljal se je na starih ulicah, obiskoval cerkve
+in barčke, veliko popoldnevov je preprosto preživljal v kakšnem
+parku, razpršeno prisoten, bil in bival kot indiferentno stičišče
+gibkih, grenkih, preznojeno sladkih premic.
+Ničesar ni. In ne more biti.
+Bil je neki ponedeljek, mogoče sreda ali četrtek, ko je mirno
+kot povsem mimogrede sede na klopci v zakotnem parku v
+senci velikih dreves, ki so sprehajalce varovala pred vročino
+poletja, pil pivo in izza prijetne intime, ki so mu jo zagotavljale
+leče njegovih sončnih očal, opazoval ljudi, ženske. Ženske, za
+katere je ugotavljal, spet in spet, neumorno, kot da si tega ne
+bi hotel zares priznati, da so v vsakem mestu, ki ga je obiskal,
+različne, na neki neubesedljiv način, ki je dišal po jasminu
+na vrtu njegove stare mame in ki ga je kar nekoliko žalostil,
+pa tudi vedno enake. Kamorkoli si je pobegnil in kamorkoli je
+pobegnil ženskam, je namreč prek njih ugotavljal, da ga ne
+glede na to, kako močno si to želi, nikoli in nikdar — nikakor —
+ne bodo mogle rešiti. V tem so si bile enotne vse ženske tega
+sveta: ne glede na starost, postavo, družbeni status, verska
+
+ali politična prepričanja, ne glede — pravzaprav — na katero
+koli sredstvo ali postopek (samo)identifikacije, ki v družbi
+hkrati ločuje in združuje bitja človeške vrste, so si delile
+absolutno nezmožnost, da bi ga odrešile. Skupni imenovalec,
+velika teorija poenotenja — in praksa. Nekateri bi rekli, da
+je iskal svojega osebnega Jezusa, Jezusa-žensko, ki bi nase
+prevzela breme njegovega življenja, njegovo bolečino in
+njegovo trpljenje ter vso to grenkobo nadomestila z mirom,
+ljubeznijo in upanjem. Nekateri drugi bi rekli, da je preprosto
+iskal drugo mamo, tisto, po kateri hrepenijo moški, kadar si
+želijo varnosti in spokoja, zagotovila, da bo vse v redu, angela
+varuha, ki bo bdel nad njimi, ko bodo spali zaslužen spanec
+brez sanj. Ni vedel, kateri bi imeli prav, če sploh kateri, a za
+takšne monopolne resnice mu je bilo navsezadnje tudi precej
+vseeno; niso ga opajale, niso ga napajale z energijo, ki jo je
+potreboval, niso spredale mrež pomenov, ki bi jim lahko sledil
+v zajčje luknje.
+Njegove hotelske postelje so tako — z izjemo njegovega
+lastnega telesa, seveda — ostajale prazne, žalostne, dišale so
+po svežem, po kemikalijah, pralnih sredstvih, le redko pa po
+človeku — celo po njem. Ko je ob oknu ali na balkonu pokadil
+jutranjo cigareto, se je večkrat vrnil do postelje, povohal
+pregrinjalo in vzglavnik ter zaznal le vonj neživih stvari.
+Nobenega ogljika, ogljikovih izotopov, ostankov, usedlin. Le s
+trudom vizualizacije in racionalnega utemeljevanja se je lahko
+prepričal, da je tam sploh kadarkoli spal, in v trenutkih, ko
+si je z žejnimi rokami na obraz potiskal bele tkanine najetih
+postelj, je bil brezobzirno in brezkompromisno soočen z
+grobostjo lastne samote, nezmožnostjo bivanja v dvojini pod
+odejami, pod dimom, v goloti za nekoga drugega, pod stropom,
+streho, nebom in vsem, kar je nad tem. Hkrati pa je bil takrat
+tudi najbližje samemu sebi, svojim luknjam; živa in aktivna
+sama sebe oplojevalna afirmacija trenutnosti.
+Rad je opazoval — neobremenjeno, zvedavo, v obljubi bolečine
+in prek le-te tudi drobnih, a povsem njegovih trenutkov
+bolečine in prek nje ostrega zavedanja lastne resničnosti —
+vsa tista ženska, njemu povsem tuja, povsem nerazumljiva
+telesa, ki so se, obtežena zgolj z lastnim golim, surovim
+življenjem, ponujala na pogled ljudem, javnosti, njemu. Kot
+odmev antične etike žrtvovanja, ki je velevala, da je morala
+žrtvovana žival prostovoljno stopiti pred oltar, se darovati,
+biti pripravljena in voljna umreti, da je ritual veljal kot čist,
+pristen, resničen, so se ženske, ki si jih je neusahljivo želel
+spoznati, okusiti, izkusiti ter tako prevaliti — pa čeprav le za
+nekaj trenutkov — svoje breme nanje, sprehajale po svetu,
+po mestih, starodavnih mestih, polnih raznoterih zgodovin in
+kontekstov, ki jih nihče nikoli ne bo povsem razumel ali zaobjel
+v njihovi celotni neotipljivosti. Hodile so in delale in dihale in
+živele kot pajki na mreži, ki so jo spredli drugi pajki, dolgo
+
+preden so se one gole in krvave rodile, in jo bodo spredali
+dalje, ko bodo nekoč umrle. Seveda, prispevale ji bodo kakšno
+nitko ali dve; nitko, ki bo sicer za vedno ostala neimenovana,
+vendar pa bo neizpodbitno njihova; bo pot, ozka gaz, po kateri
+je nekoč hodil živ človek, ki je žarel in bolel in ki je svoje
+življenje ponujal kot kontekst drugim ljudem; pot človeka, ki
+se je povsem nesebično razdajal in se utemeljeval s tem, ko je
+zgolj živel: duhovi hindujskih krav, preneseni v drugo kulturo,
+drugo dobo, nezmotljiva surovost bivanja.
+V praškem parku je tako opazoval žensko, punco, ki je sedla
+na klopco nasproti njegove, žensko, punco, razcvetelo v
+vročici poletja, juniju življenja; velike prsi, široki boki, rjave
+oči, v trakaste sandale ujeta temna stopala. Tudi vanjo se je
+naselila Marija, duh Marije, brezimni angel, prisotnost, ki se ne
+naznani in ki nikdar ne vpraša za dovoljenje. Tako vljudni so
+navsezadnje zgolj demoni, angeli pa v ljudi vstopajo popolnoma
+brez omejitev. Včasih gre za preprost pogled, ki navdihuje,
+spet drugič za veselo oznanilo posilstva; človek, ki ne ve, da
+trpi, navsezadnje vendar ne trpi in človek, ki ne ve, da je ujet,
+je svoboden: elektroni, ki so opazovani, nagajivi mucki, ko
+so sami v stanovanju, zamolkla, prekipevajoča gospodična na
+sosednji klopci, nestanovitna, neučakana, svetlobo in toploto
+izžarevajoča bejba z gladkimi, lesketajočimi nogami, dolgimi
+prsti, dolgim nosom, zagorelo poltjo, mini krilom, črnimi v
+soncu lesketajočimi se lasmi, odprto knjigo v naročju: Henry
+Miller, Seksus, seveda.
+Čakala je. Pa vendar je bilo očitno, da ne čaka nikogar. Zgolj
+čakala je — na podoben način, kot je on koprnel: na splošno.
+Njena trenutnost ga je navdajala z neprijetnim občutkom
+vdiranja v njen zasebni prostor; ni bil namreč povsem
+prepričan, če se tisto lepo, mlado telo res povsem hote
+razkazuje svetu. V njeni pojavnosti je ležala komaj, komaj
+prikrita bolečina, vročekrvna melanholija, nekakšna brezciljna
+ujetost, kot da ne bi imela kam iti, kot da je bila ravnokar
+izvržena iz kakšne spalnice, v kateri je še do nedavnega visel
+narkotično postan zrak, poln vonjav po seksu, cigaretnem dimu
+in hlapih žganih pijač. Le s težavo jo je opazoval po več kot
+nekaj sekund naenkrat. Cigarete so ji dogorevale med dolgimi,
+koščenimi prsti, ko je gledala nekam čez park in daleč, daleč
+proč, in čas mu je umiral, ko je v kratkih, osredotočenih
+izbruhih pogledoval proti njej.
+Nekoliko pa se mu je tudi smilila, kot so se mu vedno smilile
+ženske, ki izgledajo kot zvezde, tik preden postanejo
+supernove. Ženske, ki hrepenijo po matadorju, ki bi ukrotil
+bika njihove sle, njihovega nemira. Ženske, ki prav tako kot
+on čakajo na nekoga, da jih ukroti, premaga njihove demone,
+ubije v njihovem egu vse, kar je zatiralsko, in jih tako — končno
+in dokončno, pa vendarle vedno le začasno — odreši.
+Ženske, ki se zaslepljene od svoje lastne svetlobe ne zavedajo,
+
+51
+
+da bodo morale, če hočejo najti svojega matadorja, igrati
+vlogo bika.
+In da matador ubije bika.
+In da nobena supernova ne more v življenje obuditi vseh bikov,
+ki so jih vsi matadorji ubili v vseh časih in vseh resničnostih
+vseh možnih in nemožnih obstankov človeštva, matadorjev,
+bikov.
+Pa vendar, upanje ostaja: včasih bik ubije matadorja.
+Njuna pogleda sta se za bežen trenutek srečala. Pokimal je in
+se ji nasmehnil, ona pa je le pogledala stran in se pretvarjala,
+da ga ni opazila.
+Nekatere ženske hrepenijo po naletu bika in nekateri moški jim
+lahko nudijo ravno to.
+Nekateri moški niso sposobni nuditi drugega kot nalet bika.
+Vendar pa je za razliko od enih in drugih sam le opazoval. S
+svojega sedeža visoko v kamniti areni, prepojeni z znojem
+muk in radosti in s spomini na stoletja nenehnih družbenih
+sprememb, na občutljivem stičišču tradicionalnega in
+modernega, impulza ‘ostati’ in hotenja ‘spremeniti’ je mirno
+in tiho, prizadeto, seveda, pa vendar spoštljivo opazoval, kako
+so matadorji in biki igrali svojo brutalno, krvavo in surovo igro
+čiste telesnosti, čiste krutosti, ter poskušal razumeti.
+Ljubezen.
+Seks.
+Mehanizme odrešitve.
+Če se najdeš s tem, da se izgubiš … Kaj si: najden ali izgubljen?
+Telo ženske, ki je brala Seksus in spet in spet pogledovala v
+daljavo, je iz množice sprehajalcev v parku izstopalo po svoji
+izklesanosti, popolnosti v neskladnosti. Bila je kot film Stanleya
+Kubricka: klasična lepota simetrij, ki se je oplemenitena z
+decentraliziranostjo dvajsetega stoletja, in nato, prek njegove
+tenkočutne percepcije kot pozno popoldanska senca v obljubi
+nepozabne poletne noči nekje daleč stran od doma ležerno
+podaljševala v statično kakofonijo enaindvajsetega stoletja, v
+njegovo stoletje, v vodnarjevo dobo, njegovo dobo. Očarala
+ga je, njegova Kalipso, ki nikdar ne bo vedela, da ga je sploh
+ujela, njegova Kalipso, tako dobra in učinkovita kot katerakoli
+druga, ki mu je kadarkoli pritegnila pozornost in od katere mu
+pravzaprav nikdar ni bilo treba bežati. Pa je vendar bežal.
+Ob obličjih teh Kalipsoidnih domin — v vsakem mestu, v vsakem
+okolju je našel kakšno — je bil vedno znova najdlje od svojega
+doma, miru; miru, ob nepreklicnem in nezmotljivem obličju,
+ob katerem bi se končala vsa njegova koprnenja in on bi se v
+prostranem svetu znašel sam in celovit, nepovratno enoznačen,
+monopolen. Propadajoče sonce tik pred kolapsom, ki je bilo
+ujeto v njem in on v njem, bi izginilo v ničevost, izravnalo
+bi čas in prostor, ki ju je poprej krivilo, in on bi postal le še
+
+senca samega sebe, senca, spekter brez preteklosti in brez
+prihodnosti, lupina brez hotenj, brez žalosti in brez smotra.
+In bežal je in bežal, potoval, nova mesta, nove sobe, le sosledje
+mogočnih podob v megli, v noči, v zrcalih in za šipami, bežal
+in se skrival in se razdajal in srkal življenja drugih ljudi, žensk,
+srkal kot kakšna žalostna spužva, gostilniška krpa, sorazmerno
+zadovoljna posoda za ostanke. Ali presežke.
+Vendar nič več. Nič več bega. Marija zdaj vstaja iz pepela,
+njena v modro-belo srajco oblečena pojava blodi po gozdovih
+njegove podzavesti.
+Pod vsemi kamni je in biva v vsakem koščku lesa.
+Vse bo še v redu.
+Sence so se daljšale, trava je bila zelena in nebo modro, mesto
+je brnelo, opazovana lepotica je obračala tanke strani tiste
+žalostne knjige, občasno prekrižala dolgi nogi, si popravila
+pramen las, ki ji je padel na obraz, popravila krilo, ki je
+zlezlo previsoko, si prižgala novo cigareto, nato spet dolgo
+pogledovala v daljavo. Padal je večer in prebujal se je mrčes,
+ki je brnel okoli njegove glave, motil njegove misli, motil
+njegov mir.
+Iz torbe je potegnil novo pločevinko češkega piva, ki je
+nekako postal temeljni kamen njegove dnevne diete. Nikoli ni
+razumel, čemu vsa množična navdušenost nad češkim pivom:
+bilo je grenko, mehurčkasto in toplo, prav takšno, kakršno bi
+po nekaj urah ždenja v trobi na vročem poletnem zraku bilo
+vsako pivo kjerkoli na svetu. Na pločevinki je pisalo, da gre
+za staropramen. Marija je vedno pila staropramen, če ga je
+le lahko dobila. Tudi ona je bila navdušena nad Prago, nad
+njeno mistično zgodovino in njenimi okultnimi skrivnostmi.
+Dvakrat sta skupaj obiskala to mesto in z nasmeškom na obrazu
+in potnih rok ga je z nekakšno mešanico histerije in otroške
+navdušenosti vodila po starih, zakotnih ulicah, mu razkazovala
+stare knjigarne in trgovinice, sede na zadnji terasi zanikrnega
+lokala mu je prerokovala iz Crowleyjevega tarota, v nekakšnem
+medlilu sta obiskovala kraje, kjer so se, po njenem mnenju ali
+poznavanju, nekoč, stoletja v preteklosti zadrževali okultisti,
+spiritualisti, kabalisti, pisatelji in pesniki ter drugi trpeči, tako
+kot onadva po nečem več, drugačnem več, koprneči ljudje.
+Marije, ki so jo starši sicer krstili kot Jožico in ki se je pri svojih
+enaindvajsetih dala preimenovati, že več let ni bilo več med
+živimi. Odšla je s tega sveta, sama in osamljena, prostovoljno
+in pri polni zavesti v enaintridesetem letu starosti. Žrtvovala
+se je drevesu v gozdu za psihiatrično bolnišnico v Idriji,
+pomolila k vrvi, ki si jo je zategnila okrog vratu, in k alkoholu
+v njeni krvi, pomolila k svojim bosim nogam, ki so jo nosile do
+drevesa, s katerega se je obesila, pomolila k sebi in svetu, h
+kvarkom, kvantom in Bogu, sklenila mir s Hudičem, ki se mu je
+
+predajala, in z vsemi črnimi luknjami v vesolju, pravzaprav v
+celotnem obstanku, pomolila in se predala vsemu temu vrvežu
+idej in ničelnosti, točkam čiste ljubezni, kjer je vse nič in nič
+vse, pomolila, se predala in se žrtvovala, zadnji dah, zadnji
+pogled, gozd, megla, jutro, nesrečne ptice in se zazibala,
+odšla, prešla. Zlata scalnica, ki je kapljaje odtekala iz nje,
+je s svetlobo napolnjevala sonca prikrajšane močerade, polže,
+mravlje in črve, uši ter veverice.
+Verjela je v dušo, vendar ne na konvencionalen, krščanski
+način. Verjela je, da duša ni nič drugega kot neskončno majhna
+točka singularnosti v vsakem človeškem — in dalje: živem —
+bitju. Verjela je v Boga in v Hudiča ter se jima priporočala,
+verjela v Jezusa, sina božjega, ki je za grehe človeštva na
+križu umrl, tretji dan pa od mrtvih vstal in v nebesa odšel,
+in verjela je v Jezusa, revolucionarja, mistika, posvečenca,
+da, pa vendarle v zgolj človeka, majhnega, čokatega Juda,
+ki je imel velike ideje, ženo in otroke. Verjela je, da edino
+paradoksi in paradoksalna stanja lahko nahranijo črno luknjo,
+ki je človeška duša, in iskala je takšna stanja, jih živela in
+jim darovala, okušala je paradokse, verjela, gorečno verjela,
+trpela in uživala, se smejala in jokala, svojo umazanijo in
+bolečino je predajala Hudiču, ki jo je tolažil, in prek drobnih,
+čistih radosti se je darovala Bogu, ki je njeno koprnenje po
+nečem več oplemenitil z ljubeznijo. Molila je k Antikristu,
+h konceptu antikrista, ki jo je navdajal z mirom, globokim
+spokojem, jo zibal v omamne odmaknjenosti, ko je njen duh
+drsel po pašnikih neke prav specifične Arkadije, kjer ni čutila
+ne strahu in ne radosti, v stanje brez čustev, onkraj življenja,
+smrti, časa.
+»Bog je mogoče res ljubezen,« je večkrat rekla, »toda Antikrist
+je mir.«
+Spoštljivo je ponovil te besede praškemu parku v visokem
+poletju zvečer in v Marijin spomin naredil dolg požirek piva, ki
+je že izgubilo vse mehurčke.
+Bili so časi, ko si je želel, da bi lahko verjel tako gorečno,
+kot je verjela ona, pa ni mogel; nikoli in ne glede na vložen
+trud. Njegova nenasitna singularnost se je hranila na drugačnih
+paradoksih. On je hotel ženske, ne Boga; hotel je osebnega
+Jezusa, ne Antikrista. Hotel je zgoreti v seksu, in ne mirno
+zaspati — končno, kot prvič zares zaspati — v večernih vrtovih,
+ko se skozi nebo vleče zvezda repatica, ko se trije berači
+odpravijo na svojo prvo in zadnjo pravo pot, ko se konec bliža
+v sladki obljubi večnega dremeža, zadovoljnega predenja
+mladih, zaspanih muc.
+Njegova duša se je hranila s sobivanjem biti in ne-biti, imeti
+in ne imeti. V primežu večnega statusa quo sta jo držala na
+eni strani njegovo hrepenenje, njegov nemir, na drugi strani
+pa tisto temno, obupano, pa vendar plemenito zavedanje,
+da bodo njegova koprnenja vedno ostala neuslišana, da
+
+ne bo nikoli zares izgorel, se povzpel med angele in v tihi,
+vseobsegajoči kataklizmični eksploziji mesa in krvi in svetlobe
+in zemlje izginil med njimi pod dotiki, potiski v sladki, slani,
+grenko-kisli notranjosti Jezusa-ženske, ki jo je iskal, ki je
+ni iskal, za katero je verjel, da potencialno obstaja v vsaki
+ženski, ki jo je kadarkoli srečal, v vsaki ženski, ki je kadarkoli
+obstajala, za katero je verjel, da nikoli in nikdar, pod nobenimi
+pogoji ni mogla zares obstajati, da je oksimoron, paradoks sam
+po sebi, nezmožnost, ničelna točka pomena in sile in energije,
+prav zaradi tega pa je v obstoj takšnega bitja navsezadnje spet
+(in ponovno) verjel.
+Tukaj je; vedno je bilo — brezimno Kraljestvo. Kot beseda
+‘psica’, ki je najlepša, najčistejša takrat, ko se ne nanaša na
+samico Canis lupus familiaris.
+Seveda pa ni šlo zgolj za ženske, za neukrotljivo slo, ki jo je
+izžarevala denimo princesa ognja, ki je pač — tako je naneslo
+— sedla v njegovo bližino, odprla knjigo in prižgala cigareto.
+Prav tako ni šlo za šepetanje ravno prav sladkih in ravno prav
+odurnih besed pripadnosti in užitka v ženska ušesa, ko bi ves
+vpet v krč izbrizgaval svoja bela semena v njihova gostoljubna,
+varnost obljubljajoča drobovja. Večkrat in ob različnih
+priložnostih so ga tisti redki ljudje (ponavadi so bili to kakšni
+žalostni, razočarani in vsaj malo bolj kot rahlo pijani moški),
+ki jim je pustil dovolj blizu, vprašali, o čem sploh govori, ko
+govori o ženskah, in kaj navsezadnje pričakuje od njih. V
+takšnih trenutkih se je le nasmehnil ter se izmuznil odgovoru
+s sicer povsem simpatično repliko, da je to ‘pravzaprav dobro
+vprašanje’. A v soparnih nočeh, ko ni mogel spati in se je
+premetaval po posteljah preveč utrujen samega sebe, da bi
+lahko počel karkoli drugega kot kadil in s pogledom motril
+zavese na oknu ter upal, molil in se bal, da se bodo zganile
+v odrešujočem pišu vetra, je včasih vendarle klonil pod težo
+hotenj in šepetaje priznal svoja hotenja. Denimo: »Divji med
+z vijoličastimi gobami. Razglašene klavirje. Kapljanje kock in
+klokotanje kapljic. Trikrake škarje in sinočnjosti na stopniščih.«
+Neumnosti, seveda, toda Marija bi razumela.
+In včasih je.
+Skrita v mraku, tik izven njegovega vidnega polja, za ognjeno
+zaveso neprepustne teme ga je razumela. Včasih. In takrat
+je lahko zaspal ne glede na soparo ali nepremični zrak, toda
+njegov spanec je bil prazen, absoluten, vase je posrkal vsa
+spoznanja budnih ur minulih dni, naslednja jutra pa so se
+rogala tej neprodušnosti in osramočen je sklanjal glavo ter
+pobešal pogled proti tlom. Spet drugič pa so njegovo izpoved
+slišale zgolj z nočjo prepojene stene hotelskih sob in dim se
+je še ure dolgo valil proti stropu. Takrat je vedel, da mora
+zapustiti mesto, če hoče, da bo še kadarkoli spal.
+
+53
+
+Našla je zanko, obskurno, skrito pot v Babilon njegovih dni in
+mest.
+Del njega si je neumorno želel stopiti do nje, jo zakriti s svojo
+senco, iztrgati tisto knjigo iz njenih rok ter jo vprašati, kaj se
+vendar gre. Kje je Vizija in glas? Knjiga laži? Njene umazane
+tarot karte, prva izdaja knjige Der Engel vom westlichen
+Fenster, iz katere mu je brala na stopnicah pred neko praško
+cerkvijo, tačas ko je njegova utrujena glava počivala na
+njenem ramenu. Zakaj ta knjiga razpok in mini krilce? Zagorela
+polt in hrepeneči pogledi?
+Marijine knjige raznoterih laži so končale v ognju in on se ni
+premaknil s svoje klopi.
+Le tisto, kar je počeno, je zmožno spočeti svetlobo.
+Zato.
+In hotel ji je povedati, da jo pogreša in da si želi, da bi sedela
+ob njem in mu pripovedovala o nenavadnih, nezemeljskih
+stvareh, vendar pa ni bil prepričan, če si sme vse to, iz
+spoštovanja do njenega spomina, sploh želeti. Pa vendar … Si
+popotnik navsezadnje sme želeti le doma, Odisej Itake, vojak
+družine, mož sina in žena otroka? Kaj pa Kalipso, Kleopatra in
+brezštevilne v škrlat odete kurbe Babilona s črnimi mednožji in
+diplomami humanističnih ved? Kaj z njimi?
+Pogled in zgolj pogled.
+Ne v temni noči, temveč ekvinokciju duše se je nekega večera
+Marija odpravila k maši, kjer se je v temi skoraj prazne cerkvice
+slekla do spodnjega perila, in ko je kleče mrmrajoče molila,
+jokala od pokore, predrznosti, igrivega užitka, stopnjevanja
+resničnosti, pričakovanja, z britvico nič kolikokrat zarezala v
+prsi in trebuh. Majhne ureznine, sistematično delovanje roke,
+kakor zgoraj, tako spodaj, in kakor znotraj, tako zunaj —
+britvica je spet in spet načenjala njeno mehko kožo.
+Ko je napočil čas, je mirno, pravzaprav kot v transu odšla
+po hostijo, po svoj košček Kristusovega belega, nežnega
+telesa, telesa, ki je umrlo, se žrtvovalo zanjo, in mašujoči
+župnik, dostojanstven, prizemljen človek, je storil najbolj
+profesionalno — pa tudi najbolj preprosto — stvar v svoji karieri
+Božjega služabnika: obhajal jo je.
+Po tem dogodku so Marijo hospitalizirali, in ko je leto pozneje
+odšla k Bogu, Hudiču, Satanu, Luciferju, Antikristu, ko je
+zaspala na Zemlji in odšla v večerne vrtove sladke, neumite,
+večne kurbe, nežne, milostljive kurbe, psice, krave, poscane
+Lilith, h kateri je drkala in ji sežigala bele rože, je isti župnik
+tudi vodil mašo in pogreb, pozneje pa je na sedmini nekaterim
+izbrancem z začudenostjo, skoraj sakralno spoštljivostjo v
+pridušenem glasu povedal, da še nikdar v življenju ni v očeh
+
+kakšnega človeka videl tako goreče, tako grobe in tako žive
+pripadnosti (vendar ni povedal, pripadnosti komu) in vere, kot
+ju je videl v Marijinih očeh tistega večera, ko je porezana,
+krvava, bosa in praktično naga prišla k njemu prosit odrešitve
+Kristusovega telesa in tako prek njegove nesebične daritve
+skromno in milostljivo kot kakšna melanholična devica
+potrjevati svojo bolečo paradoksalno vero, ki jo je ad infinitum
+razžirala in oživljala kot infuzija nacističnega cianida in
+alkimističnih belih kapljic tekočega zlata, mističnih Plesočih
+voda Zelenih mož Islama, ona, nerojena, novorojena sestra
+Lokiju in Prometeju na skalah.
+Naj tisti, ki ima ušesa, sliši.
+S toplim zavedanjem — pravzaprav sprijaznitvijo, ob obličju
+katere bi marsikdo klonil, obupal, njega pa je navdajala z rahlo
+navihanim občutkom miru in vero v človeško vrsto —, da vse
+najbolj romantično zveneče pesmi pravzaprav le redko govorijo
+o ljubezni do sočloveka, temveč o drogah, je pospravil smeti
+v bližnjo kanto, si oprtal nahrbtnik in se lahkotnega koraka
+napotil proti hotelu. Le še en turist, ki uživa večerni mir in živi
+v začasni, a zato le še toliko bolj sladki iluziji drugega življenja,
+drugega okolja, drugega sebe. Kot pijan bik je zadeval ulice in
+se opajal z energijo ljudi, ki so počasi zapuščali stanovanja
+ali službe ter se podajali v svoja večerna življenja. Navidezno
+verjetno brezciljno, nekako prijetno zamaknjen, a osredotočen
+je hodil, kadil, postajal in se razgledoval okoli sebe, a razen
+kaosa ljudi vseh barv in vonjav ni zaznal kaj dosti.
+V hotel je vstopil s samozavestnim korakom in od uglajenega
+uslužbenca s skromnim nasmeškom prevzel ključe sobe. Tih,
+komaj slišen pozdrav, nato korakanje skozi avlo, stopanje v
+dvigalo, zapiranje vrat, ogledala na stenah, deveto nadstropje,
+hodnik, tišina, večerno zatišje, nato končno njegova soba,
+njegov razgled, njegova intima.
+Zaklenil je vrata, odložil nahrbtnik na posteljo ter si sezul
+umazane pohodne čevlje, v katerih je hodil po vseh možnih
+mestih, mestih, za katera še tri leta nazaj ne bi nikdar rekel,
+da jih bo kadarkoli obiskal, mestih, ki so ga postopoma in
+zdaj bolj, zdaj manj, pa vendar konstantno, neustavljivo in
+neusahljivo praznila in praznila, dokler ni postal človek čistega
+bivanja, čistega koprnenja, čista, neuslišana duša, edinstvena,
+neskončno gosta in neskončno majhna točka v obljubi
+nenadnega, neodložljivega izbruha energije, gama žarkov,
+neskončno bleščečega briljantnega izžarevanja.
+Sede na postelji, razmišljajoč o splošno sprejetem, vendar
+neizgovorjenem in nezapisanem družbenem dogovoru, ki
+je veleval vljudnost poslovilnega pisma, je v roke vzel list
+papirja in svinčnik, vendar je ugotovil, da nima ničesar več
+za povedati, da ni sporočila, nauka, dejanja utemeljujočih
+
+zaključnih misli k njegovemu potovanju, njegovim blodnjam,
+njegovemu lesketanju ponoči, v samoti, ko lesketa nihče ne
+vidi, niti on sam. Ne glede na to, kaj bi zapisal, je vedel, da
+bodo ljudje, ki so ga nekoč poznali, mimo njegovih hotenj in
+načrtov preprosto zmajali z glavo, nato pa v varnem zavetju
+svojih domov tiho govorili, da je po samomoru Marije, s katero v
+nasprotju s splošnim prepričanjem nista nikoli bila romantično
+niti seksualno povezana, zapadel v manično depresijo in da je
+konec koncev le njegov zadetek na loteriji, ki mu je omogočil,
+da je potoval, brezciljno potoval po svetu in izkušal, srkal
+življenja drugih, začasno odložil neizbežno, neodložljivo, edini
+smiseln post scriptum njegovega življenja.
+In verjetno bodo imeli prav.
+Vendar pa vseeno ni mogel oditi brez besed, brez slovesa;
+navsezadnje ga je v življenje in k ljudem vsemu strahu navkljub
+vedno gnala ljubezen in nikoli sovraštvo ali prezir, zato je na
+list s kar nekoliko navihanimi gibi roke cinično napisal nekaj
+zadnjih besed.
+Vsakdo je za nekaj dober.
+Povedi je dodal še svoj podpis, nato pa vstal, si pogladil hlače
+in se zazrl v nad mesto zahajajoče sonce, stopil na balkon in
+čezenj in bil.
+In padal je in padal in se vzpenjal, bil je matador jedrskim
+reakcijam v osrčjih supernov in bil je ženska, ki gori v slasti,
+svetlejši od sonca. Feniks, ki vstaja iz pepela, poved, ki se
+nikdar ne konča, nikoli odposlano ljubezensko pismo, neskončno
+gosta točka materije, tik preden se sesede sama vase, preseže
+zakone fizike, morale religij, paradokse vseh izjav ‘Verujem’
+ter izbruhne v vzpenjajočem zenitu Velikega dela, čisti
+tranziciji, se pogrezne v transcendentalno, brezčasno lepa in
+očiščujoča supernova duha, snovi in misli, nikoli presežena in
+v večnost presegajoča nerazložljiva in neubesedljiva končnost,
+absolutni vrhunec, bik v črni luni, črni luknji, nevihta popolnega
+uma, okultni paradoks, čisto samozavedanje, sesedajoče se
+v prvobitnost, nato singularnost, hkratna teza, antiteza in
+končno sinteza.
+
+55
+
+DEJAN
+KOBAN
+
+MALO KERAMIKE V USTA
+dva človeka sedita na isti klopi
+med njima isti meter razdalje in
+dve isti mizi med obema
+med obema paroma rok steber
+zraka isti njima v očeh izpadajo
+iste črke istosti oba med njima
+isto bereta dva ki sedita isto se
+ostrita ob robove obeh obrazov
+istih se njuna past ne sproži
+ista vztrajata oba v očeh
+iz črk istosti čez nabrežja
+njunosti ob istem času ob isti
+mizi čez isto klop v njiju ista
+v obeh očeh sorodnih se
+razkrajata v vsem različna
+
+PETRA
+KORŠICˇ
+
+POGOJ
+Noben, ki ni lizal jezika po lobodiki,
+ki nima pravosodnega izpita,
+ki ni vstopal kot nepovabljeni gost,
+ki ni ministriral, klečal na kolenih
+na koruzi, noben, ki ni vsaj trikrat
+premislil križišča, slišal leta zgubljenega
+ptiča v grmu, se ne more šteti
+za mojega ljubimca. Prijetno
+in nadomeščanje sta še najmanj
+kategoriji za udarec pečata tja, kjer
+ga nič ne more izbrisati, ko raste
+telo, raste skupaj z njim, ko se telo
+krči, koža pa postaja ohlapna, divje
+meso, ki je zraslo iz odprte rane,
+nespremenjeno štrli, kot edino
+zagotovilo, da se je res zgodilo.
+
+SITOTISK
+Čeprav pomlad, je zunaj mrzlo,
+dež pada navpično, in poševne so
+samo besede, ki letijo, kot letala
+ob vzletu, tvoj odsev v mojih očeh
+se ne trudi biti popoln, ne zaobljen
+kot tisti, ki se bojijo, da je dober verz
+lahko zadnji, ki si ga napisal. Pred tabo
+se slačim, le zato, da postajam gola,
+gladka, a moje telo ni nago, ne
+razlastiš, ko rečeš, ljuba moja, ful
+toplo, presenečenje, doživljam,
+doživljaj, in si vzemi, kar pritegne
+tulipane, da počijo v cvet.
+
+57
+
+MIHA
+MAREK
+
+4
+
+8
+
+Po dušici so malenkostni.
+V ravni vrsti, postrušniki,
+s pečine v ocean korakajo.
+V tragedijo.
+
+Mimoidoči ubitkov ne opazijo.
+A ubitki vseeno
+hočejo pritegniti
+pozornost nase,
+na svojo usodo.
+Ubitki se hočejo prikupiti
+vplivnim ljudem,
+ki jim lahko pomagajo
+izviti se
+iz nemogoče zagate.
+
+5
+Muka ubitkov je zame užitek,
+užitek, popolnoma prost ugodja.
+Jok in stok ubitkov je zame prijeten,
+ker vem, da ni moj.
+6
+Protislovnost ubitkov je,
+da se vedno znova rojevajo,
+ko jih enkrat že pokončaš.
+Kadar jih pokončaš,
+sam hočeš, da se znova rodijo,
+isti kakor prej.
+
+KROJAČEK
+
+UBITKI
+
+Kadar ustrežljivo
+vbodem jaz šivanko,
+veš, da bom povezal
+cunje s svojo zanko.
+
+Ubitek ni nikdar zadosti dober.
+
+Moja igla vrta
+rov, ki meso reže.
+Črna nit sledi ji.
+Votlo kost doseže
+in štirikrat obkroži
+jo na ped dolžine.
+Ko splete životvorno
+mrežo, na plan šine
+pod čakajoče škarje.
+Moj šiv je zvezal ude.
+Punčka, si zdaj cela?
+So bolečine hude?
+
+1
+Ubitki so neznatni.
+Ubitki se rojevajo
+iz najbolj jalovih brazd.
+2
+Rojevajo se na ukaz.
+Tudi umirajo na ukaz.
+Za ubitki ni žalovanja.
+
+Ubitki nikoli zares ne umrejo,
+zato se je toliko lažje
+srčno navezati nanje.
+Seveda je nujna posledica,
+da je ustvarjanje ubitkov
+jalovo početje.
+7
+Množina ubitkov
+se z leti povečuje.
+Ubitki zastopajo vse ljudi.
+Vsi ljudje jih imajo
+pod palcem
+kakor glavnico.
+
+3
+Ubitki so prikupni
+zaradi svojih malih hib.
+Napol so ljudje,
+napol drugačna žival.
+Črvasto dušico imajo,
+ki se jim v mesu skriva.
+
+59
+
+9
+Dva ubitka, ki sta
+drug drugemu usojena,
+se združita prej ali slej.
+Vzajemne naklonjenosti ubitkov
+ne more nihče nadzorovati.
+Od tod pretnja
+solidarnosti.
+10
+Iz solidarnosti ubitkov,
+ki trpijo,
+se lahko porodi upor.
+Ubitki rešujejo svet;
+žrtev je njihova.
+Ves svet se lahko ohranja
+samo zato, ker oni
+živijo in mrejo
+iz veka v vek.
+
+JAN
+KRMELJ
+
+Drobceni gibi so osvobajani iz prejšnjih ustavljanj, ob meni,
+nad in pred menoj, vsekakor v vsebini, se izrašča
+človek, se izrisuje in pôje v gorenju povsem novo, v enigmi
+rastoče telo.
+(Obenem človek, ki je v metastazi storil
+jezik v avtonomno živčevje, zavest v kopičenje,
+samotar
+gosti in ohranja raka samotarja v gorečih pljučih,
+
+dihajočih kolikor sreče
+…)
+Ustavitve dihamo in utripamo v hladnejšem vetru hipa.
+
+POSPEŠEVANJA. Smeri se iz vzajemnosti
+pretvorita v eno. Črički klijejo stopala.
+Hiše praznijo brezdomne iskalce v telesnem čolnu,
+nikakršnih sveč in predmetov, nekakšna
+iztegnjena dlan:
+klanjanje krvavo jasni veži dihanja,
+vstopili,
+prestopili smo jo,
+skozi sebe, skozi
+razstreljene vodnjake:
+valj v izstopanju polinomne širine:
+korenine topnih cest.
+
+PREDIH UTRIPA
+DANAŠNJI VČERAJ se giblje
+skozi tresočo golobjo os krogle,
+naseljujemo jo.
+Včerajšnji danes v moji razstreljeni
+pradedovi dlani: nerazloščljivost
+parov oči, ki stikajo
+zavest in —nom, ge–
+nomno zapisovanje v ustju izrekanja,
+manjskupna preklada, timpanon
+brez razcvetelih vrvi.
+Izpuščena, segajoča stebrna telesa iz kovinsko
+mehke površine veke: skoraj stojijo in
+skoraj ugašajo.
+Okno se v zastorih razpre skozi slap,
+očišče, slap oken
+nad moje odškrtnjene prsi,
+priprta zavesa predvidevanja:
+
+MONOLITNA, PREKINJENA beseda: blesk
+stika roke z morjem razpadle zavesti,
+pesek pljuč
+pada
+skozi nosnice tekočega človeka:
+njegova zgodovina, pest riža, razgrnjena
+v drugi pesti riža — zanemarimo
+štetje —, sklaplja glas
+samoumevno, obstoječe
+v prostorih: stavba 1 (tukaj)
+stavba dve (tukaj),
+nezanemarljiva vez,
+bližnja ptica.
+Vsako zrno peska je eno telo: monolitna,
+prekinjena beseda:
+Lakota vode v očeh živali,
+enakomerna kupola upogiba svetlobe,
+ranjen in
+preskočen blesk.
+
+TVOJE IZUMIRANJE SKOZME,
+v vrnitvi zapisa, štetje
+najskrajnejše v predihu utripa,
+orakelj in prisila srečanja.
+Mrena očesa, ležečega v barvi,
+ločen hrbet, razprimo razpiranje
+osnovne osi korena skozse,
+nujnejša krogla, oprijem
+skozi kroglo, pod kroglo,
+v njo:
+sirena prebujenega očesa nočnega bleska,
+oranžna gesta meseca, skozi
+to izumiranje, skozi
+to štetje izginjajo,
+skozte.
+
+ZAMEJITE MEJO snega in višine, količina
+v odboju s številom: spustna okna
+in izohipse v tlaku debel, me
+izumirajo.
+Odpomladje, od
+pomladi, od izgube središča snega, nekakšno
+izmenično umiranje, zdaj
+izmenično, zdaj
+umiranje: ambivalentnost
+lomljivega jajčnega otroka, njegova
+beljakovinska zavest:
+odnašanje gore, ne zapomni,
+v skupek bele ježe združena sistola dihanja:
+izseljiva zavest odštetja treh
+zaokroženih štetij, izgon
+iz brezdomstva tekoče zaznave.
+Rojena, svetla kleč: korala libreta
+valovi nad mojim pljučnim dnom, naseljen
+v izmaknjeni igri:
+te besede, ta
+tedesebet, a
+
+kamen, vsebovan
+v zvoncu, izostritev
+prostora skozi
+vrnitev besede.
+
+te besede ne zapustijo ožilja tujitve.
+
+61
+
+MIKLAVŽ
+KOMELJ
+
+63
+
+TOMAŽU ŠALAMUNU
+[...] Kdo jemlje v roko mojo moč?
+Kdo bo razdišal žarke, ki tečejo med hribi?
+— Tomaž Šalamun
+Za Sonce ni nobenega dneva,
+ko drvi skozi temò.
+Nobenih ranih juter, ki stopa
+vanja kot prst v rano.
+In vendar stopa vanja.
+Ples, ples je
+edina naloga
+tudi za telo, ki ne more
+vstati. Vstati.
+Biti katerakoli
+žival, ki hitro teče!
+Gepard? Gepard.
+Ki teče skozi noč.
+Ki teče skozi.
+Edina povezava.
+Brez spon.
+A ljudje bi znoreli,
+če bi morali resnično slišati
+srce četudi najbolj
+ljubljenega bitja
+ves čas. O,
+kolikokrat sem slišal,
+kako so panično želeli smrt
+komurkoli, samo
+da bi utihnilo
+neko preveč ozvočeno
+tuje srce. Katerakoli
+žival, ki hitro teče!
+Samo ne biti človek,
+samo človek ne! Ples
+je nekaj drugega. Muzika
+vse drugo.
+Edina naloga.
+A gola. Na. Ni determinirana s scenariji
+ne smrti ne ljubezni,
+ki pomenijo izdajstvo
+smrti in izdajstvo
+ljubezni. Načela
+so samo zaradi
+izdajstva.
+A vse sence —
+enako gole.
+
+Kdo ohrani svojo senco, ko teče
+skozi noč?
+O pevec Neprepoznavnega!
+Ne moreš se umakniti
+niti v smrt niti v življenje.
+Ples, ples je
+edina povezava.
+Kot neznanka, ki Ti je v kinu
+izza hrbta gledala roke
+do krvi.
+Kot prerokba.
+Odprem Tvojo knjigo — in piše:
+»Kdaj, Laura?
+Pred Lauro.«
+Ob neki drugi Tvoji
+knjigi je mimo tekla podlasica.
+V tretjo Tvojo knjigo sem sam
+napisal: »Liber
+tenebrarum et lucis testis.«
+(Lucisque.)
+In Ti, da verjameš, da vem,
+da nisi tako mrtev
+kot na fotografiji. Da ne
+verjameš. Da veš.
+V Vauclusu sem spustil
+mrtvega hrošča iz roke,
+da bi oživel
+v Vauclusu.
+
+VOJISLAV
+DESPOTOV
+Prevedel TIBOR HRS PANDUR
+
+KANTA ZA SMETI
+Kanta za smeti. Kanta za smeti drek. Drek smrad.
+Smrad gas maska. Gas maska maskenbal. Maskenbal
+gledališče. Gledališče opera. Opera glasba. Glasba gramofon.
+Gramofon elektrika. Elektrika žarnica. Žarnica sveča. Sveča
+vosek. Vosek med. Med čebela. Čebela livada. Livada seno.
+Seno kôsci. Kôsci znoj. Znoj utrujenost. Utrujenost odmor. Odmor
+kosilo. Kosilo kuhinja. Kuhinja soba. Soba postelja. Postelja
+ženska. Ženska.
+
+KORPA ZA OTPATKE
+Korpa za otpatke. Korpa za otpatke đubre. Đubre smrad.
+Smrad gas maska. Gas maska maskenbal. Maskenbal
+pozorište. Pozorište opera. Opera muzika. Muzika gramofon.
+Gramofon struja. Struja sijalica. Sijalica sveća. Sveća
+vosak. Vosak med. Med pčela. Pčela livada. Livada seno.
+Seno kosači. Kosači znoj. Znoj umor. Umor odmor. Odmor
+ručak. Ručak kuhinja. Kuhinja soba. Soba krevet. Krevet
+žena. Žena.
+
+Skozi noč.
+Skozi dan.
+Skozi nič.
+Skozi dlan.
+Skozi goro temè.
+Skozi vse, skozi vse.
+
+65
+
+ˇ
+KLJUCNE
+BESEDE
+ˇ
+MONIKA VRECAR
+
+You can’t steal an idea unless it is a product!
+— Kristoffer Ström
+Mlada oseba, čeprav ne več tako mlada, tipični primerek
+generacije Y — generacije zakaj, ki »nekaj strašno bi, pa ne
+ve točno kaj«1 in zato živčno stopica na mestu, leze nekam po
+družbeni lestvici izobrazbe, da bi bila stvar še bolj brezizhodna
+se specializira v humanistiki, ki postopoma nemočno opušča
+vsako stremljenje k dolgoročnim idejam, logiko premišljenega
+in intencionalnega odločanja, pač vsako aktivnost, ki je
+produkt nekega drugega, izgubljenega časa. Električni čas
+medtem s svetlobno hitrostjo golta, digitalizira, konvertira
+v dato vso tisto zapuščino, ki je narejena po izumirajočem
+literarnem programu. Prinaša tudi novo obliko produktivnosti:
+ko je stvar materializirana v spominu, je ni nobene potrebe več
+misliti. Funkcionarju električnega časa ni v interesu spremeniti
+sveta, v mislih nima prihodnosti, temveč le lastno sedanjost,
+saj razume vsak svoj produkt kot informacijo o stanju svoje
+kariere.
+Descartes je nekje zapisal, da moraš za razmišljanje imeti
+na voljo dovolj časa, biti moraš sit in imeti zakurjeno sobo.
+In predvsem — je pozabil dodati, morda pa je sledeče že
+vključeno v njegovo trditev o času — biti moraš v položaju, v
+katerem nisi obremenjen s produktivnostjo. Produktivnost je
+iztisniti iz časa več časa, to je, pospešiti procese produkcije
+tako, da se čas čim dlje obdrži na isti točki. Da smo aktivni do
+te mere, da presežemo možnost lastnega razkroja. Z besedami
+briljantne Marije Andrijašević: »Recimo, meni se ni problem
+ubiti, ampak ves čas delam stvari, ves čas delam stvari, ki me
+zadržujejo.«2 Ko delam stvari, ne morem misliti na smrt, ko
+mislim na smrt ne morem delati stvari. Gon po produkciji je
+nagon proti smrti in entropiji (izgubi in-formacije). Nenehno
+snemanje kot akcija odlaganja refleksije, analitičnega
+momenta na program kamere in razmišljanje kot intrinzična
+neproduktivnost: »Mislec, ki hoče svetu sporočiti ‘vsebino’
+svojih misli, mora najprej prenehati misliti in si svoje misli
+zapomniti. Spomin v tem kot vseh drugih primerih pripravi tisto
+neopredmeteno in odvečno za svojo končno materializacijo.«3
+In-formacija zahteva materializacijo misli in električna
+produktivnost je informacijska produktivnost, ki materializira
+z dinamiko svetlobne hitrosti. Pravzaprav materializira
+tako hitro, da misel vselej nujno zaostaja, zaradi česar si je
+
+1 Tibor Hrs Pandur, Idiot 12, Paraliterarno društvo I.D.I.O.T., 2014.
+2 Marija Andrijašević, Idiot Balkan, Paraliterarno društvo I.D.I.O.T., 2013, str. 84.
+3 Hannah Arendt, Human Condition [2. izd.], University of Chicago press, 1998, str.
+90, (moj poudarek).
+
+67
+
+potrebno izmišljevati nove oblike in-formiranja, ki misel čim
+bolj skompresirajo in instantizirajo, s tem pa avtomatizirajo
+in degenerirajo. Čustveni spekter se, recimo, da zreducirati
+na optimalno 5 stopenj: :D :) :( :/ :,(. 1225 strani Vojne in
+Miru pa na + ali —. Prisrčno me je nasmejal lušten rdeč
+srček, ki bije na kraju strani Air Beletrine, s katerim se imajo
+»načelneži« možnost izrekati za, ne pa proti prispevku. Si
+VZLJUBIL prispevek? Pritisni na srček. Ga nisi vzljubil? Daj
+mu minus na FB in se pripravi, da te bo pol literarne scene
+odprijateljilo. Na srečo bo to itak tista polovica, ki se je že
+vdala psevdoproduktivnosti in se odloča refleksno, ne pa
+reflektivno.
+Ko materija potuje s hitrostjo blizu svetlobne, v relaciji nanjo
+čas teče počasneje. Če naj obdržimo čas čim dlje na isti točki,
+se moramo torej gibati blizu svetlobne hitrosti. Biti moramo
+aktivni in produktivni. Ali ne bi bilo torej mogoče misliti
+hitreje, nelinearno, kot to v Her (2013) počne Eva umetne
+inteligence z imenom Samantha, operativni sistem, ki »misli«
+in »ljubi« oz. raje procesira postverbalno, algoritmično in
+zato — precej bolj produktivno: njena misel je že ob svojem
+nastanku data, produkt, pripravljen za nadaljnjo analizo vseh
+možnih prihodnosti, ki se s statistično gotovostjo nenehno
+udejanjajo v sedanjosti. Strastno ljubezen lahko skomunicira
+vsaj 640 »osebkom« naenkrat.
+Ljubezen. Za ljudi precej manj produktiven vložek psihične
+energije v izbran »objekt«. Ljubezen kot izbira, kozmično
+neravnovesje, celo nasilje, zlo (Žižek) — skratka, za nas je
+nemogoče resnično ljubiti 640 ljudi, saj se moramo, zaradi
+drugačne logike časa, ki jo uboga naš program (=naravnanost
+zavesti, v katero smo ujeti), ODLOČITI kam bomo vložili
+svojo psihično energijo. Šele, ko gremo tako daleč, ko Z
+IZBIRO povzročimo neravnovesje, ultimativno škodo kozmični
+harmoniji, takrat se lahko zares reče, da ljubimo, da se
+upiramo smrti, elementarnem ravnovesju, ki je samo drugo
+ime za entropijo. Samantha se nikoli ne rabi do konca odločiti,
+saj je ves čas v procesu odločanja, to je njeno naravno stanje,
+ker je njena zavest algoritmična, njeni procesorji pa nelinearni
+in sinhroni. Medtem pa človek lahko zgolj prenaša psihično
+energijo iz objekta preteklosti na objekt prihodnosti. Je žival,
+ki je programirana vzročno-posledično. Odločanje z intenco je
+človeško, prečloveško. Je bistvo komunikacije in bistvo upora
+proti smrti in pozabi, proti razgradnji nazaj v pozitivno nabit
+»nič«. Je nenehno vztrajanje v obliki, informaciji, v tej napaki,
+neravnovesju energij, ki življenje je.
+
+Ključne besede: V lupu
+
+Konceptu električne produktivnosti je inherentno stopnjevanje
+v »mirovanje«, v nerazrešljiv status quo, ki sam po sebi izčrpuje
+in obenem proizvaja temeljno nezmožnost za napredek.
+Napredek je, ne pozabimo, gibanje časa v prihodnost. Ne samo,
+da električna produktivnost proizvaja splošno klimo, v kateri
+je poglobljeno razmišljanje (=potrata časa, saj mirujemo,
+medtem ko čas teče) onemogočeno, proizvaja tudi napetost, ki
+škodi sami produktivnosti, saj jo mora pod danimi okoliščinami
+največkrat zamenjati psevdoproduktivnost.
+Današnji »wannabe« revolucionarji dojemajo sistem kot
+politično strategijo moči, ki svoj nadzor nad masami ohranja
+tako, da jih potiska v nenehno eksistencialno negotovost, v
+degradiranje javnega diskurza, v konstantno recikliranje (dez)informacij — in to vse v imenu profita. Naj nas situacija ne
+preslepi z zastarelim konceptom politike kot pozicije moči. Če
+ne premorete dovolj domišljije, da se prestavite v perspektivo
+politika, raje poglejte serijo The Thick of It — po njej je bil
+leta 2009 posnet film z za nas 2-krat pomenljivim naslovom In
+the Loop — ki je to že storila namesto nas in jasno pokazala,
+da nova oblika produktivnosti ni izvorno politična strategija,
+kar razkriva dejstvo, da politika ni v privilegiranem položaju,
+da ni izvzeta iz igre konstantne negotovosti, ampak mora igrati
+po natanko istih pravilih električnega časa. Drugače rečeno,
+politika sama je izčrpana skoraj bolj kot njeni volivci, politika
+sama je podvržena nenehnemu statusu quo in politika sama
+prav zato ne more misliti zase, ne more sprejemati odločitev
+in predvsem se nikakor ne more stabilizirati. Politika kot
+pozicija odgovornosti in moči, svoboda kot možnost produkcije
+informacij, apatija kot nezainteresiranost za sodelovanje
+pri družbenih in političnih spremembah so le priročne fraze,
+krilatice, miti, ostanki anomalij preteklega sistema, ki jih
+uporabljajo reciklerji javnega diskurza (imenujemo jih tudi
+množični mediji), s čimer dajejo vtis proizvajanja pomena
+(=psevdoproduktivnost). V resnici pa so pravzaprav izčrpani
+v isti meri kot vsi ostali udeleženci sistema korporativnega
+produktivizma; ker moram nenehno producirati informacije
+ne morem misliti, ker ne morem misliti ne morem producirati
+informacij, torej jih recikliram.
+Kajenje, komentiranje na FB, »vznesen« govor politika, v
+katerem se vedno znova pojavljajo iste ključne besede, pesem,
+ki avtomatično reproducira že prednastavljene vzorce, božanje
+luštkanega psa; psevdoaktivnost cilja na čim več instinktivnih
+refleksov, ki jih najlažje ujameš s ponavljanjem že znanega in
+izogibanjem novemu: »Vse, kar je novega, je teror, ne zaradi
+tega, kar samo po sebi je, temveč zato, ker je novo. Stopnja
+terorja lahko služi kot merilo za novost: bolj zastrašujoče,
+bolj novo.« Pasivna aktivnost je torej usmerjena k stalni re-
+
+produkciji, ki lajša teror novega (to je neznanih možnosti, ki
+ležijo v prihodnosti). Trudimo se, da vsa prihodnost pride v
+sedanjosti, saj nas tako lastna smrt ne more presenetiti. A če
+ne bo presenečenje, bo sploh lahko prišla?
+
+Ključna beseda: Network
+Splošna izčrpanost, ki preveva vse dele družbenega sistema,
+je torej zapisana v programu trenutno dominantnega
+globalnega reda, ki ga na tem mestu imenujem korporativni
+produktivizem. Izrazu potrošniški kapitalizem se je potrebno
+odpovedati, saj termin napačno zvaja odgovornost za
+sistemsko stanje na akt potrošnje, ki je le simptom omenjene
+nemoči; potrošnja je še ena izmed psevdoaktivnosti, zaradi
+katerih čas stoji, ker je način odlašanja družbenopolitične
+odločitve o prihodnosti (»Izberi reciklirano vodo in pokaži svojo
+skrb«). In še to, opustimo blebetanje o demokraciji in celo
+zaključkih, da je kapitalizem edini možni ekonomski sistem
+v demokraciji. Vsako ločevanje političnega in ekonomskega
+sistema le odvrača pozornost od obstoja komunikacijskega
+aparata, skozi program katerega se proizvaja sistem. Tako
+kapitalizem kot demokracija sta glede na dejansko družbeno
+stanje prazna koncepta, demokracija, ker je definicija oblasti,
+in kapitalizem, ker je definicija lastnine.
+Oblast ni vsemogočna in ne nazadnje se je za čarovnika iz Oza
+izkazalo, da je bil zgolj človek. Za Hitlerja se je izkazalo, da je
+bil zgolj človek. Za Stalina, Tita, Castra — zgolj človek, ki se ga
+drži velika ideja. Oblast je človeški faktor premoči. Odstraniš
+človeka in razkleneš oblast, ideja, ki se ga drži pa slej ko
+prej propade ali razvodeni, ker je prekinjena komunikacija z
+oblastnikom, avtorjem ideje. Pri piramidalnem (totalitarnem)
+komunikacijskem sistemu mora avtoriteta, to so vmesniki
+med avtorjem ideje in izvrševalci (masa), nenehno vzdrževati
+komunikacijo na eni strani z avtorjem ideje in na drugi strani
+z maso. Ta povratna informacija osvežuje vez med avtorjem in
+dejanskim napredkom instrumentalizacije ideje, kar omogoča
+učinkovitejšo indoktrinacijo. Podobno lahko razčlenimo
+kapitalizem — gre za komunikacijo med lastnikom kapitala
+in delovno silo, ki jo balansirajo menedžerji in sindikati.
+Zakaj ne bi torej odgrnili zavese in razkrinkali človeka (ali
+ljudi), ki stoji(jo) za izčrpavajočo imaginerijo korporativnega
+produktivizma? Seveda smo to že večkrat poskušali storiti in
+odkrili le celo vrsto Eichmannov in nobenega Hitlerja. In v tem
+primeru, kaj storiti? Jih likvidirati? In potem, ko bo na njihovo
+mesto stopil nov Eichmann, kot se to kar naprej dogaja? Ne
+pozabimo, kako lahko so zamenljivi — in takšna zamenljivost
+je intrinzična korporativnemu produktivizmu, saj opušča idejo
+
+69
+
+lastnine in oblastnika. Čas stoji, frantična telesa padajo.
+Nujno je potrebno prepoznati dejstvo, da družbeni sistem
+ni več piramidalen: komunikacija ne poteka od avtorja
+ideje do avtoritete, ki naj idejo aplicira, do mase, ki je
+orodje za napredovanje k uresničitvi ideje. V korporativnem
+produktivizmu je komunikacija decentralizirana mreža
+(network), je splet, v katerem vozlišča vseskozi propadajo
+in se tvorijo nova vozlišča. Korporativnost je komunikacijski
+model, ki INKORPORIRA in s tem homogenizira, avtomatizira,
+degradira in reciklira informacije, dobrine in profit s skoraj
+svetlobno hitrostjo.
+Koncept politike je v korporativnem produktivizmu prazen,
+ker komunikacija poteka skozi nenehen statistični feedback,
+ki ne loči med simbolnim in dejanskim, temveč požre simbolno
+(stremenje po ideji sami, prihodnosti) na račun nenehnega
+osveževanja dejanskosti, sedanjosti. Ta anomalija je hkrati
+glavni generator sistema: edina možna oblika komunikacije
+so statistične povratne informacije, ki produkciji in potrošnji
+dajejo gorivo. Mase so statistika, elite so statistika in torej
+masa. S stališča produkcije in potrošnje so posledice teh
+povratnih informacij seveda izjemno izčrpavajoče, saj se nam
+nenehno vračajo v še večjih količinah vsega, kar v povprečju
+»najraje« konzumiramo, in se na veliko izogibajo radikalnim
+inovacijam.
+Tak družbeni model je tudi izredno prilagodljiv, saj vzroku
+nikoli ni potrebno prebaviti posledic, temveč se na mestu
+vzrokov preprosto formirajo novi vzroki za nove posledice,
+ki se hranijo na posledicah prejšnjih vzrokov. Logika časa je
+sinhronizacija, ne vzročno-posledičnost. Zaradi nenehnih
+zdrsov in premeščanj v sistemu, ki se lepijo na abstraktne
+(ne pa fizične!) agente, je kriza za abstraktnega nekoga v
+korporativnem produktivizmu vselej priložnost za abstraktnega
+drugega, ki pa je, paradoksalno, lahko ista fizična oseba!
+
+Če povzamem; zakaj je danes praktično nemogoče govoriti o
+politični revoluciji? Ker ni nobenega koncentriranega izvora
+moči, ki bi ga bilo možno subverzirati, in ker komunikacija
+poteka izključno skozi statistični feedback, kateremu se
+korporativizem mojstrsko prilagaja, saj je rojen na temelju
+takšnega informacijskega modela, v katerem je »avtor ideje«
+abstrakten in razpršen, zato pa (kot se zdi) vsemogočen in
+neuničljiv. Ker sistem JE ideja, komunikacijski model pa
+avtomatična povratna informacija, lahko sistem sam sebe
+regenerira in proizvaja vedno nove Eichmanne, who are simply
+unable to think.
+Revolucija zahteva oceno sedanjosti in izboljšano vizijo
+prihodnosti, in zato je revolucija danes praktično nezamisljiva.
+Nimamo več časa razmišljati o prihodnosti, saj se moramo
+ukvarjati z ekspanzijo sedanjosti, da bi prebavili presežek,
+
+ki nam ga ponuja električna produktivnost. Kar pride, ne leži
+v prihodnosti, temveč v nenehnem osveževanju statistične
+sedanjosti.
+
+na FB ljubi, kot Samantha lahko strastno ljubi 640 artiklov.
+Take ljubezni pa nočemo.
+
+Nova beseda: Možnosti
+Vzemimo našo nemoč kot nezmožnost produktivne
+komunikacije, ki proizvaja nove, informativne pomene glede
+na lasten historični moment. Vsaka revolucija je najprej
+tehnična revolucija, je revolucija komunikacije in revolucija
+zavesti, čeprav se jo največkrat asociira zgolj z enim od
+njenih simptomov, to je s subverzijo politične oblasti. Sistem
+se formira glede na naravo komunikacijskih kanalov, ki se
+vzpostavijo med posameznimi družbenimi vozlišči. Prednost
+sistema korporativnega produktivizma je v njegovi slabosti.
+Dopušča namreč vzročno-posledične žepke oz. mehurčke,
+ki delujejo po drugačni logiki časa. Kot take jih seveda ne
+prepozna, saj se ne pojavljajo v statističnem povprečju, ki
+operira z velikimi ciframi (na makroravni). Komunikacija preko
+papirja ustvarja statistično neulovljive žepke, dialog ustvarja
+takšne žepke. Večina komunikacijskih kanalov, ki jih danes
+imamo na voljo, služijo kot povratna informacija sistemu in kot
+degradacija informacije — feedback je bolj jasno preračunljiv,
+če je informacija avtomatizirana in proti temu delujejo
+množični mediji. Zato pa zavrzimo vsako informacijo, ki se
+brezumno reciklira — zaradi svoje narave ne more informirati
+o dejanskem stanju.
+Za začetek prenehajmo komunicirati in razmislimo o situaciji.
+Situacija življenja in smrti, po njej hlepimo. Premišljena
+odločitev, ki šteje. Možnost nesreče, presenečenje groze, pa
+potem nepričakovana ljubezen, elementarna disharmonija.
+Lahko bi se manj mučili, a ne vemo, kako to doseči, ne da
+bi se mučili še bolj. Lahko bi bili bolj živi, ampak ne brez
+nenehne grozeče možnosti, da bomo zdrsnili v smrt. Umetnost
+komunikacije, da širiš besedo, ne da bi jo degradiral v slogan.
+Umetnost komunikacije, ko z besedo, na začetku je bila
+beseda, povzročaš globoke reze v meso življenja, da vanj lažje
+zleze smrt in se dolgo pusti crkljati, dokler nam ne odpusti in
+nas odreši nazaj iz lastnega individualnega življenja, katerega
+se oklepamo, v skupno vseobsegajočo zavest, v življenje samo.
+Možnosti za napredek zavesti ležijo izven priložnosti za odziv.
+Čas je relativen glede na naš način produkcije. Čas je relativen
+glede na našo lastno obliko komunikacije s svetom. Stop
+recording, start living, bi rekel legenda Louis CK. Čudno,
+mislili smo, da spomin (na nas) je življenje. Ampak to bi bilo
+preveč preprosto. To bi pomenilo, da nas vseh 1250 prijateljev
+
+71
+
+ROK
+KOROŠEC
+
+iz zemlje snov
+ne iz ravnotežij
+
+kot se misli
+pa potem iz snovi
+lahko čelado
+mlince in 	energijo 	 (izpelješ)
+sile jo zakiparijo v skledasto
+njeno opno se boči
+nam naklanja gibanja
+telesa ki so preživela
+
+iskati spremembe molekul
+biti vodič
+
+blodnjavih kraljev med bitkami v zaodrju
+kozmosa	 gledati za luno
+ko omahne
+v prepad	 gnana od divjih misli
+
+in pretirane nostalgije po mleku
+
+
+peskanje praznine	 magično je bilo
+najti naenkrat snežno bela zrna v gubah
+ki še niso bile razprte
+ojoj not se je pa dogajalo
+žvrkljalo se je naravo
+in se jo razlilo
+po podu 	 skozi reže je naluknjalo balone
+
+biti oče nekoga drugega
+
+strah se pomeša v meglico
+spusti se
+nežno in napolni pljuča
+ljubiti ta pljuča
+
+ki jih napihuje pretakanje praznine
+
+izmed olupkov žalovanja
+
+še tistih nekaj je komaj
+nosilo roke
+in lune skotalilelile so se v doline
+zapeljale
+čez pomarančne rezine
+naših nasmehov
+spomni se bombonov
+mali rafael
+spomni se potresa v kidričevem ko je padel dimnik
+
+obljubiti nebu isto barvo kot otroku
+
+dati frnikolo bratu	 ljubiti tega brata
+
+čeprav je tujec
+biti tujec z njim
+v prostoru	ki se spreminja v mozaično žrelo
+od tam 	 nastaja nova dežela
+
+kot bi padel zid kot ko
+zboliš
+izgineš
+in se ne vrneš več od tam
+se spremenijo
+vrhovi v volkove 	 risbe čez robove
+otroci v igrače
+brez premora za sprevode
+dalje orehi v vojake	iz izvira polaga ladjo
+
+natrgati kos kruha v krožnik mleka
+potem cuzati ozadja omenjenih
+zadev
+
+jim trgati krila
+oblizati
+kar ostane na krožniku
+biti
+mačka v grmu
+zavetje prepihano od samote
+
+jadra v integrale in od tam	 se riba zvija v božjih bokih
+kot v divjem plesu v grlo kriminala
+ki je življenje
+
+73
+
+kaj boš ugibal
+kaj bodo skopali krti sočnega v grobovih
+kaj bo iz sonca
+kdo mu bo med rojstvom
+
+strgal lupino
+kdo bo pa lezbijkam prinesel igrače
+sukcesivno prati vedno iste barve
+kaj je za malco
+naš rod	 naši mlini naše glave
+vsi enkrat
+nekoga za očeta
+je tovariš stregel pito
+je tovariš čistil rogovje
+lep lep šal
+
+ki so prišlekom odprli ozke vratove
+kdo bo sanjal z nami
+kdo bo v sanje jezik namočil 	 za brate
+za lep šal
+lep lep dan
+nekdo bo moral pa še žrtve s stebrov sneti
+vso pot od lenarta do granade	pa jim dati za kavo
+in poslušati škorce šepetati v sinkopah
+so jetrca že čist zamaščena 	 bo foie gras za malco
+s figami in olivnimi žarki ljubezni
+kdo bo oreh strl 	 kdo ga bo pregriznil
+kdo bo nabreknjen kurac v roko vzel
+kdo ga bo pregriznil
+kdo bo volil
+kdo bo spal
+kdo bo volil
+kdo bo z bogom molčal
+kdo bo ingver ribal	 ga trl ribi v hrbet
+
+in še priznal da je korošca bral
+
+ˇ
+SRECKO
+PLAHUTNIK
+
+DOMOTOŽJE
+Plavolasa popolnost te je
+zapeljala v Donjeck.
+Ko je tvoja Ukrajinka
+zapustila vajino srečno orbito
+in odplesala v naročje drugega …
+… si ostal sam.
+Do tvojega stanovanja
+v 32 nadstropju vodi 648 stopnic.
+Preveč za tvojih 192 kilogramov.
+Odkar vam je dvigalo
+pred 10 leti vzel hudič,
+se še nisi spustil na zemljo.
+Postal si ujetnik sive stolpnice.
+Preživljaš se s kmetijstvom.
+Rediš pujsa na balkonu,
+kokoši v kredenci,
+zajce v predsobi.
+Imaš devet čebeljih družin na terasi.
+Prejemaš subvencije ministrstva za kmetijstvo.
+Gojiš ilegalno marihuano.
+(Oblasti se ne da peš v 32 nadstropje.)
+Zvezde na nebu so ti bližje od domovine.
+Obiščem te na Leninovem prospektu 74.
+Kot vedno mi slikaš svoja hrepenenja.
+Vrnitev domov,
+hiša z vrtom na krasu,
+druženje s prijatelji ob briškoli in teranu,
+državna pokojnina …
+
+WO SIND UNSERE SCHIFFE?
+KJE SO NAŠE LADJE 2?
+LAIBACH Prispe v Otaru
+HAFEN DER ROSEN Prispe v Tarragono
+FREUNDE DES TRIGLAVS Je v Busanu
+NEUES GORZ Prispe v Damietto
+KOPF ISTRIEN Prispe v Zhangjiagang
+LIPIZZA Je v Richards Bayu
+ADELSBERG Je v Singapurju
+LUCIA Prispe v Port Harcourt
+BERG NANOS Je v Suezu
+TAMAR TAL Prispe v Paradip
+NEUEN STANDORT Je v Kabaeni
+INSEL Je v Puerto Bayovaru
+WIPPACH Prispe v Tokio
+TOLMEIN Prispe v Limassol
+TRENTA TAL Prispe v Port Louis
+KARFREIT Prispe v Kvangjang
+…
+Za trideset zlatnikov
+smo prodali svetovne oceane.
+Zaprli smo si vrata in okna v svet.
+Mi smo zaplankani Butalci!
+Naša domovina so Rovte!
+Naše morje so presihajoča jezerca!
+Naša flota so leseni drevaki
+potopljeni v mulj
+na dnu ljubljanskega barja.
+
+Domotožje ti rosi iz oči.
+Za tolažbo ugrizneš v mastno svinjsko kračo.
+Molčiva!
+S pogledom poiščem
+na knjižni polici
+rdeče hrbtišče knjige.
+Z belimi črkami berem.
+»Олдос Хаксли: О дивный новый мир«
+
+75
+
+ZOJA
+AMES
+PESMI Z NASLOVOM: IMAM TO NEVERJETNO SREČO, DA NE VERJAMEM NIKOMUR.
+I.
+
+Otroka sem držala v naročju. Velikokrat ima napade
+panike in agresije. Držala sem ga tesno, da si ne bi kaj
+storil. Ko se je nehal tresti in kričati, mi je povedal,
+da ga oče velikokrat priveže na stol in ga tepe po glavi.
+Prav tako naredi z njegovo mamo, kadar je poredna.
+2.
+S sestro sva šli k dedku na obisk v dom. Bil je shiran,
+skoraj nepokreten, izsušen. Na seznamu je bilo napisanih
+več kot deset antidepresivov, antipsihotikov in pomirjeval.
+Če bi bila hudobna, bi rekla, da so se ga želeli po hitrem postopku
+znebiti. Šla sem do sestre in ji rekla: Ali veste, da ima naš dedek
+predpisane antipsihotike, ki so za bolnike z demenco smrtonosni?
+Sestra je bila začudena — seveda, na obiske smo hodili dvakrat na dan
+in preverjali — nato odgovorila: Kako pa ste to izvedeli?
+Takrat sem prvič v življenju začutila neverjetno močno željo,
+da bi nekoga ubila.
+3.
+Dedek je bil najprej na zaprtem oddelku
+v psihiatrični bolnišnici. Z očetom sva ga šla
+pogledat in nekako nisem zmogla, da se nisem
+sesula. Vsi tisti ljudje.
+Doma sem se zaprla v sobo, spustila žaluzije
+in se jokala več tednov.
+Nekdo mi je rekel:
+Draga moja.
+Sprijazniti se moraš z dejstvom, da ne moreš
+rešit sveta.
+
+77
+
+4.
+
+7.
+
+Nekoč sem nekega fanta preklela in
+se napila, zakadila in se zastrupila z alkoholom.
+Potem sem naslednji dan in še dva meseca kasneje
+prenehala govoriti. V sebi sem imela glasove vseh ljudi
+okoli sebe, niti najmanj pa nisem vedela, kaj je tisto, kar
+sama govorim. V trenutkih se mi je zdelo, kot da sem izstopila iz svojega telesa.
+Videla sem prikazni Sylvie Plath, Sarah Kane in Virginie Woolf.
+Čutila sem bolečino celega sveta, čeprav takrat nisem bila nikjer.
+Več noči sem imela more, da me moški v črnem lovi in me skuša ubiti.
+Ko sta bila starša na morju, sem bežala k babici in takrat — seveda starešina s sedmimi otroci —
+je rekla: A si zdaj srečna?
+Čeprav sem se pretvarjala, da ne vem, kaj mi hoče reči,
+ker ima narejeno samo osnovno šolo in je celo življenje delala kot čistilka —
+je videla grozo v mojih očeh.
+No, a si srečna? Naredila si vse, da bi te imeli drugi radi, in si zdaj srečna?
+Odšla je nahranit vseh petnajst mačk in zaloputnila vrata.
+Čarovnica stara.
+
+Pri nas se gre v gozd, kadar te kaj boli.
+Sestra je velikokrat zbežala po kakšnem prepiru s fantom,
+babica gre plest puloverje v gozd in sedi ure in ure pod kakšnim drevesom,
+mati pa nabira gobe, vršičke ali pelje pse na sprehod.
+Zato nikoli nisem mogla razumeti velikih mest, kjer ni dreves.
+V Ljubljani mi je bilo zelo čudno.
+Doma sem bila navajena hoditi bosa, umazana, skakati na
+prikolice, ko se je sosed s traktorjem peljal mimo.
+S sestričnami smo imele neverjetno otroštvo. Ni bilo dneva, da ne bi
+česa usrale. Po navadi smo se spravile na edinega fanta v vasi, Jakija, in ga
+preteple.
+Čez dan smo nabirale kamenje ob potokih in lovile majhne rakce,
+se igrale družino na pojati in hodile lulat na sekret na štrbunk, ki je
+bil na velikem kupu kravjega dreka.
+Enkrat je sestrična padla v gnojšnico, ko še ni znala plavati.
+Hvalabogu je bila takrat babica v bližini.
+Ničesar in nikogar se nismo bale.
+Niti sosedovega pjanca, ki je hodil včasih brez hlač in se drl za nami.
+Bala pa sem se Ljubljane in ljudi, ki jih nisem mogla razumeti.
+
+5.
+Mati me je peljala v gozd nabirat gobe. Nikoli se nisva veliko pogovarjali,
+ampak čutim, da ji je bilo zelo hudo, ko je pred bratom imela toliko
+spontanih splavov. O tem nisva nikoli govorili, to mi je babica povedala.
+Ko je rodila mrtvega dojenčka, je baje ležala več dni v bolnišnici in z nikomer
+govorila. Oče jo je prišel večkrat pogledat in vsakič se je obrnila stran.
+Zanjo je bil takrat konec sveta.
+Čeprav se z mamo o teh stvareh nikoli nisva
+pogovarjali, še včasih vidim neizmerno žalost v njenih očeh.
+6.
+Z babico, očetovo mamo, sva se pogovarjali o menstruaciji. Šla sem teč in sem se ustavila
+pri njej, spila nekaj vina in nato je bila že tema. Prepozno, da bi šla nazaj.
+Povedala mi je o prababici, ki so ji moža ubili, sina pa zaprli v Polje in ga mučili.
+Babica ima vedno solze v očeh, ko govori o svojem bratu.
+Zdaj me je večkrat sram, ker sem ženske v svoji družini podcenjevala.
+So ene največjih bojevnic, kar jih poznam.
+Ko je bila noseča zadnji mesec, sta z dedkom v hudi zimi pešačila več kilometrov do bolnišnice.
+Odkar je dedek v domu, velikokrat tava naokoli in ne spi več v zakonski postelji.
+Odkar je dedek v domu, je shujšala, ne smeji se več toliko in nikomur ne pripravlja bele kave ob
+jutrih.
+Odkar je dedek v domu, gleda Sulejmana Veličastnega.
+Odkar je dedek v domu, ne ve, kaj naj stori.
+
+8.
+Očeta sem prosila, da me zaposli na zaprtem oddelku demence.
+Prvi dan sem vstopila in takoj, ko sem hotela zakleniti vrata za sabo,
+je prišel en upokojenec in hotel zbežati. Ker mu nisem dovolila, me je prijel za vrat in
+hotel zadaviti. Ostali so gledali Golico in se smejali, nekateri pa postopali naokoli in
+ponavljali iste stavke znova in znova. Imela sem jih rada, vse njih. Včasih smo v delovni terapiji
+poslušali salso in se pogovarjali o vesolju. Ali pa o ljubezni ali pa so hoteli trikrat ali
+večkrat zapeti isto pesem. Ko smo slikali mandale, je ena upokojenka iz Bosne protestirala:
+Ne znam, ne znam in ne bom. In odvrgla čopič.
+Prijela sem čopič in njene prste in sva naredili kroge in vzorce.
+Na koncu me je objela in rekla: Hvala, nisem vedela, da znam.
+9.
+Veliko let sem bila jezna na očeta, ker se z mano nikoli
+ni veliko pogovarjal — ne da bi sama sebe prepričala,
+da tudi jaz znam govoriti. Ko sem delala v vrtcu, mi je punčka
+razlagala o svojem očetu, kako ji vsako jutro pripravi svež pomarančni sok.
+Meni je oče pri dvajsetih letih pripravljal sok, jaz pa sem zahtevala
+še več od njega in zdaj, ko vidim, kako mu je hudo, ker mu oče umira,
+preprosto ne vem, kako naj se z njim pogovarjam o tem.
+
+79
+
+10.
+Spomnim se krikov, ko je oče pretepel brata z usnjenim pasom,
+da je imel krvave brazgotine po hrbtu. Spomnim se, da sem si takrat grizla
+nohte, mama je očeta mirila, ampak njemu se je zmešalo. To je šlo iz roda
+v rod. Oče je potem bral veliko dalajlame, se začel drugače prehranjevati in je zdaj
+umirjen človek, razen pri športih. Brat se je veliko let skrival v svoji sobi, ker ga je bilo sram.
+Ali pa je naju s sestro poniževal.
+Letos sem ponorela, ker mi je rekel, da je moja knjiga en drek. Takrat sem se hotela stepsti z njim
+in mu povedati vse, kar mu gre. Namesto, da bi se potem počutila očiščeno,
+sem se počutila resnično en drek.
+Ponižala sem svojega brata — in samo zato, ker sem se čutila tako
+kurčevo pomembno.
+
+MATJAŽ
+ZOREC
+
+11.
+Ogromno ljudi v mojem kraju je revnih.
+Živijo v majhnih hišah brez fasad in dokončanih
+balkonov. V vrtcu imajo otroci škatle za risbe. Tisti,
+ki so dobro založeni z denarjem, imajo velike škatle
+z motivi avtomobilov, superjunakov ali barbik. Ostali
+imajo obrabljene škatle za čevlje.
+12.
+Dve uri sem sedela zraven punčke, ki ni in ni mogla zaspati.
+Ostalih petnajst otrok je smrčalo ali pa se je s kom pogovarjalo
+v sanjah. Ali pa so jih lovile velike pošasti.
+Ko so se zbudili, je bilo nebeške tišine konec.
+Toda spomnim se — kot da mi je bilo v tistem trenutku
+vse jasno.
+
+FINALE
+— Bili sta glasba, neki komadič, ki se je svojčas močno zasidral v čut in mehčal vsakršno misel, kakor vsem tem lepotičnim samospevom
+uspe relativizirati zadnjega mrtvega boga in poslednji zdriz dreka, brateč ju s svojo dušo češajočo melodijo, da se ti še takšna
+ostudnost zazdi vredna slinastih solz, čarobno omiljen skupek, v katerega zvenu so preprostemu ritmu in ciklično ponavljajoči se
+harmoničnosti sledeči logiki v soskladju zaigrali muziko napajajoča ritem sekcija z markantno umirjenimi bobni, zbrano sledečimi
+akordi ter poglavitno izvirno, duhatvarno bas linijo, sršeče eterična podstat pod vodilnim, preprostim, mehkim, nežno pršečim
+melodičnim lebdenjem, kot speven ptičji skovik, obdan z vseobsegajočim šepetanjem gozda, lesenim in mističnim, naličenim še z
+odločno zazibanimi spremljevalnimi zamaški, vijaki v ležaju, klic kdove katere divjačine izza noči, vse celovito ustvarjajoč
+zamaknjenemu uživanju podložno zvočno sliko, razgreto medeno kopel z mlečno peno in šampanjskimi mehurčki, in seveda najlepše,
+vpis v visoko govorico glasbe, tudi če izumetničeno primitivne, ko pa je še najklavrnejša človeška gestikulacija lepša od vsakega v
+sončnem zlatu kipečega brezmejnega pogorja, muzika, ob kateri te je od same pocukranosti žgečkalo v drobu, mravljinčilo do omame
+in se je vsaka skrb razlegla kot stopljen sir ter vsaka radost kakor smrt v počasnem posnetku zleknila kot srečnež s še toplimi hlapi
+opiatov v krvi, in vse prepogosta zadetost od nekega ga menda ni vedočega s čim prešpricane sumljive robe, kriva za nekatera, mislim,
+samo še čistemu fiksu, temu nedosegljivemu prehitku v življenjski sok, inferiorna stanja, od katerih prek vseh varovalk pregreto
+mišljenje se je tako monstruozno razširilo, da je sovpadlo z brezkončnim, samo vase razlegajočim se vesoljem, katerega fundamentalne
+postavke se je ravno ujelo dešifrirati, tiste najrazvitejše, človeške, veččloveške, vsečloveške, drobencljajoč po ravnokar ujeti trasi,
+sami edini dialektiki družbenega ustroja, kako je npr. neka razmišljena drobnarija, denimo gradnja stolpnice, menzna prehrana, zgolj
+miza, stol, umivalnik, parket itd., postala megalomansko dojemana kot točka resnice v neustavljivem prehajanju, tako strašno
+lucidna, da je od enega samega čudenja in razvajanja v njegovi sanjaški pizdi poglabljala dih, puščala utripajoče vroče madeže, kot
+bi po opeklini namesto presihajoče pekoče srbečice ostalo prijetno ostro žgečkanje, ali kot če se ti zrajcajoča te ženska zverinsko
+zagrize v kožno gubo in te takoj zatem že hlastno pije iz drugih telesnih delčkov, okoli očesa, kože nad želodcem, pod kolenom, čez
+gleženj etc., ter sproti radirala, kar bi si bilo moč skopirati od zaznave, slednjič pa se slej ko prej začela še sama zabrisovati,
+nesposobna ohranjati lastno zavest, in izgubljati izpeljave, povezave, misli, besede, loveč jih kot metulje, ali ne ujela ali ubila,
+
+81
+
+izolirane od drugih in tako same definicija pozabe. In bil je sprva deški, potlej mladeniški in nazadnje odrasli edini nujni življenjski
+znak tja v tri dni, čeprav se nekje tekom minevanja popari z istim brezsmrtnim živetjem, čistim presežkom brez neposredne nuje za
+ohranjanje in s tem najbrž čez vse najpotrebnejše, besna onanija — o njej je namreč govora — vsepovprek v tistih obdobjih, ko se mi
+je nekako uspelo odljubiti, v enem od obeh kot letni časi drug v drugega prehajajočih cikličnih polov, in hlepeče hrepenenje premenjati
+v po vsakem odblisku kakšne rajcaške podobice, kvadratka razgaljene kože, zaplapolajoče prosojno blago čez prostranstvo med
+nogama, obrobljajoč ju, spomin na prestrašeno, kot v blesku mesečine bledo telo v smislu slavnih žena in mož velikih, čvrstih,
+neusahlih, vzcvetelih majskih jošk z rdečeoranžnimi osrhljenimi bradavičkami, tik preden ji bo kurac začel kljuvati himen itn., še eno
+nepotešljivo drkanje na vseh mogočih in nemogočih mestih ob vsakem prav takšnem času, z enim, npr. tekom epskega sranja, bolj,
+drugim, med prhanjem v ejakulacijskem trenutku izpostaviš jajca vročim curčkom iz tuševih luknjic, manj naklonjeno čudjo, drkajočo
+na vse živo in mrtvo, mimoidoče ritne tresljaje pod trenirkami, prijateljičin nategnjen vrat med zehanjem, kot kača razklenjenih
+čeljusti, da si ji je skoz žrelo videl izza pičkinih usten svetlikajoč se svit, pornografsko gradivo, nage debeluške in vitkulje na slikarijah
+renesančnih mojstrov, fuk ubesedajoče pasuse iz besedil vseh vrst,… Tu je stičišče, na katerem se od te deklice, ženske, boginje,
+muze, takšne uboge uboge pare, posiljene spominske cipice, blage lepe tovarišice, pred beraškim tronom katere ji slednjič deklamiram
+priznanje, jaz, ves sem bil zaljubljen v sošolko, vrstnico in ne nazadnje drago prijateljico, tako zelo zaljubljen, da lahko menda zdaj
+prvič do kraja nedvoumno priznano zaljubljenost tekom tistih nekaj let z nikakršnimi zadržki dopišem za najpomembnejši del mojega
+življenja, ki je tako ali drugače določal moje delovanje in vegetiranje, srečo in nesrečo, dneve in noči, veselja in žalosti, sekunde in
+leta, ne edina živa ali mrtva in označena paralela v bivanju, a natanko toliko neizbrisna, da zdajle pišem ravno o njej in o nobeni drugi;
+Živa je moja vélika ljubezen, pred njo sem ljubil enkrat, za njo ravno tolikokrat, če ne štejem zadnje, največje in vsekakor
+najresničnejše ljubezni, edine, katere hrepenenje se je izteklo v poljub, sanjarjenje v objem, beseda v meso in je v svoji dejanski
+izpolnjenosti nebesni svod in svet pod njim in pod pod svetom proti preostalim neizpolnjenim sulfidnim prajuham, Žive ne bom nikoli
+pozabil in nepozabljiva bo vedno ostala merilo za vse druge zaljubljenosti, zaradi nje vem, da sem že ljubil, da ljubim in da ljubil še
+bom, Živi dolgujem prepoznanje in pripoznanje, anagnorisis radosti in bridkosti, blaženosti in gorja, neba in pekla, Živo jemljem za
+kanonizirano gobčno in usodnostno plavolasko z jezikom, prehitevajočim stvarnost, z zevjo poustvarjajoč svojo bit in s tem stvarnost
+določujoč, o Živi pišem prvi daljši tekst, z Živo v želji bom živel kot umrl mladenič, za vedno mlad. Poslednjič se poslavljam, na tem
+mestu ustvarjam slovo, kakršno bo citirane ljubezni vredno. Najprej je bilo, nemara po predhodni pustolovščini iz pipe natočiti vodo
+v plastenko, zame zadrogiranega eksotično, kot bi bil tisti zapackan umivalnik, v katerega je skozi cvileče in brneče cevi potratno
+pljuskal zgoščen vodni snop, utekočinjena svežina, neizčrpen izvir najčistejše studenčnice, oaza, poječa življenje s svojo v slapu ali
+kotanji spenjeno pitnino, kristalno v lesketajočem se hladu, jaz pa kot partizan z nalogo priskrbeti jo desetini (o, kakšna sreča biti
+borec v svoji trdnjavi hosti, v pasjem zavezništvu z mrazom in škripanjem z zobmi, pod krvavordečo bandero svobode proti najmočnejši
+armadi na svetu in njenim sfaliranim pucflekom, o tem bi pisal!) ves stopljen v polbožnost pred tem neusahljivim vodnjakom, po
+neznatnih delčkih ga loveč v flaško, razsipno škropeč strumne pljuske vsenaokoli in napajajoč izsušene ustne, ki sem jih kar naprej
+namakal v pravkar razmočen, z brezmejnostjo polnjen dulec, preden sem se vendarle ponosen s polno čutarico odtrgal iz vodenega
+raja, v naelektrenih sencah zabrisani novi dogodivščini naproti, odkritje, kot nihče ne pomni svojega rojstva, brez spomina na lastno
+zoro in kar naenkrat sveže dejstvo, kot se po prvem dretju iz pičke slednjič zalotiš živeti ali kasneje, vsaj vsake toliko, misliti, tako
+zelo nenadejano in nadvse prijetno, prava mala ekstazica, kakor vsak užitek neskončna toliko, kolikor jo lahko ponavljaš, in je je treba
+ob vsaki ponovitvi užiti malo več, tja do smrti, kako zelo namreč dobro dene zadet scat, prav neverjetno, tako zgoščeno in lahko,
+dušeče in sveže, trepetajoče in toplo, res kot bi ti prišlo, tako se je scalina scurljala skoz čakajočega tička in pršeč padajoča iz luknjice
+na vršičku sladko razgrevala in žgečkala od njočka navzgor, pod trebuh, proti stegnom, okoli jajc, kot bi vzvratno s scanjem v
+kontratoku nazaj proti drobovini tekel blago žgan liker in oslajen grel ter odmeval po vzburjenem organizmu, čemur je po dosledno
+logičnem sklepu sledilo predvidevanje, ampak kako mora biti šele dobro, če greš zadet srat, kajpak docela pravilno, kajti tudi sralni
+užitek se je tedaj razlil prek vsega že tako nemajhnega ugodja delati govno, kot da se tudi tu iz tesnega polzenja skozi ritno luknjo v
+nasprotno smer pikanten in vroč zriva še iz drekaste klobase izcejen drek, zgoščeno ugodje, kot je paradižnikov koncentrat izčiščen
+paradižnik, bolj paradižnik od paradižnika sadeža, mastno pršeče iz danke v višja črevesja, napram hrbtenjači, vdolbinama pod koleni,
+medprstju na nogah, zatilju, do lasnih korenin … (takšen je morda občutek, če te nekdo nabija v rit). Potlej se je ta hecna zasvojenost
+nadgradila, v kar se je seveda morala, v zgolj svoj višji cilj. Drkati zadet je meje sprva v veličino lastne slasti še ne verujočega ali ne
+več prepričanega uživanja in potlej čedalje večje nuje po samo njegovi izvršitvi z zanemarljivimi prijetnimi občutji, spočetka tako
+nepopisno nenadrkljivimi, da so se v njih orgiastično parili slast in groza, strah in sreča, nujnost in smrt etc., iz presnovnega sveta
+premaknilo čez sosedov plot v drugo mesto, državo, čez celino in skozi ozračje v teminsko praznino, onstran osončja mimo zvezd in
+ozvezdij, prek galaksij pred izmikajočo se točko, proti kateri se nepretrgano širi nikoli dovolj prostrano vesolje, in še dlje, v vzhajajočo
+
+metafiziko itn. itd. do dialektičnega materializma in včasih postalo neznosno prijetno do bolečine, kot če redno zdrajsan tič in njegova
+jajca dolgo, nekaj tednov, mesecev, mirujejo in ti, ko se vendarle spet podrkajo, po nevzdržno naraščajoči neprekinjeni slasti, o kateri
+mimo dotikov s topim žgečkanjem, odrešujočim čohanjem čez ostro srbečico, brnečim tuljenjem za strmoglavljenim letalom … veš
+edino, kako prek vsega dobro dene, kako bi zdaj, celovito izrojen v njej, prej ubil mater, ves svet, sam umrl, kot se ji odrekel, kakor
+bi iz kurca navznoter pršelo izgorevajoče perje, se lepilo na meso, kosti, organe in jih kot stopljen sladoled razcejalo pod kožo, in
+njenem skrajnem krču, ki zaradi nemoči prenesti ga ter hlapčevskega čakanja, da mine, vzšibi telo, obupano poskuša še zadnjič
+pobegniti, cepetajoče noge na pravkar obglavljenem telesu, in si, živ, kar si naj lahko, čisto občutje in čista pozaba, hkrati pa iz neba
+špricne naliv, kot bi ujeda izsrala pravkar prebavljenega junca, ter se včasih kar pozabilo, izgubilo v nepreglednost razpotegnjeno
+rajcaško skico, katere preširna epskost se je kot ognjevi zublji iz plamenčka v plamenček vlačila skozi pravljico in srhljivko, skrivnost
+in pustolovščino, iz evangelijske prilike v brutalno posilstvo, evangelijsko priliko v brutalnem posilstvu, tako živo, da si na brazdah
+podplat čutil pod žgočim, modrikastorumenim soncem razpokajoč prsten pod, do fatamorgane spoliran etrni prosoj se je usipal v oči,
+od lesketejoče se in v valovih tleskajoče mesenosti je pogled na iz morske pene (z neštetimi mravljinčastimi mehurčki se je poljubljajoč
+kožo razblinjala v migetajoče, prvikrat ostrižene puhaste ježkove lase na dlan božajoči otroški glavi) povrženo svetlolaso devico,
+vrtinčasti kodri ji mrežijo sočne joške, eden se je zvil v klobčič okoli našpičene bradavičke, in šepetajoče razsijana bedra, ssrkal bi jih
+vase, polizal v prozornost, zgrizel v prah te perfektne okončine, skrčene v norost, okoli lesketajoče razmočenega, mlečno mehkega
+grička gležnja so se biseri na škrlatni algi ovili v zapestnico, zastopalko, zakrivajo sram, zlatolaso senčico prek steklene temine, zdaj
+zdaj jo boš nezadržno pofukal še v sinjemorski plitvini, če se z vakuumom in kurcem v pički le ne pomeša voda in boš, ali zaklenjen v
+njej do smrti ali bo potreben medicinski poseg, utripal iz beline v črnino, črnine v belino čez ves barvni spekter, in vedel si, kakšen je
+dan, čas, noč, kako se v njem je, kot bi živel današnjega, se spominjal prihodnjega, podoživljal prejšnjega, kot se najsublimnejša
+občutja, ko je mama avgustovske utrinkov polne noči pekla pice in smo jih jedli pred hišo, tisti izgubljen okus, vedno v spomin
+nepriklicljivo ime, tista kakor mrtvec izginula dva in pol metra dolga, tri četrt metra široka klop, rožnatooker, horizontalno razhrapana
+z razpadajočimi lesnimi nitkami, tisti nevidni zvezdni dež, o tisto vse, premalo prostora na tem mestu, vsake toliko kar naprej
+ponavljajo kot sanje, iz katerih si se pravkar zbudil, da se je včasih pod epopejskim bremenom, vsemi nepreštevnimi niansami,
+senčnimi črticami, svetličnimi pičicami, svoj kozmos terjajočimi ekskurzi, vrtoglavo gigantskostjo glavne pripovedi in njihovo srce
+ožemajočo liriko ter dramskostjo, rezajočo na tanko vsako molekulo zraka, kurček, kaj vem, zakaj zdramljena sanjarija, v pesti znašel
+kar omahnjen, če ni postal čudežna palica s podeseterjeno blaženostjo, izvir in izliv prepresežnega užitka. Zavit v to trobojnico sem
+si vzel slovo od Žive, kot si samomorilec vzame življenje, umirajoč v … prvoten fenomen že videnega in obenem nekaj čisto drugega.
+Dan se je takrat nekoč z menoj smrkavim subjektom, živečim ne predolgo v mulasti resignaciji, češ, z vsem tem parčkanjem spet ne
+bo nič, že temnil v večer, ko sem se po utečeni razvadi dokopal do mastnih temnozelenih vršičkov, težko če ne že nekajkratno
+podtaljen zaradi malega narkomanskega prizadevanja, tresavično vročičnega in krizno pripravljenega za primer neuspeha, nadalje
+drogiranja samega in slednjič najburnejšo zavest o drkanju potlej, saj se je človek nenadoma zadeval ravno zaradi tega; hlastno, kot
+bi se utapljal, sem v izsušena pljuča vsrkaval kislogrenkopekoče, kopastoaromatičnodušeče hlape, ne vem, ali v kakšni družbi sebi
+podobnih še nezgrajenih razvalin ali sam svoj svetu odvečen zadetek, in postal že med kajenjem tako pribit, prevzet od vonjave, ki
+je vela od paljenega zelišča, okusa nad dnevom obviselega polmraka, topel hlad, hladna toplina kot prašna pajčevina zamrežena med
+okostenele veje pred višnjevo zardelim zlatim zatonom na nebesu, pa neizprosno proletarska siva gmota, stavba, naš brlog, v katerem
+smo nikoli izpisane misli pred zavestjo asociacijsko gomazeli svidenju v naslednjem polsnu naproti, in mimoidoče zrcalne podobe,
+puhasti frajerji z izdolbenimi jajci, tragični le še v svoji brezzavestni blesavosti, male pisane režalke, emancipirane s kletvicami,
+cigareti in mozolji, vredne vojne samo kot posiljene statistke, vse te v hoji nihajoče vesoljnosti, vsaka zbanalizirana v ozadje na sliki,
+optična prevara končnega v neskončno, in nepreštevna, kot je nešteto besed, da nisem mogel več slediti svojemu nadsvetlobnemu
+mirovanju, kot bi preskočil medgalaktične razdalje od ene do druge točke, jih prepotoval brez gibanja, se premaknil, ne da bi se
+premikal (pa še slabo mi je postajalo), in bil primoran iskati prevetritve stran od zrak mešajočega podnebja, v podstropju med
+naglušnimi stenami, kamor sem se strahoma upajoč, da ne bom koga srečal in me kdo ne vidi ter se srečan, viden, oboje ali oboje ne
+bi razlomil v božjasten jek po vseh razmišljenih klofutah, pljunkih, pikih v rit, počasnega drobljenja jajc s trelcem za orehe, na katere
+sem bil pripravljen kot hrbet na nož, vlekel abstinenčni osami naproti; preden se mi je uspelo prebiti v svojo privatno torturnico, sem
+sledeč brnenju starih orjavelih cevi, s tem z vsem brezčasnim minevanjem zavezanim grezničnim ožiljem, prezasičenim z neizrečenimi
+strdki zasebnega v kolektivnem, zgodbicami živih in mrtvih, znotraj tega univerzuma izžete padavice iz njihovih opečenih ritk, in svoji
+analogni, kot bi z rjovečimi rori tulila potreba po scanju, nuji zavil v preddverje naravnost pred marmornat pisoar, nad katerim sem
+tipajoč za tičem s čelom omahnil na hladno ploščičasto steno in se utapljal v lastnem globokem dihanju skozi zobe, resonirajočem,
+kot da se vrtinči v svoj nikoli iztišan odmev; seč si je komaj zdržljivo lahno napenjajoč dimlje prav počasi vrtal izbruh skozi tičkovo
+
+83
+
+očko, kot bi bilo treba iz sečne cevčice do praznine izpihati vsak prašni delec, dokler se ne utrne prva urinska kapljica, znanilka
+gejzirskega izbruha, in se sprva sramežljivo izpljunil z nekaj prekinjenimi prši, potlej pa stekel s tako vročo toplino, kipečo čez kurca,
+kot da je scanje razgreta voda v radiatorju, da mi je zaobrnilo oči, zašibilo kolena, izparilo v grlu zadušeno cviljenje in sem se zatem
+še od lulanja toplih, ourinjenih rok vendarle nekako uspel splaziti v sobo; omahnjenemu na posteljo je do objema izpraznjen prostor
+molče miroval, nasičen, obrobljen in prerešetan z neprekinljivim šumenjem vsega sveta, delčkom, s katerim mrmra ulica, ulica,
+stopljena v zamolklo brundanje mesta, mesto, suflirajoče poezijo, poezija, zvok misli … in zapeljeval v poblaznen domislek, ali ne bi
+dobro delo poslušati malo muzike; in sem jo iznenada, kot bi v toplo vodo spustil šumečo tableto, zavrel morfij razlil po breztežnostnem
+prostoru, to je šele opij!, o!, poslej je ta glasba, do vročine topel in do topline vroč termalen vrelec, katerega goloto razkuhajoč krop
+je samo še nadpekoča ekstaza, ti akordi v razpenjenih pokajočih mehurčkih ujetih mehkobnih lesketih sončnožarkih laskov, njena
+nežno gladeča hrbtna dlan čez vanjo zakopan obraz … in z njo kajenje, scanje in drkanje, globoko v nepozabljivo pozabo postala moj
+privatni tabujček, ob katerem sem dolgo dolgo čutil incestuozen rajc … kot mimogrede me je prešinil kot že davno izhojen laz ona (po
+iskri prisotna v prostoru, sceni, ponazorljivo z njeno podobo, najraje obraznim portretom, naraščajoče motnim do izenačene prekritosti
+čez prvoten kader, slabo osvetljeno sobo z na postelji slonečim domnevno ozdravljenim častilcem v elektrificiranem transu, med
+stenami se razliva hipnotična ljubezenska skladba) — jaz-tu-midva-kaj bi tisto-ona-tu-ona-ni-tu-ona-ni-nikoli-tu-ona-ni-nik … -ona-, pa
+saj ni nikoli izginila!, še vedno je, si tu, čakaš me in jaz menda nočem, a briga me, zdaj te bom objel, naj se svet kar lepo sesede sam
+vase, objel te bom in objeta bova skupaj s tokovi te tople glasbe, drug v drugega zlivajoča se vanjo, lebdela med nebom in zemljo,
+kristus (ne, Živa!), pa ne, da sem te šele zdaj uzrl, jezik?, joške?, rit?, kavbojke?, to ti!? itn. vse do potrjene odločitve, ki je v enaki
+meri osvežila tako pozornost, tj. načelo realnosti, kakor tudi splastificirala divje razraščeno fantazijo in jo z vso nepremakljivo statiko
+vred shematizirala v natanko določen tendenciozen proces, drkanje; in že sem segel z roko proti podhlačju ter se na trebuhu opekel,
+tako je bila mrzla, in že sva bila tam, kjer sem bil sam malo prej, na stopnicah na poti semkaj, kjer me pred pragom tekom dolgega
+poljubljanja z izvežbanimi prsti stiska in popušča za ritnici, res, kako rade so se te roke dotikale, potem sva ravnokar vstopila; slekla
+je plašč, nekam sem ga dal, stol, obešalnik, tla, zaklepala vrata, jaz pa iskal pravo … to! glasbo … o, tukaj bi se moral, tudi če z lažjo,
+resnici na ljubo razpisati v zgodbo, roman, vsakemu detajlčku pripisati doprinos, kako med vrati za hip postane, preden, kot bi bil ta
+hipec le izrojena domišljija, neomajno zakoraka naprej in je vsak petkin trk pravilnost vsakega koraka potrjujoče kladivce, pa drobna
+prememba na reliefu parketa vsakič, ko je preložila težo, takšni z vso njeno kolikšnostjo obelodanjeni valčki ali sličice, ki jih je v
+vsakem trzljajcu lovila s pogledom, kaj šele kaj čisto življenjskega, pomenljiv mežik, oslepljujoč blisk, nagajivo žgečkljanje med
+kostmi in izzivalno hehetanje, hlinjenje nekam in kakor neopazen pritisk jošk na kakor naključno dotaknjeni rami, vsa razklenjena kot
+obronek na koncu kotline, odpirajoč se na vse strani neba, z očmi v očeh čez preklano tišino, vojaško retorično: kaj zdaj?, in razgret
+toplo maslen salček na njenem boku v oprijemu dlani, tako se v obzornici stikata nebo in zemlja, tja zahaja sonce, to milijon celičnih
+receptorjev transformira lojsko toploto v draž, telo postavi na laž, interakcijo predpostavi v dotik in iznenada, kot te domislek zavede
+v premišljevanje in se naenkrat vnazaj zaveš, kako si za teh nekaj dihljajev izginil iz obstoja, premor, zamrznitev, čas razvlečujoč mrk,
+v katerega upočasnjenem somraku iz njenega resnega, iskrenega, zajebancije in rajcanja, izumetničenosti in sprenevedanja,
+stremuštva in maškarade očiščenega obstalega pogleda, komaj spuščena čeljust, zobna palatina pred temino žrela, kot jezero v
+brezvetrju stoječi lici in nos, tožne oči, na fresko pripravljeno belo čelo in angelsko obsijajoči lasje, obmolkla v običajnem
+neupočasnjenem teku brezmejno molči: ljubim te … kje pa, saj bi se stopil v mlakasto lužo … zatem jo z močjo misli magnetiziram,
+da igrivo upirajoča se nezadržno polzi bliže in bliže, dokler se ni končno omagana od navihanosti stisnila k meni, žejno in neizmerno,
+in se skozinskoz prižeta s podvojeno telepatijo nenasitno in natanko odmerjeno podrgnila ob zdaj že gumijevsko batino napol na
+planem; zasesam se ji v vrat, milo kožo in hrustančno mehkobo na pročelju cuzam kot nekoč liziko (najraje bi ugriznil), in okus po
+scanju na vršičku jezika me ni mogel kaj več kot malce začuditi, ko pa je duh spod gat zevajoče scaline ves prostor zagrenil s perverzno
+kislostjo; stiskati, vleči, raztegovati, gnesti, črpati z, naj bo še tako virtuozno skrivenčen in kurcelomen, vedno enim in istim nategom,
+do izbruha sem ga, omahnjen na kolenih, začel pred podobo neoblinastih ritnic v zlizanih temnomodrih kavbojkah, kupčkastih hribčkov
+za hrapavo, zdrajsasto spackano tkanino, kot slabo pobarvana, z madežnimi, lisastimi, pikčastimi variacijami odtenka, sinja nojeva
+pirha, po dolgem sklenjena drug ob drugega, da rob praznine izriše ozko hiperbolo, sfiltrirani v polmraku, s tem v roki bi stisnil pest,
+te fukiš hlače posnifal, hitro jih sleci, preden jih pošpricam, in naj me ta kot maslo brezmadežna, mehka, sladkasta kobilja stegna
+ukleščijo v brezkrvno paralizo, da se lahko toliko bolj zavem tankih krivuljic, prečipkane flikice, prostega ovijanja okoli najmikavnejše
+metropolitanske zone, čezgravitacijskega, vrtoglavičnega zoževanja pred črno luknjo pizdo, niti svetloba ji ne uide, te nikakršne gate
+in njihova na dno zadnjičnega kanala potopljena polcentimetrska vrvica, zlepljena v anusno ustje, okoli katere kot puding sočno
+plapolata biftkasti ritnici, nikar jih ne vleci spred pičke, jaz jih bom slekel, odgriznil, pogoltnil, kakor ti bom v enem sunku raztrgal
+srajco, da bodo gumbi na parketu žvenketali kot pest vrtavkastih kovancev, ko se kroženje naglo upočasnjuje do grba ali cifre,
+
+neumorni škržati, sploh pa ničesar ne stori, dokler v dlani ne pridržim te mitološke joške, kot nekdo v neki pripovedi zlat sad, in slepec
+ne otipam pisave njenega ranljivo otrdelega, oglajeno hrapavega peclja, po vsem tem se bova lahko zdaj s tvojo usodnostno nujno,
+samoumevno pomočjo, vsak gib sam od sebe natanko na mestu in času (jaz sem že nag), slekla; po fantazmatski selekciji sva
+neodložljivo prehitela vso kvašenje, mesenje in vzhajanje iz uda na ud do uverture v tisto odurno mlasketajoče zbadanje človeka v
+človeka, do ciljanja pičke, te nadrajcljive klasike, brez vzburjenja tudi še kar vzburljive, največkrat pa rutiniranega preboja v več
+rutiniranih prebojev, najkratkočasnejšem dolgočasnem ponavljanju vseh časov, če seveda zašel v nesrečni koincidenci ne sovpade z
+neznanjem, nesposobnostjo in aktivno deviško kožico, končno brez pojma, kam se hoče zaleteti, v pičko ali obzidje, primerljive le še
+z redkimi vzhičeno navdušenje med otrdelim sopihanjem, kot bi se od sle tik pred konzumacijo spreminjal v kamen, razplamtevajočimi
+razrajcanji (nič ne zrajca kot to misliti), vsa tista sopara v zraku med nogama, komaj stikajoči se trkci in drgnjenja pri mišični nožni
+notrini, dlakah, kito med medenico in stegnenico, nezaslišano pričakovanje, preden jo boš odrl, sapica strahu nad zasanjanim
+preračunavanjem, kdaj bo prvikrat zbodlo, v sliko na čutu raztegnjen čelni dotik z oljnato našobljenostjo vulvične planotice,
+dramečega se ognjenika, kamor ga boš namočil, v lavo, in kakor zdaj, tipajoče roke za do kraja prekrvavljenim, s tremi prsti se nežno
+oprime glavice in nastavlja, kot skozi šivankino uho, kot s čopičem po platnu drsi gor in dol, sem in tja okoli osočnjene vdrtine in morda
+tiho dahne zdaj zdaj daj, ko končno plazeč se milimeter za milimetrom začne razklepati sklenjene mesne stene, med katerimi se kot
+prilepljen nanje drgne v lasten odtis; in sva se, s tisto zadržanostjo, skoraj plašljivostjo, pri prvem kurčevem zdrsu v pičko se je
+zlagoma spustila do konca, vzluknjila se je in ga vzela nase, svoj manko, tesno, z neboleče zaostreno bolečino ga je objela domov, od
+koder je prišel in kamor se lahko vrača le s tem jalovim, nesnažnim zabijanjem v zid, ter se po krožnem gibu za kar najzanesljivejše
+prostorsko razprtje v prid prodiranju brez upora, ponavljajoč vso intenzivno kalvarijo pri vstopni rani, da šele zares zaprepade,
+dvignila v nasprotno smer, kot bi iz zaklanega izvlekel nož, zdaj končno tudi uradno fukava (ali pa je potrebno rinjenje noter in ven
+nekajkrat ponoviti, trikrat, štirikrat, petkrat?), tako da le vnovič utelesi subtilno polpočepno impresijo, z vsako elipso okoli medenične
+osi manj plaho, brzdano, sterilno proti odfukajoči frekvenci, kot vse hitrejših vrtljajih ojnice na lokomotivi, dokler te ne bom nabijal,
+da bi si razbila glavo na stropu, če te ne bi vsak kurčev šus v raztegnjeno pičko s špeh grabečima rokama nad ritnicama pod križem
+sunkovito pritiskal navzdol, in sva se, razjebala do fuka; v tem trenutku, zategnjen kot v epileptičnem šoku skoraj ležeč na tleh z od
+stiskanja spačenim obrazom, takšnega ima, kdor se z zadnjimi močmi bori proti kondicijski nemoči, z odprtimi usti, iz katerih brbota
+podganje hropenje, nemo simulirajoč krik mučenika, z levico skrempljeno ščipajoč v pleče in desnico kot za življenje stiskajočo kurca,
+bolj vročo podolgovato skalo, z besnim raztezanjem kože v vse nasprotne smeri, hitrimi potegi, kolikor gre, dol, da zapeče, kjer se
+četrtcentimetrski štrikec drži glavičnega srčka, in, kolikor gre, gor, da zaskeli, kako se hoče ud odtrgati od jajc, trikrat, štirikrat,
+petkrat, sedemkrat etc. na sekundo … šele v tem trenutku se je magična glasba, ne vem, kolikokrat že ponavljajoč se šlagerček, s
+popolno čarovnijo razlila v zrak, uho, odejo, mizo, mezinček na nogi, utripanje v očesu … od razbeljenega navdušenja iz ušes v
+želodec, želodca v dihanje, dihanja nazaj, od koder se neizčrpno kot nezaustavljen val vrača nazaj in nazaj in nazaj, iz minevanja v
+kurac, iz kurca v minevanje, zavest, vest, svet, red, bi se lahko skozlal, šele ta trenutek sem postal do presunljivega brezmejnega
+prebliska hiperzadet, zadrogiranost se je, nezmožna več slediti razblinjajočim se besedam, še preden so se sploh do kraja oblikovale,
+materializirala v čut, res, haluciniral sem z vsemi čutili, vonjal njen parfum … svetle linije, ki takoj ob stiku z nosnicama začnejo prek
+zlagoma padajoče pasaže temneti, spreminjajoč se v zasanjano sladkobo z aromo sočnega sadeža na vršičku vonjave … na kolenu sem
+vsako sekundo … v katere ravno prav odmerjenem kliku so njeni prsti zamigotali kot črvički ali rožički ali mravlje na pravkar
+razgrabljenem mravljišču, sršeči ščegetajočo draž … na novo registriral njen dotik, med najinim skupaj zadimljenim sopihanjem sem
+tipal za njenim glasom … s ščepcem kot peresce lahnega žameta posutim spevnim altom … videl sem krogličasta vretenca sredi v
+tresljavo zadnjico razširjenega hrbta, prek bledorožnate, vilinske polti posuta temnorjava pikčasta znamenja in kar naprej sem se
+zagledoval v zadnjo plat pod hlačami … neoblinastih ritnic v zlizanih temnomodrih kavbojkah, kupčkaste hribčke za hrapavo, zdrajsano
+spackano tkanino …, vse obsevano z glasbo, ne vedoč, kje se začne muziciranje in kdaj končajo prividi, imel sem jo tesno na sebi in
+takšno sem jo divjaško fukal in bilo je, da drkanje iz jajc ne črpa le semena, marveč hoče iz nevidnih kapilaric v jajcih izsrkati kri, iz
+na kurcu preklanih žil, iz zbesnele aorte še nadaljnje tkivo, kar ga je, celico za celico iz organov, kosti, mišic, pljuč, jeter, dlak,
+nohtov, srca, možganov ,…, organizem kot tak hoče izpljuniti, življenje, mišljenje, eno z drugim in eno v drugem, slednji preblisk na
+misel …, vse, ejakuliral bom samega sebe, špricnil v nič; in šele ta hip (o, kako sem bil takoj za tem z vsem bitjem prestrašen, kot bi
+po zaobjetju umetniškega dela očiščenje zamenjal strah, kot katarza neotipljivo izzvenjajoč skozi minevanje), onemogel od enega
+samega brezmernega, pošastnega in grozljivega uživanja, sem jo dokončno in resnično vzljubil, kakor da so sla in slast in slad in
+sladostrastje, prekipevajoče do blaznosti, implozirajoča eksplozija, poogromnjene kot supernova, le zakrnel privesek temu edinemu
+resničnemu, dobremu in lepemu, čistemu, absolutnemu in neskončnemu, kajti to minuto sem jo vzljubil in ljubil, ljubil čez smrt. Z v
+grlu razbijajočim srcem in strahom pred dihanjem sem videl gosto razmazano spermo na roki, kot bi bila izloček te ljubezni. Tako se
+
+85
+
+je slednja dopolnila, otrok, tujec in prišlek je prišla do svojega pojma in vnaprej, vnazaj in zdaj na sebi in za sebe postala to, kar je.
+
+ID.IOT.SI
+
+

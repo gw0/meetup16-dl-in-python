@@ -34,4 +34,6 @@ Copyright &copy; 2016 *gw0* [<http://gw.tnode.com/>] &lt;<gw.2016@tnode.com>&gt;
 
 Copyright &copy; 2015 *François Chollet*, *Google, Inc.* and respective contributors to some examples in [Keras](http://github.com/fchollet/keras)
 
+Slovenian poetry and prose is from <http://lit.ijs.si/>. I.D.I.O.T poetry and prose is from <http://id.iot.si/>.
+
 This code is licensed under the [MIT license](LICENSE_MIT.txt) (*MIT*).
